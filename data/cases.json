@@ -470,5 +470,2345 @@
     "preview_mode": "none",
     "added_at": "2026-09-24",
     "verified_at": "2026-09-24"
+  },
+  {
+    "id": "momiji",
+    "title": {
+      "en": "Momiji",
+      "zh-CN": "Momiji（红叶狩）"
+    },
+    "summary": {
+      "en": "A meditative Three.js scene that follows a maple tree from dawn into moonlight.",
+      "zh-CN": "Three.js 枫叶昼夜氛围互动体验；maple tree from dawn to moonlight."
+    },
+    "description": {
+      "en": "A meditative Three.js scene that follows a maple tree from dawn into moonlight. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "Three.js 枫叶昼夜氛围互动体验；maple tree from dawn to moonlight. 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "thommie99",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://momijigari.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2102940352630214858",
+    "x_post_url": "https://x.com/threejs/status/2102940352630214858",
+    "cover_url": "/cases/momiji.jpg",
+    "cover_source_url": "https://momijigari.vercel.app/",
+    "cover_alt": {
+      "en": "Momiji browser game screenshot",
+      "zh-CN": "Momiji（红叶狩） 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A meditative Three.js scene that follows a maple tree from dawn into moonlight.",
+      "zh-CN": "Three.js 枫叶昼夜氛围互动体验；maple tree from dawn to moonlight."
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "tidewater",
+    "title": {
+      "en": "Tidewater",
+      "zh-CN": "Tidewater"
+    },
+    "summary": {
+      "en": "An open island exploration game with a compact browser sandbox to roam.",
+      "zh-CN": "岛上开放探索小游戏 Tidewater（@dangreenheck）；可玩岛屿沙盒。"
+    },
+    "description": {
+      "en": "An open island exploration game with a compact browser sandbox to roam. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "岛上开放探索小游戏 Tidewater（@dangreenheck）；可玩岛屿沙盒。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "dangreenheck",
+    "platforms": [
+      "web"
+    ],
+    "genre": "adventure",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://dgreenheck.github.io/tidewater/",
+    "source_url": "https://x.com/threejs/status/2102921829447090584",
+    "x_post_url": "https://x.com/threejs/status/2102921829447090584",
+    "cover_url": "/cases/tidewater.jpg",
+    "cover_source_url": "https://dgreenheck.github.io/tidewater/",
+    "cover_alt": {
+      "en": "Tidewater browser game screenshot",
+      "zh-CN": "Tidewater 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An open island exploration game with a compact browser sandbox to roam.",
+      "zh-CN": "岛上开放探索小游戏 Tidewater（@dangreenheck）；可玩岛屿沙盒。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "neon-roads",
+    "title": {
+      "en": "Neon Roads",
+      "zh-CN": "Neon Roads"
+    },
+    "summary": {
+      "en": "A neon-lit road racing and driving game published on itch.io.",
+      "zh-CN": "霓虹公路赛/驾驶风 itch 小游戏 Neon Roads。"
+    },
+    "description": {
+      "en": "A neon-lit road racing and driving game published on itch.io. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "霓虹公路赛/驾驶风 itch 小游戏 Neon Roads。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "racing",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://neonroads.itch.io/neon-roads",
+    "source_url": "https://x.com/threejs/status/2102088975494357284",
+    "x_post_url": "https://x.com/threejs/status/2102088975494357284",
+    "cover_url": "/cases/neon-roads.jpg",
+    "cover_source_url": "https://neonroads.itch.io/neon-roads",
+    "cover_alt": {
+      "en": "Neon Roads browser game screenshot",
+      "zh-CN": "Neon Roads 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A neon-lit road racing and driving game published on itch.io.",
+      "zh-CN": "霓虹公路赛/驾驶风 itch 小游戏 Neon Roads。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "koi-canal",
+    "title": {
+      "en": "Koi Canal",
+      "zh-CN": "Koi Canal（锦鲤运河）"
+    },
+    "summary": {
+      "en": "A peaceful ride through a waterside garden filled with koi and reflective canals.",
+      "zh-CN": "锦鲤运河水面花园骑行互动体验。"
+    },
+    "description": {
+      "en": "A peaceful ride through a waterside garden filled with koi and reflective canals. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "锦鲤运河水面花园骑行互动体验。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "DilumSanjaya",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://koi-canal.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2100528969242304761",
+    "x_post_url": "https://x.com/threejs/status/2100528969242304761",
+    "cover_url": "/cases/koi-canal.jpg",
+    "cover_source_url": "https://koi-canal.vercel.app/",
+    "cover_alt": {
+      "en": "Koi Canal browser game screenshot",
+      "zh-CN": "Koi Canal（锦鲤运河） 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A peaceful ride through a waterside garden filled with koi and reflective canals.",
+      "zh-CN": "锦鲤运河水面花园骑行互动体验。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "baseball-pinball",
+    "title": {
+      "en": "Baseball Pinball",
+      "zh-CN": "Baseball Pinball（野球盘弹珠）"
+    },
+    "summary": {
+      "en": "An arcade mash-up that turns baseball batting into a pinball challenge.",
+      "zh-CN": "野球盘 × 弹珠台混合街机 Baseball Pinball。"
+    },
+    "description": {
+      "en": "An arcade mash-up that turns baseball batting into a pinball challenge. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "野球盘 × 弹珠台混合街机 Baseball Pinball。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "oab10don",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://baseball-pinball.pages.dev/",
+    "source_url": "https://x.com/threejs/status/2100218203280638432",
+    "x_post_url": "https://x.com/threejs/status/2100218203280638432",
+    "cover_url": "/cases/baseball-pinball.jpg",
+    "cover_source_url": "https://baseball-pinball.pages.dev/",
+    "cover_alt": {
+      "en": "Baseball Pinball browser game screenshot",
+      "zh-CN": "Baseball Pinball（野球盘弹珠） 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An arcade mash-up that turns baseball batting into a pinball challenge.",
+      "zh-CN": "野球盘 × 弹珠台混合街机 Baseball Pinball。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "whack",
+    "title": {
+      "en": "WHACK!",
+      "zh-CN": "WHACK!"
+    },
+    "summary": {
+      "en": "A fast arcade game built around quick reactions and whack-a-mole action.",
+      "zh-CN": "打地鼠类快节奏街机 WHACK!。"
+    },
+    "description": {
+      "en": "A fast arcade game built around quick reactions and whack-a-mole action. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "打地鼠类快节奏街机 WHACK!。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "bytesworms",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://whack-game.pages.dev/",
+    "source_url": "https://x.com/threejs/status/2099742447857471737",
+    "x_post_url": "https://x.com/threejs/status/2099742447857471737",
+    "cover_url": "/cases/whack.jpg",
+    "cover_source_url": "https://whack-game.pages.dev/",
+    "cover_alt": {
+      "en": "WHACK! browser game screenshot",
+      "zh-CN": "WHACK! 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A fast arcade game built around quick reactions and whack-a-mole action.",
+      "zh-CN": "打地鼠类快节奏街机 WHACK!。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "counter-strike-in-browser",
+    "title": {
+      "en": "Counter-Strike in Browser",
+      "zh-CN": "Counter-Strike in Browser"
+    },
+    "summary": {
+      "en": "A browser FPS inspired by Counter-Strike and the classic Dust II layout.",
+      "zh-CN": "浏览器内 Dust2 风格 FPS（Counter-Strike in Browser）。"
+    },
+    "description": {
+      "en": "A browser FPS inspired by Counter-Strike and the classic Dust II layout. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "浏览器内 Dust2 风格 FPS（Counter-Strike in Browser）。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "prasenx",
+    "platforms": [
+      "web"
+    ],
+    "genre": "shooter",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://starknightt.github.io/counter-strike-in-browser/",
+    "source_url": "https://x.com/threejs/status/2099586591903932651",
+    "x_post_url": "https://x.com/threejs/status/2099586591903932651",
+    "cover_url": "/cases/counter-strike-in-browser.jpg",
+    "cover_source_url": "https://starknightt.github.io/counter-strike-in-browser/",
+    "cover_alt": {
+      "en": "Counter-Strike in Browser browser game screenshot",
+      "zh-CN": "Counter-Strike in Browser 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A browser FPS inspired by Counter-Strike and the classic Dust II layout.",
+      "zh-CN": "浏览器内 Dust2 风格 FPS（Counter-Strike in Browser）。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "natsu",
+    "title": {
+      "en": "NATSU",
+      "zh-CN": "NATSU（夏日静帧）"
+    },
+    "summary": {
+      "en": "An atmospheric interactive summer scene designed like a living still frame.",
+      "zh-CN": "夏日静帧氛围互动场景 NATSU。"
+    },
+    "description": {
+      "en": "An atmospheric interactive summer scene designed like a living still frame. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "夏日静帧氛围互动场景 NATSU。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "Spectromachina",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://serene-tanuki-b4e480.netlify.app/",
+    "source_url": "https://x.com/threejs/status/2097648563203281308",
+    "x_post_url": "https://x.com/threejs/status/2097648563203281308",
+    "cover_url": "/cases/natsu.jpg",
+    "cover_source_url": "https://serene-tanuki-b4e480.netlify.app/",
+    "cover_alt": {
+      "en": "NATSU browser game screenshot",
+      "zh-CN": "NATSU（夏日静帧） 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An atmospheric interactive summer scene designed like a living still frame.",
+      "zh-CN": "夏日静帧氛围互动场景 NATSU。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "gunfight",
+    "title": {
+      "en": "Gunfight",
+      "zh-CN": "Gunfight"
+    },
+    "summary": {
+      "en": "A compact two-player browser gunfight with direct arcade controls.",
+      "zh-CN": "双人对射/枪战小游戏 Gunfight。"
+    },
+    "description": {
+      "en": "A compact two-player browser gunfight with direct arcade controls. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "双人对射/枪战小游戏 Gunfight。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "leslie0612",
+    "platforms": [
+      "web"
+    ],
+    "genre": "shooter",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://leslie06.github.io/gun-fight/",
+    "source_url": "https://x.com/threejs/status/2097366742850830514",
+    "x_post_url": "https://x.com/threejs/status/2097366742850830514",
+    "cover_url": "/cases/gunfight.jpg",
+    "cover_source_url": "https://leslie06.github.io/gun-fight/",
+    "cover_alt": {
+      "en": "Gunfight browser game screenshot",
+      "zh-CN": "Gunfight 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A compact two-player browser gunfight with direct arcade controls.",
+      "zh-CN": "双人对射/枪战小游戏 Gunfight。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "the-simpsons-hit-run",
+    "title": {
+      "en": "The Simpsons: Hit & Run",
+      "zh-CN": "The Simpsons: Hit & Run"
+    },
+    "summary": {
+      "en": "A browser tribute that recreates the driving and exploration of The Simpsons: Hit & Run.",
+      "zh-CN": "辛普森 Hit & Run Web 重制/致敬版。"
+    },
+    "description": {
+      "en": "A browser tribute that recreates the driving and exploration of The Simpsons: Hit & Run. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "辛普森 Hit & Run Web 重制/致敬版。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "CtrlAltDwayne",
+    "platforms": [
+      "web"
+    ],
+    "genre": "action",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://vheissu.github.io/hit-and-run-web/",
+    "source_url": "https://x.com/threejs/status/2096919804422582459",
+    "x_post_url": "https://x.com/threejs/status/2096919804422582459",
+    "cover_url": "/cases/the-simpsons-hit-run.jpg",
+    "cover_source_url": "https://vheissu.github.io/hit-and-run-web/",
+    "cover_alt": {
+      "en": "The Simpsons: Hit & Run browser game screenshot",
+      "zh-CN": "The Simpsons: Hit & Run 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A browser tribute that recreates the driving and exploration of The Simpsons: Hit & Run.",
+      "zh-CN": "辛普森 Hit & Run Web 重制/致敬版。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "storm-race",
+    "title": {
+      "en": "Storm Race",
+      "zh-CN": "Storm Race"
+    },
+    "summary": {
+      "en": "A stylized racing game that sends cars through dramatic storm conditions.",
+      "zh-CN": "风暴赛车 Storm Race（土屋风格）。"
+    },
+    "description": {
+      "en": "A stylized racing game that sends cars through dramatic storm conditions. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "风暴赛车 Storm Race（土屋风格）。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "BubuStd",
+    "platforms": [
+      "web"
+    ],
+    "genre": "racing",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://storm-race.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2096864793873547713",
+    "x_post_url": "https://x.com/threejs/status/2096864793873547713",
+    "cover_url": "/cases/storm-race.jpg",
+    "cover_source_url": "https://storm-race.vercel.app/",
+    "cover_alt": {
+      "en": "Storm Race browser game screenshot",
+      "zh-CN": "Storm Race 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A stylized racing game that sends cars through dramatic storm conditions.",
+      "zh-CN": "风暴赛车 Storm Race（土屋风格）。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "zork-underground-empire",
+    "title": {
+      "en": "Zork: Underground Empire",
+      "zh-CN": "Zork: Underground Empire"
+    },
+    "summary": {
+      "en": "A browser adaptation of the classic text adventure Zork: The Underground Empire.",
+      "zh-CN": "经典文字冒险 Zork 浏览器版 Underground Empire。"
+    },
+    "description": {
+      "en": "A browser adaptation of the classic text adventure Zork: The Underground Empire. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "经典文字冒险 Zork 浏览器版 Underground Empire。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "emollick",
+    "platforms": [
+      "web"
+    ],
+    "genre": "adventure",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://zork-underground-empire.netlify.app/",
+    "source_url": "https://x.com/threejs/status/2096132671063900420",
+    "x_post_url": "https://x.com/threejs/status/2096132671063900420",
+    "cover_url": "/cases/zork-underground-empire.jpg",
+    "cover_source_url": "https://zork-underground-empire.netlify.app/",
+    "cover_alt": {
+      "en": "Zork: Underground Empire browser game screenshot",
+      "zh-CN": "Zork: Underground Empire 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A browser adaptation of the classic text adventure Zork: The Underground Empire.",
+      "zh-CN": "经典文字冒险 Zork 浏览器版 Underground Empire。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "natsu-no-michi",
+    "title": {
+      "en": "Natsu no Michi",
+      "zh-CN": "Natsu no Michi（夏之道）"
+    },
+    "summary": {
+      "en": "A relaxed interactive journey along a nostalgic Japanese summer road.",
+      "zh-CN": "日式夏日公路氛围互动 Natsu no Michi。"
+    },
+    "description": {
+      "en": "A relaxed interactive journey along a nostalgic Japanese summer road. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "日式夏日公路氛围互动 Natsu no Michi。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "0xPaulius",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://cosy-japan.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2095697056900026435",
+    "x_post_url": "https://x.com/threejs/status/2095697056900026435",
+    "cover_url": "/cases/natsu-no-michi.jpg",
+    "cover_source_url": "https://cosy-japan.vercel.app/",
+    "cover_alt": {
+      "en": "Natsu no Michi browser game screenshot",
+      "zh-CN": "Natsu no Michi（夏之道） 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A relaxed interactive journey along a nostalgic Japanese summer road.",
+      "zh-CN": "日式夏日公路氛围互动 Natsu no Michi。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "keikoku-camp",
+    "title": {
+      "en": "Keikoku Camp",
+      "zh-CN": "Keikoku Camp（溪谷露营）"
+    },
+    "summary": {
+      "en": "A tranquil valley camping simulator with an explorable outdoor scene.",
+      "zh-CN": "溪谷露营模拟器 Keikoku Camp。"
+    },
+    "description": {
+      "en": "A tranquil valley camping simulator with an explorable outdoor scene. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "溪谷露营模拟器 Keikoku Camp。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "simulation",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://keikoku-camp.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2095438049195032827",
+    "x_post_url": "https://x.com/threejs/status/2095438049195032827",
+    "cover_url": "/cases/keikoku-camp.jpg",
+    "cover_source_url": "https://keikoku-camp.vercel.app/",
+    "cover_alt": {
+      "en": "Keikoku Camp browser game screenshot",
+      "zh-CN": "Keikoku Camp（溪谷露营） 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A tranquil valley camping simulator with an explorable outdoor scene.",
+      "zh-CN": "溪谷露营模拟器 Keikoku Camp。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "celadon",
+    "title": {
+      "en": "Celadon",
+      "zh-CN": "Celadon"
+    },
+    "summary": {
+      "en": "An atmospheric narrative exploration game titled Celadon: The Long Ash.",
+      "zh-CN": "Celadon — The Long Ash 互动叙事/探索。"
+    },
+    "description": {
+      "en": "An atmospheric narrative exploration game titled Celadon: The Long Ash. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "Celadon — The Long Ash 互动叙事/探索。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "winchxyz",
+    "platforms": [
+      "web"
+    ],
+    "genre": "adventure",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://winchxyz.github.io/celadon/",
+    "source_url": "https://x.com/threejs/status/2093492883391455248",
+    "x_post_url": "https://x.com/threejs/status/2093492883391455248",
+    "cover_url": "/cases/celadon.jpg",
+    "cover_source_url": "https://winchxyz.github.io/celadon/",
+    "cover_alt": {
+      "en": "Celadon browser game screenshot",
+      "zh-CN": "Celadon 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An atmospheric narrative exploration game titled Celadon: The Long Ash.",
+      "zh-CN": "Celadon — The Long Ash 互动叙事/探索。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "godawful",
+    "title": {
+      "en": "Godawful",
+      "zh-CN": "Godawful"
+    },
+    "summary": {
+      "en": "A darkly comic and surreal playable browser demo.",
+      "zh-CN": "Godawful：AI 向黑暗幽默/怪诞可玩 demo。"
+    },
+    "description": {
+      "en": "A darkly comic and surreal playable browser demo. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "Godawful：AI 向黑暗幽默/怪诞可玩 demo。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "DrorLazar_Ai",
+    "platforms": [
+      "web"
+    ],
+    "genre": "adventure",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://godawful.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2093363536068329798",
+    "x_post_url": "https://x.com/threejs/status/2093363536068329798",
+    "cover_url": "/cases/godawful.jpg",
+    "cover_source_url": "https://godawful.vercel.app/",
+    "cover_alt": {
+      "en": "Godawful browser game screenshot",
+      "zh-CN": "Godawful 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A darkly comic and surreal playable browser demo.",
+      "zh-CN": "Godawful：AI 向黑暗幽默/怪诞可玩 demo。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "nordic",
+    "title": {
+      "en": "Nordic",
+      "zh-CN": "Nordic"
+    },
+    "summary": {
+      "en": "A Nordic-styled snow and skiing game available through itch.io.",
+      "zh-CN": "北欧风滑雪/雪地 itch 游戏 Nordic。"
+    },
+    "description": {
+      "en": "A Nordic-styled snow and skiing game available through itch.io. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "北欧风滑雪/雪地 itch 游戏 Nordic。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "turtle_cdn",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://sundaymondays.itch.io/nordic",
+    "source_url": "https://x.com/threejs/status/2093175679693344861",
+    "x_post_url": "https://x.com/threejs/status/2093175679693344861",
+    "cover_url": "/cases/nordic.jpg",
+    "cover_source_url": "https://sundaymondays.itch.io/nordic",
+    "cover_alt": {
+      "en": "Nordic browser game screenshot",
+      "zh-CN": "Nordic 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A Nordic-styled snow and skiing game available through itch.io.",
+      "zh-CN": "北欧风滑雪/雪地 itch 游戏 Nordic。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "clean-beach",
+    "title": {
+      "en": "Clean Beach",
+      "zh-CN": "Clean Beach"
+    },
+    "summary": {
+      "en": "A light browser game about collecting litter and restoring a beach.",
+      "zh-CN": "清理海滩小游戏 Clean Beach。"
+    },
+    "description": {
+      "en": "A light browser game about collecting litter and restoring a beach. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "清理海滩小游戏 Clean Beach。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "givros",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://givros.github.io/cleanBeach/",
+    "source_url": "https://x.com/threejs/status/2091689760029045153",
+    "x_post_url": "https://x.com/threejs/status/2091689760029045153",
+    "cover_url": "/cases/clean-beach.jpg",
+    "cover_source_url": "https://givros.github.io/cleanBeach/",
+    "cover_alt": {
+      "en": "Clean Beach browser game screenshot",
+      "zh-CN": "Clean Beach 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A light browser game about collecting litter and restoring a beach.",
+      "zh-CN": "清理海滩小游戏 Clean Beach。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "gta-kenny-city",
+    "title": {
+      "en": "GTA Kenny-City",
+      "zh-CN": "GTA Kenny-City"
+    },
+    "summary": {
+      "en": "An open city sandbox inspired by the movement and chaos of GTA.",
+      "zh-CN": "GTA 风格开放城市场景 Kenny-City。"
+    },
+    "description": {
+      "en": "An open city sandbox inspired by the movement and chaos of GTA. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "GTA 风格开放城市场景 Kenny-City。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "XAFODIAN",
+    "platforms": [
+      "web"
+    ],
+    "genre": "action",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://gta-kenny-city.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2090646486854025659",
+    "x_post_url": "https://x.com/threejs/status/2090646486854025659",
+    "cover_url": "/cases/gta-kenny-city.jpg",
+    "cover_source_url": "https://gta-kenny-city.vercel.app/",
+    "cover_alt": {
+      "en": "GTA Kenny-City browser game screenshot",
+      "zh-CN": "GTA Kenny-City 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An open city sandbox inspired by the movement and chaos of GTA.",
+      "zh-CN": "GTA 风格开放城市场景 Kenny-City。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "speedball-gi",
+    "title": {
+      "en": "Speedball GI",
+      "zh-CN": "Speedball GI"
+    },
+    "summary": {
+      "en": "A playable Speedball demo paired with real-time DDGI lighting technology.",
+      "zh-CN": "Speedball + 实时 DDGI 技术展示型可玩 demo。"
+    },
+    "description": {
+      "en": "A playable Speedball demo paired with real-time DDGI lighting technology. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "Speedball + 实时 DDGI 技术展示型可玩 demo。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "cl0ne2k",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://cl0nazepamm.github.io/speedball/",
+    "source_url": "https://x.com/threejs/status/2090633024077733890",
+    "x_post_url": "https://x.com/threejs/status/2090633024077733890",
+    "cover_url": "/cases/speedball-gi.jpg",
+    "cover_source_url": "https://cl0nazepamm.github.io/speedball/",
+    "cover_alt": {
+      "en": "Speedball GI browser game screenshot",
+      "zh-CN": "Speedball GI 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A playable Speedball demo paired with real-time DDGI lighting technology.",
+      "zh-CN": "Speedball + 实时 DDGI 技术展示型可玩 demo。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "dirt-line",
+    "title": {
+      "en": "Dirt Line",
+      "zh-CN": "Dirt Line"
+    },
+    "summary": {
+      "en": "An off-road motorcycle game built around dirt tracks and fast riding.",
+      "zh-CN": "越野摩托 Dirt Line。"
+    },
+    "description": {
+      "en": "An off-road motorcycle game built around dirt tracks and fast riding. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "越野摩托 Dirt Line。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "AlexStLouis10",
+    "platforms": [
+      "web"
+    ],
+    "genre": "racing",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://dirtline.pages.dev/",
+    "source_url": "https://x.com/threejs/status/2089978675148325083",
+    "x_post_url": "https://x.com/threejs/status/2089978675148325083",
+    "cover_url": "/cases/dirt-line.jpg",
+    "cover_source_url": "https://dirtline.pages.dev/",
+    "cover_alt": {
+      "en": "Dirt Line browser game screenshot",
+      "zh-CN": "Dirt Line 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An off-road motorcycle game built around dirt tracks and fast riding.",
+      "zh-CN": "越野摩托 Dirt Line。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "pch-cruise",
+    "title": {
+      "en": "PCH Cruise",
+      "zh-CN": "PCH Cruise"
+    },
+    "summary": {
+      "en": "A Pacific Coast Highway driving showcase whose original public build is currently unavailable.",
+      "zh-CN": "太平洋海岸公路巡游（页面当前 404）。"
+    },
+    "description": {
+      "en": "A Pacific Coast Highway driving showcase whose original public build is currently unavailable. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "太平洋海岸公路巡游（页面当前 404）。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "majidmanzarpour",
+    "platforms": [
+      "web"
+    ],
+    "genre": "racing",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "showcase",
+    "play_url": null,
+    "source_url": "https://x.com/threejs/status/2089864159815221364",
+    "x_post_url": "https://x.com/threejs/status/2089864159815221364",
+    "cover_url": "/cases/pch-cruise.jpg",
+    "cover_source_url": "https://x.com/threejs/status/2089864159815221364",
+    "cover_alt": {
+      "en": "PCH Cruise browser game screenshot",
+      "zh-CN": "PCH Cruise 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A Pacific Coast Highway driving showcase whose original public build is currently unavailable.",
+      "zh-CN": "太平洋海岸公路巡游（页面当前 404）。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "none",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "off-road-earth",
+    "title": {
+      "en": "Off Road Earth",
+      "zh-CN": "Off Road Earth"
+    },
+    "summary": {
+      "en": "An open-world off-road driving game with large outdoor terrain.",
+      "zh-CN": "开放世界越野 Off Road Earth。"
+    },
+    "description": {
+      "en": "An open-world off-road driving game with large outdoor terrain. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "开放世界越野 Off Road Earth。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "racing",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://offroadearth.com/",
+    "source_url": "https://x.com/threejs/status/2089497294962041196",
+    "x_post_url": "https://x.com/threejs/status/2089497294962041196",
+    "cover_url": "/cases/off-road-earth.jpg",
+    "cover_source_url": "https://offroadearth.com/",
+    "cover_alt": {
+      "en": "Off Road Earth browser game screenshot",
+      "zh-CN": "Off Road Earth 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An open-world off-road driving game with large outdoor terrain.",
+      "zh-CN": "开放世界越野 Off Road Earth。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "water-ring-toss",
+    "title": {
+      "en": "Water Ring Toss",
+      "zh-CN": "Water Ring Toss"
+    },
+    "summary": {
+      "en": "A tactile browser recreation of the classic water ring toss toy.",
+      "zh-CN": "套圈小游戏 Water Ring Toss。"
+    },
+    "description": {
+      "en": "A tactile browser recreation of the classic water ring toss toy. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "套圈小游戏 Water Ring Toss。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://projects.arkon.digital/threejs/water-ring-toss-game/",
+    "source_url": "https://x.com/threejs/status/2088413654526181504",
+    "x_post_url": "https://x.com/threejs/status/2088413654526181504",
+    "cover_url": "/cases/water-ring-toss.jpg",
+    "cover_source_url": "https://projects.arkon.digital/threejs/water-ring-toss-game/",
+    "cover_alt": {
+      "en": "Water Ring Toss browser game screenshot",
+      "zh-CN": "Water Ring Toss 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A tactile browser recreation of the classic water ring toss toy.",
+      "zh-CN": "套圈小游戏 Water Ring Toss。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "regolith",
+    "title": {
+      "en": "REGOLITH",
+      "zh-CN": "REGOLITH（月球漫游）"
+    },
+    "summary": {
+      "en": "A lunar rover exploration game set across a stylized moon landscape.",
+      "zh-CN": "月球漫游 REGOLITH / Moon Rover 可玩探索。"
+    },
+    "description": {
+      "en": "A lunar rover exploration game set across a stylized moon landscape. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "月球漫游 REGOLITH / Moon Rover 可玩探索。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "winchxyz",
+    "platforms": [
+      "web"
+    ],
+    "genre": "adventure",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://winchxyz.github.io/moon-rover/",
+    "source_url": "https://x.com/threejs/status/2088160922695344589",
+    "x_post_url": "https://x.com/threejs/status/2088160922695344589",
+    "cover_url": "/cases/regolith.jpg",
+    "cover_source_url": "https://winchxyz.github.io/moon-rover/",
+    "cover_alt": {
+      "en": "REGOLITH browser game screenshot",
+      "zh-CN": "REGOLITH（月球漫游） 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A lunar rover exploration game set across a stylized moon landscape.",
+      "zh-CN": "月球漫游 REGOLITH / Moon Rover 可玩探索。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "skate-dog",
+    "title": {
+      "en": "Skate Dog",
+      "zh-CN": "Skate Dog"
+    },
+    "summary": {
+      "en": "A playful skating game starring a dog on a board.",
+      "zh-CN": "滑板狗 Skate Dog 休闲操控小游戏。"
+    },
+    "description": {
+      "en": "A playful skating game starring a dog on a board. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "滑板狗 Skate Dog 休闲操控小游戏。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "McGreenBeats",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://skate-dog.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2088150813223051658",
+    "x_post_url": "https://x.com/threejs/status/2088150813223051658",
+    "cover_url": "/cases/skate-dog.jpg",
+    "cover_source_url": "https://skate-dog.vercel.app/",
+    "cover_alt": {
+      "en": "Skate Dog browser game screenshot",
+      "zh-CN": "Skate Dog 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A playful skating game starring a dog on a board.",
+      "zh-CN": "滑板狗 Skate Dog 休闲操控小游戏。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "flowline",
+    "title": {
+      "en": "FLOWLINE",
+      "zh-CN": "FLOWLINE"
+    },
+    "summary": {
+      "en": "An endless downhill snow game about carving a clean line through the mountains.",
+      "zh-CN": "FLOWLINE 无尽雪山滑行。"
+    },
+    "description": {
+      "en": "An endless downhill snow game about carving a clean line through the mountains. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "FLOWLINE 无尽雪山滑行。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "Alezander9",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://flowline.games.bu.app/",
+    "source_url": "https://x.com/threejs/status/2088116723824423051",
+    "x_post_url": "https://x.com/threejs/status/2088116723824423051",
+    "cover_url": "/cases/flowline.jpg",
+    "cover_source_url": "https://flowline.games.bu.app/",
+    "cover_alt": {
+      "en": "FLOWLINE browser game screenshot",
+      "zh-CN": "FLOWLINE 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An endless downhill snow game about carving a clean line through the mountains.",
+      "zh-CN": "FLOWLINE 无尽雪山滑行。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "elysium-commons",
+    "title": {
+      "en": "Elysium Commons",
+      "zh-CN": "Elysium Commons（火星公园）"
+    },
+    "summary": {
+      "en": "A WebGPU exploration experience set in a public park on Mars.",
+      "zh-CN": "火星公园 Elysium Commons（WebGPU）。"
+    },
+    "description": {
+      "en": "A WebGPU exploration experience set in a public park on Mars. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "火星公园 Elysium Commons（WebGPU）。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "scottstts",
+    "platforms": [
+      "web"
+    ],
+    "genre": "adventure",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://mars.scottsun.io/",
+    "source_url": "https://x.com/threejs/status/2087814483762962775",
+    "x_post_url": "https://x.com/threejs/status/2087814483762962775",
+    "cover_url": "/cases/elysium-commons.jpg",
+    "cover_source_url": "https://mars.scottsun.io/",
+    "cover_alt": {
+      "en": "Elysium Commons browser game screenshot",
+      "zh-CN": "Elysium Commons（火星公园） 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A WebGPU exploration experience set in a public park on Mars.",
+      "zh-CN": "火星公园 Elysium Commons（WebGPU）。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "revo-realms",
+    "title": {
+      "en": "Revo Realms",
+      "zh-CN": "Revo Realms"
+    },
+    "summary": {
+      "en": "A stylized football game built around compact competitive arenas.",
+      "zh-CN": "足球/领域向 Revo Realms。"
+    },
+    "description": {
+      "en": "A stylized football game built around compact competitive arenas. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "足球/领域向 Revo Realms。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "aleksgjoreski",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://revo-realms.aleksandargjoreski.dev/",
+    "source_url": "https://x.com/threejs/status/2087719670124290058",
+    "x_post_url": "https://x.com/threejs/status/2087719670124290058",
+    "cover_url": "/cases/revo-realms.jpg",
+    "cover_source_url": "https://revo-realms.aleksandargjoreski.dev/",
+    "cover_alt": {
+      "en": "Revo Realms browser game screenshot",
+      "zh-CN": "Revo Realms 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A stylized football game built around compact competitive arenas.",
+      "zh-CN": "足球/领域向 Revo Realms。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "hard-road",
+    "title": {
+      "en": "Hard Road",
+      "zh-CN": "Hard Road"
+    },
+    "summary": {
+      "en": "A post-apocalyptic driving game set on a dangerous road.",
+      "zh-CN": "末世驾驶 Hard Road。"
+    },
+    "description": {
+      "en": "A post-apocalyptic driving game set on a dangerous road. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "末世驾驶 Hard Road。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "racing",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://hardroad.xyz/",
+    "source_url": "https://x.com/threejs/status/2087025842295857600",
+    "x_post_url": "https://x.com/threejs/status/2087025842295857600",
+    "cover_url": "/cases/hard-road.jpg",
+    "cover_source_url": "https://hardroad.xyz/",
+    "cover_alt": {
+      "en": "Hard Road browser game screenshot",
+      "zh-CN": "Hard Road 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A post-apocalyptic driving game set on a dangerous road.",
+      "zh-CN": "末世驾驶 Hard Road。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "sky-fang",
+    "title": {
+      "en": "Sky Fang",
+      "zh-CN": "Sky Fang"
+    },
+    "summary": {
+      "en": "A dragon-focused action game published as a playable itch.io project.",
+      "zh-CN": "itch 龙向动作 Sky Fang。"
+    },
+    "description": {
+      "en": "A dragon-focused action game published as a playable itch.io project. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "itch 龙向动作 Sky Fang。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "yugiriworks",
+    "platforms": [
+      "web"
+    ],
+    "genre": "action",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://yugiriworks.itch.io/sky-fang",
+    "source_url": "https://x.com/threejs/status/2086391873590198713",
+    "x_post_url": "https://x.com/threejs/status/2086391873590198713",
+    "cover_url": "/cases/sky-fang.jpg",
+    "cover_source_url": "https://yugiriworks.itch.io/sky-fang",
+    "cover_alt": {
+      "en": "Sky Fang browser game screenshot",
+      "zh-CN": "Sky Fang 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A dragon-focused action game published as a playable itch.io project.",
+      "zh-CN": "itch 龙向动作 Sky Fang。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "wyrmhole",
+    "title": {
+      "en": "WYRMHOLE",
+      "zh-CN": "WYRMHOLE"
+    },
+    "summary": {
+      "en": "A free action game from Wavedash with a fast, unusual playable world.",
+      "zh-CN": "Wavedash 免费玩 WYRMHOLE。"
+    },
+    "description": {
+      "en": "A free action game from Wavedash with a fast, unusual playable world. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "Wavedash 免费玩 WYRMHOLE。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "action",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://wavedash.com/games/wyrmhole",
+    "source_url": "https://x.com/threejs/status/2086388003736535346",
+    "x_post_url": "https://x.com/threejs/status/2086388003736535346",
+    "cover_url": "/cases/wyrmhole.jpg",
+    "cover_source_url": "https://wavedash.com/games/wyrmhole",
+    "cover_alt": {
+      "en": "WYRMHOLE browser game screenshot",
+      "zh-CN": "WYRMHOLE 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A free action game from Wavedash with a fast, unusual playable world.",
+      "zh-CN": "Wavedash 免费玩 WYRMHOLE。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "battle-of-hoth-simulator",
+    "title": {
+      "en": "Battle of Hoth Simulator",
+      "zh-CN": "Battle of Hoth Simulator"
+    },
+    "summary": {
+      "en": "A browser simulation of the Battle of Hoth with large-scale units and combat.",
+      "zh-CN": "霍斯战役模拟 Battle of Hoth。"
+    },
+    "description": {
+      "en": "A browser simulation of the Battle of Hoth with large-scale units and combat. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "霍斯战役模拟 Battle of Hoth。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "csanz",
+    "platforms": [
+      "web"
+    ],
+    "genre": "simulation",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://battle-of-the-hoth-simulator.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2085553468505571670",
+    "x_post_url": "https://x.com/threejs/status/2085553468505571670",
+    "cover_url": "/cases/battle-of-hoth-simulator.jpg",
+    "cover_source_url": "https://battle-of-the-hoth-simulator.vercel.app/",
+    "cover_alt": {
+      "en": "Battle of Hoth Simulator browser game screenshot",
+      "zh-CN": "Battle of Hoth Simulator 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A browser simulation of the Battle of Hoth with large-scale units and combat.",
+      "zh-CN": "霍斯战役模拟 Battle of Hoth。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "mecha-redline",
+    "title": {
+      "en": "Mecha Redline",
+      "zh-CN": "Mecha Redline"
+    },
+    "summary": {
+      "en": "A high-speed racing game that combines mechs and futuristic tracks.",
+      "zh-CN": "机甲竞速 Mecha Redline（itch）。"
+    },
+    "description": {
+      "en": "A high-speed racing game that combines mechs and futuristic tracks. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "机甲竞速 Mecha Redline（itch）。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "kevin_t_ngo",
+    "platforms": [
+      "web"
+    ],
+    "genre": "racing",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://kengoworks.itch.io/mecha-redline",
+    "source_url": "https://x.com/threejs/status/2085184093453783406",
+    "x_post_url": "https://x.com/threejs/status/2085184093453783406",
+    "cover_url": "/cases/mecha-redline.jpg",
+    "cover_source_url": "https://kengoworks.itch.io/mecha-redline",
+    "cover_alt": {
+      "en": "Mecha Redline browser game screenshot",
+      "zh-CN": "Mecha Redline 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A high-speed racing game that combines mechs and futuristic tracks.",
+      "zh-CN": "机甲竞速 Mecha Redline（itch）。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "slopscroll",
+    "title": {
+      "en": "slopscroll",
+      "zh-CN": "slopscroll"
+    },
+    "summary": {
+      "en": "An endlessly scrolling surreal browser toy filled with strange encounters.",
+      "zh-CN": "无限滚动怪诞小品 slopscroll。"
+    },
+    "description": {
+      "en": "An endlessly scrolling surreal browser toy filled with strange encounters. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "无限滚动怪诞小品 slopscroll。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "fauxdufafa_",
+    "platforms": [
+      "web"
+    ],
+    "genre": "other",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://slopscroll.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2085169571443687472",
+    "x_post_url": "https://x.com/threejs/status/2085169571443687472",
+    "cover_url": "/cases/slopscroll.jpg",
+    "cover_source_url": "https://slopscroll.vercel.app/",
+    "cover_alt": {
+      "en": "slopscroll browser game screenshot",
+      "zh-CN": "slopscroll 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An endlessly scrolling surreal browser toy filled with strange encounters.",
+      "zh-CN": "无限滚动怪诞小品 slopscroll。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "barnyard-defenders",
+    "title": {
+      "en": "Barnyard Defenders",
+      "zh-CN": "Barnyard Defenders"
+    },
+    "summary": {
+      "en": "A tower defense game about protecting a farm from incoming threats.",
+      "zh-CN": "塔防 Barnyard Defenders。"
+    },
+    "description": {
+      "en": "A tower defense game about protecting a farm from incoming threats. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "塔防 Barnyard Defenders。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "strategy",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://barnyarddefenders.com/",
+    "source_url": "https://x.com/threejs/status/2084786375535243298",
+    "x_post_url": "https://x.com/threejs/status/2084786375535243298",
+    "cover_url": "/cases/barnyard-defenders.jpg",
+    "cover_source_url": "https://barnyarddefenders.com/",
+    "cover_alt": {
+      "en": "Barnyard Defenders browser game screenshot",
+      "zh-CN": "Barnyard Defenders 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A tower defense game about protecting a farm from incoming threats.",
+      "zh-CN": "塔防 Barnyard Defenders。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "sandbox-skate-scene",
+    "title": {
+      "en": "Sandbox Skate Scene",
+      "zh-CN": "Sandbox Skate Scene"
+    },
+    "summary": {
+      "en": "A playable skateboarding scene built in The Sandbox.",
+      "zh-CN": "The Sandbox 可玩场景（滑板向）。"
+    },
+    "description": {
+      "en": "A playable skateboarding scene built in The Sandbox. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "The Sandbox 可玩场景（滑板向）。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://studio.sandbox.game/play/0ab9fde7-b8e3-419a-8bf7-7b9c971d6232",
+    "source_url": "https://x.com/threejs/status/2084636900791329090",
+    "x_post_url": "https://x.com/threejs/status/2084636900791329090",
+    "cover_url": "/cases/sandbox-skate-scene.jpg",
+    "cover_source_url": "https://studio.sandbox.game/play/0ab9fde7-b8e3-419a-8bf7-7b9c971d6232",
+    "cover_alt": {
+      "en": "Sandbox Skate Scene browser game screenshot",
+      "zh-CN": "Sandbox Skate Scene 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A playable skateboarding scene built in The Sandbox.",
+      "zh-CN": "The Sandbox 可玩场景（滑板向）。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "medieval-3d-chess",
+    "title": {
+      "en": "Medieval 3D Chess",
+      "zh-CN": "Medieval 3D Chess"
+    },
+    "summary": {
+      "en": "A fully presented chess game played on a medieval 3D board.",
+      "zh-CN": "中世纪 3D 象棋 Medieval Chess。"
+    },
+    "description": {
+      "en": "A fully presented chess game played on a medieval 3D board. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "中世纪 3D 象棋 Medieval Chess。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "alexcooldev",
+    "platforms": [
+      "web"
+    ],
+    "genre": "strategy",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://medieval-3d-chess.rork.app/",
+    "source_url": "https://x.com/threejs/status/2084300733701398959",
+    "x_post_url": "https://x.com/threejs/status/2084300733701398959",
+    "cover_url": "/cases/medieval-3d-chess.jpg",
+    "cover_source_url": "https://medieval-3d-chess.rork.app/",
+    "cover_alt": {
+      "en": "Medieval 3D Chess browser game screenshot",
+      "zh-CN": "Medieval 3D Chess 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A fully presented chess game played on a medieval 3D board.",
+      "zh-CN": "中世纪 3D 象棋 Medieval Chess。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "taken",
+    "title": {
+      "en": "TAKEN",
+      "zh-CN": "TAKEN"
+    },
+    "summary": {
+      "en": "A rural UFO horror game set around a farm and an alien encounter.",
+      "zh-CN": "UFO 恐怖 TAKEN（农场）。"
+    },
+    "description": {
+      "en": "A rural UFO horror game set around a farm and an alien encounter. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "UFO 恐怖 TAKEN（农场）。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "survival",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://www.taken-game.com/play",
+    "source_url": "https://x.com/threejs/status/2084295610828812562",
+    "x_post_url": "https://x.com/threejs/status/2084295610828812562",
+    "cover_url": "/cases/taken.jpg",
+    "cover_source_url": "https://www.taken-game.com/play",
+    "cover_alt": {
+      "en": "TAKEN browser game screenshot",
+      "zh-CN": "TAKEN 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A rural UFO horror game set around a farm and an alien encounter.",
+      "zh-CN": "UFO 恐怖 TAKEN（农场）。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "pileup",
+    "title": {
+      "en": "PILEUP",
+      "zh-CN": "PILEUP"
+    },
+    "summary": {
+      "en": "A survival battle that places the player against an enormous swarm of insects.",
+      "zh-CN": "对战十万虫子 PILEUP。"
+    },
+    "description": {
+      "en": "A survival battle that places the player against an enormous swarm of insects. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "对战十万虫子 PILEUP。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "gill_works",
+    "platforms": [
+      "web"
+    ],
+    "genre": "survival",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://pileup-seven.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2084262570693964066",
+    "x_post_url": "https://x.com/threejs/status/2084262570693964066",
+    "cover_url": "/cases/pileup.jpg",
+    "cover_source_url": "https://pileup-seven.vercel.app/",
+    "cover_alt": {
+      "en": "PILEUP browser game screenshot",
+      "zh-CN": "PILEUP 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A survival battle that places the player against an enormous swarm of insects.",
+      "zh-CN": "对战十万虫子 PILEUP。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "tumble",
+    "title": {
+      "en": "TUMBLE",
+      "zh-CN": "TUMBLE（草甸）"
+    },
+    "summary": {
+      "en": "A walkable meadow experience with a soft, atmospheric grass world.",
+      "zh-CN": "可行走草甸 TUMBLE / Grass World。"
+    },
+    "description": {
+      "en": "A walkable meadow experience with a soft, atmospheric grass world. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "可行走草甸 TUMBLE / Grass World。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "cryptomanavan",
+    "platforms": [
+      "web"
+    ],
+    "genre": "adventure",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://grass-world-meadow.netlify.app/",
+    "source_url": "https://x.com/threejs/status/2084121976587821202",
+    "x_post_url": "https://x.com/threejs/status/2084121976587821202",
+    "cover_url": "/cases/tumble.jpg",
+    "cover_source_url": "https://grass-world-meadow.netlify.app/",
+    "cover_alt": {
+      "en": "TUMBLE browser game screenshot",
+      "zh-CN": "TUMBLE（草甸） 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A walkable meadow experience with a soft, atmospheric grass world.",
+      "zh-CN": "可行走草甸 TUMBLE / Grass World。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "pandora-flower",
+    "title": {
+      "en": "Pandora Flower",
+      "zh-CN": "Pandora Flower"
+    },
+    "summary": {
+      "en": "An interactive digital flower experience with richly animated forms.",
+      "zh-CN": "潘多拉花卉互动体验 flowers01。"
+    },
+    "description": {
+      "en": "An interactive digital flower experience with richly animated forms. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "潘多拉花卉互动体验 flowers01。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "artcreativecode",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://pandora-flower.artcreativecode.com/",
+    "source_url": "https://x.com/threejs/status/2077262109868544073",
+    "x_post_url": "https://x.com/threejs/status/2077262109868544073",
+    "cover_url": "/cases/pandora-flower.jpg",
+    "cover_source_url": "https://pandora-flower.artcreativecode.com/",
+    "cover_alt": {
+      "en": "Pandora Flower browser game screenshot",
+      "zh-CN": "Pandora Flower 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An interactive digital flower experience with richly animated forms.",
+      "zh-CN": "潘多拉花卉互动体验 flowers01。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "backroom",
+    "title": {
+      "en": "Backroom",
+      "zh-CN": "Backroom"
+    },
+    "summary": {
+      "en": "A browser exploration game set inside an unsettling backroom environment.",
+      "zh-CN": "Backroom 探索小游戏。"
+    },
+    "description": {
+      "en": "A browser exploration game set inside an unsettling backroom environment. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "Backroom 探索小游戏。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "survival",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://lo-th.github.io/backroom/",
+    "source_url": "https://x.com/threejs/status/2074799777452286138",
+    "x_post_url": "https://x.com/threejs/status/2074799777452286138",
+    "cover_url": "/cases/backroom.jpg",
+    "cover_source_url": "https://lo-th.github.io/backroom/",
+    "cover_alt": {
+      "en": "Backroom browser game screenshot",
+      "zh-CN": "Backroom 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A browser exploration game set inside an unsettling backroom environment.",
+      "zh-CN": "Backroom 探索小游戏。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "clanker-wars",
+    "title": {
+      "en": "Clanker Wars",
+      "zh-CN": "Clanker Wars"
+    },
+    "summary": {
+      "en": "A browser strategy and combat game centered on robot warfare.",
+      "zh-CN": "机器人战争 Clanker Wars。"
+    },
+    "description": {
+      "en": "A browser strategy and combat game centered on robot warfare. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "机器人战争 Clanker Wars。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "Opherv",
+    "platforms": [
+      "web"
+    ],
+    "genre": "strategy",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://www.clankerwars.wtf/",
+    "source_url": "https://x.com/threejs/status/2074072154430415085",
+    "x_post_url": "https://x.com/threejs/status/2074072154430415085",
+    "cover_url": "/cases/clanker-wars.jpg",
+    "cover_source_url": "https://www.clankerwars.wtf/",
+    "cover_alt": {
+      "en": "Clanker Wars browser game screenshot",
+      "zh-CN": "Clanker Wars 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A browser strategy and combat game centered on robot warfare.",
+      "zh-CN": "机器人战争 Clanker Wars。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "salaryman-corporate-apology-champion",
+    "title": {
+      "en": "Salaryman: Corporate Apology Champion",
+      "zh-CN": "Salaryman: Corporate Apology Champion"
+    },
+    "summary": {
+      "en": "A satirical arcade game about becoming the ultimate corporate apology champion.",
+      "zh-CN": "Salaryman — Corporate Apology Champion（itch 恶搞）。"
+    },
+    "description": {
+      "en": "A satirical arcade game about becoming the ultimate corporate apology champion. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "Salaryman — Corporate Apology Champion（itch 恶搞）。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://kurthustlecollective.itch.io/salaryman-corporate-apology-champion",
+    "source_url": "https://x.com/threejs/status/2071956712387379382",
+    "x_post_url": "https://x.com/threejs/status/2071956712387379382",
+    "cover_url": "/cases/salaryman-corporate-apology-champion.jpg",
+    "cover_source_url": "https://kurthustlecollective.itch.io/salaryman-corporate-apology-champion",
+    "cover_alt": {
+      "en": "Salaryman: Corporate Apology Champion browser game screenshot",
+      "zh-CN": "Salaryman: Corporate Apology Champion 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A satirical arcade game about becoming the ultimate corporate apology champion.",
+      "zh-CN": "Salaryman — Corporate Apology Champion（itch 恶搞）。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "snooker-simulator",
+    "title": {
+      "en": "Snooker Simulator",
+      "zh-CN": "Snooker Simulator"
+    },
+    "summary": {
+      "en": "An online multiplayer snooker simulator playable in the browser.",
+      "zh-CN": "在线多人 Snooker Simulator。"
+    },
+    "description": {
+      "en": "An online multiplayer snooker simulator playable in the browser. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "在线多人 Snooker Simulator。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "SnookerSimX",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://snookersim.com/",
+    "source_url": "https://x.com/threejs/status/2067373380001783918",
+    "x_post_url": "https://x.com/threejs/status/2067373380001783918",
+    "cover_url": "/cases/snooker-simulator.jpg",
+    "cover_source_url": "https://snookersim.com/",
+    "cover_alt": {
+      "en": "Snooker Simulator browser game screenshot",
+      "zh-CN": "Snooker Simulator 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An online multiplayer snooker simulator playable in the browser.",
+      "zh-CN": "在线多人 Snooker Simulator。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "putt-day",
+    "title": {
+      "en": "putt.day",
+      "zh-CN": "putt.day"
+    },
+    "summary": {
+      "en": "A polished browser mini-golf game designed for a quick daily round.",
+      "zh-CN": "迷你高尔夫 putt.day。"
+    },
+    "description": {
+      "en": "A polished browser mini-golf game designed for a quick daily round. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "迷你高尔夫 putt.day。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "heynavtoor",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://putt.day/",
+    "source_url": "https://x.com/threejs/status/2067292581709631517",
+    "x_post_url": "https://x.com/threejs/status/2067292581709631517",
+    "cover_url": "/cases/putt-day.jpg",
+    "cover_source_url": "https://putt.day/",
+    "cover_alt": {
+      "en": "putt.day browser game screenshot",
+      "zh-CN": "putt.day 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A polished browser mini-golf game designed for a quick daily round.",
+      "zh-CN": "迷你高尔夫 putt.day。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "gamecube-intro",
+    "title": {
+      "en": "GameCube Intro",
+      "zh-CN": "GameCube Intro"
+    },
+    "summary": {
+      "en": "An interactive recreation of the familiar Nintendo GameCube startup animation.",
+      "zh-CN": "GameCube 开场动画互动重现。"
+    },
+    "description": {
+      "en": "An interactive recreation of the familiar Nintendo GameCube startup animation. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "GameCube 开场动画互动重现。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "other",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://gcintro.toomuchofheaven.com/",
+    "source_url": "https://x.com/threejs/status/2066861850512515283",
+    "x_post_url": "https://x.com/threejs/status/2066861850512515283",
+    "cover_url": "/cases/gamecube-intro.jpg",
+    "cover_source_url": "https://gcintro.toomuchofheaven.com/",
+    "cover_alt": {
+      "en": "GameCube Intro browser game screenshot",
+      "zh-CN": "GameCube Intro 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An interactive recreation of the familiar Nintendo GameCube startup animation.",
+      "zh-CN": "GameCube 开场动画互动重现。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "procedural-terrains",
+    "title": {
+      "en": "Procedural Terrains",
+      "zh-CN": "Procedural Terrains"
+    },
+    "summary": {
+      "en": "An interactive demonstration for exploring generated 3D terrain.",
+      "zh-CN": "程序化地形互动演示 Procedural Terrains。"
+    },
+    "description": {
+      "en": "An interactive demonstration for exploring generated 3D terrain. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "程序化地形互动演示 Procedural Terrains。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "zy_fou",
+    "platforms": [
+      "web"
+    ],
+    "genre": "simulation",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://procedural-terrains.com/",
+    "source_url": "https://x.com/threejs/status/2066843195351413026",
+    "x_post_url": "https://x.com/threejs/status/2066843195351413026",
+    "cover_url": "/cases/procedural-terrains.jpg",
+    "cover_source_url": "https://procedural-terrains.com/",
+    "cover_alt": {
+      "en": "Procedural Terrains browser game screenshot",
+      "zh-CN": "Procedural Terrains 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "An interactive demonstration for exploring generated 3D terrain.",
+      "zh-CN": "程序化地形互动演示 Procedural Terrains。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "vibefall",
+    "title": {
+      "en": "VibeFall",
+      "zh-CN": "VibeFall"
+    },
+    "summary": {
+      "en": "A vertical falling game showcase whose original public build is currently unavailable.",
+      "zh-CN": "垂直掉落 vibe 小游戏 VibeFall。"
+    },
+    "description": {
+      "en": "A vertical falling game showcase whose original public build is currently unavailable. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "垂直掉落 vibe 小游戏 VibeFall。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "imkieransmith",
+    "platforms": [
+      "web"
+    ],
+    "genre": "casual",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "showcase",
+    "play_url": null,
+    "source_url": "https://x.com/threejs/status/2063835966884958657",
+    "x_post_url": "https://x.com/threejs/status/2063835966884958657",
+    "cover_url": "/cases/vibefall.jpg",
+    "cover_source_url": "https://x.com/threejs/status/2063835966884958657",
+    "cover_alt": {
+      "en": "VibeFall browser game screenshot",
+      "zh-CN": "VibeFall 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A vertical falling game showcase whose original public build is currently unavailable.",
+      "zh-CN": "垂直掉落 vibe 小游戏 VibeFall。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "none",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "hotlap",
+    "title": {
+      "en": "HOTLAP",
+      "zh-CN": "HOTLAP"
+    },
+    "summary": {
+      "en": "A Formula-style time-trial racer focused on setting the fastest lap.",
+      "zh-CN": "F1 计时赛 HOTLAP。"
+    },
+    "description": {
+      "en": "A Formula-style time-trial racer focused on setting the fastest lap. The project was shared through the Three.js showcase account with a link to the original public page.",
+      "zh-CN": "F1 计时赛 HOTLAP。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
+    },
+    "creator": "threejs-showcase",
+    "platforms": [
+      "web"
+    ],
+    "genre": "racing",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://hotlap-ecru.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2062686472269189620",
+    "x_post_url": "https://x.com/threejs/status/2062686472269189620",
+    "cover_url": "/cases/hotlap.jpg",
+    "cover_source_url": "https://hotlap-ecru.vercel.app/",
+    "cover_alt": {
+      "en": "HOTLAP browser game screenshot",
+      "zh-CN": "HOTLAP 网页游戏画面"
+    },
+    "gameplay": {
+      "en": "A Formula-style time-trial racer focused on setting the fastest lap.",
+      "zh-CN": "F1 计时赛 HOTLAP。"
+    },
+    "ai_use": {
+      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
+      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "arkenfall",
+    "title": {
+      "en": "Arkenfall",
+      "zh-CN": "Arkenfall"
+    },
+    "summary": {
+      "en": "An open-world browser action game about mending the Frayed Vale and climbing the Loomspire.",
+      "zh-CN": "一款开放世界网页动作游戏：修复破碎山谷、对抗 Unravelled，并攀登 Loomspire。"
+    },
+    "description": {
+      "en": "Explore an open world, fight the Unravelled, and climb the Loomspire in a 3D action game that runs directly in the browser.",
+      "zh-CN": "在浏览器中直接探索 3D 开放世界，对抗 Unravelled，并一路攀登 Loomspire。"
+    },
+    "creator": "LexnLin",
+    "platforms": [
+      "web"
+    ],
+    "genre": "action",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://www.arkenfall.site/",
+    "source_url": "https://x.com/LexnLin/status/2102834362530079093",
+    "x_post_url": "https://x.com/LexnLin/status/2102834362530079093",
+    "cover_url": "/cases/arkenfall.jpg",
+    "cover_source_url": "https://www.arkenfall.site/",
+    "cover_alt": {
+      "en": "Arkenfall open-world browser action game",
+      "zh-CN": "Arkenfall 开放世界网页动作游戏画面"
+    },
+    "gameplay": {
+      "en": "Explore the Frayed Vale, fight enemies, and progress toward the Loomspire.",
+      "zh-CN": "探索破碎山谷、与敌人战斗，并向 Loomspire 推进。"
+    },
+    "ai_use": {
+      "en": "The case was supplied as an AI-made game, but the checked page does not name a specific model or document the AI workflow.",
+      "zh-CN": "该案例作为 AI 游戏提供，但已检查的页面未注明具体模型或记录 AI 工作流程。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
   }
 ]
