@@ -1,0 +1,64 @@
+# Awesome AI Game Case
+
+[English](README.md)
+
+一份重视来源、可以直接试玩的 AI 游戏案例目录。每条案例都提供游戏直达地址或创作者原始展示、简短介绍、玩法类型、已核实的 AI 用途，以及真实游戏截图或原帖视频封面。
+
+配套网站位于独立仓库 `awesome-ai-game-case-web`。网站默认英文，简体中文页面位于 `/zh-CN/`。
+
+## 收录标准
+
+- 提供游戏直达地址；没有公开版本时，提供创作者原始帖子。
+- 使用真实游戏截图或视频封面，并记录图片来源。
+- 区分 AI 辅助编程、生成素材、AI 角色/玩法和“AI 用途待核实”。
+- 标注一个主要玩法类型，以及游戏实际运行的平台。
+- 英文和简体中文介绍均须有公开来源支持。
+
+暂不收录只有商店页、通用平台首页、没有来源支持的 AI 说法，以及使用抽象占位图的案例。
+
+## 可玩游戏
+
+| 游戏 | 类型 | 模型 / 工作流程 | 试玩 | 来源 |
+| --- | --- | --- | --- | --- |
+| [Pelican on a Bike](https://claude-opus-5-5.riba2534.cn/) | 休闲 | Claude Opus 5.5，单提示词编程实验 | [打开游戏](https://claude-opus-5-5.riba2534.cn/) | [GitHub](https://github.com/riba2534/claude-opus-5-5-demo) |
+| [Transport Ship 3D](https://claude-opus-5-5-cf-transport-ship.pages.dev/) | 射击 | Claude Opus 5.5，单提示词编程实验 | [打开游戏](https://claude-opus-5-5-cf-transport-ship.pages.dev/) | [GitHub](https://github.com/riba2534/claude-opus-5-5-demo) |
+| [QQ Speed 3D Experiment](https://claude-opus-5-5-qqfeiche3d.pages.dev/) | 赛车 | Claude Opus 5.5，单提示词编程实验 | [打开游戏](https://claude-opus-5-5-qqfeiche3d.pages.dev/) | [GitHub](https://github.com/riba2534/claude-opus-5-5-demo) |
+| [Doodle District](https://doodleshooter.vercel.app/) | 射击 | AI 用途等待作者确认 | [打开游戏](https://doodleshooter.vercel.app/) | [游戏页面](https://doodleshooter.vercel.app/) |
+| [Fish Feast](https://fish-feast-sea-game.yanyuzhumang.chatgpt.site/) | 益智 | AI 用途等待作者确认 | [打开游戏](https://fish-feast-sea-game.yanyuzhumang.chatgpt.site/) | [游戏页面](https://fish-feast-sea-game.yanyuzhumang.chatgpt.site/) |
+| [Claude of Tanks](https://claudeoftanks.kevinliu.studio/) | 动作 | Claude 与 Codex 辅助开发 | [打开游戏](https://claudeoftanks.kevinliu.studio/) | [GitHub](https://github.com/Kevin-Liu-01/Claude-of-Tanks) |
+| [Bring Them Home](https://slicknickstudio.itch.io/bringthemhome) | 冒险 | Claude + Unity MCP，以及披露的素材工具 | [打开游戏](https://slicknickstudio.itch.io/bringthemhome) | [X 原帖](https://x.com/slicknickstudio/status/2099606594854260751) |
+| [Bubble Bay](https://bubble-bay.tripo.page/) | 动作 | GPT-6 Astra、Tripo P2、ElevenLabs | [打开游戏](https://bubble-bay.tripo.page/) | [Tripo 提示词页面](https://www.tripo3d.ai/3d-prompts/bubble-bay) |
+| [Opus 5.5 NBA 2K](https://genex.games/opus-2k) | 体育 | 根据公开标题记录 Claude Opus 5.5 关键词 | [打开游戏](https://genex.games/opus-2k) | [Genex 页面](https://genex.games/opus-2k) |
+
+## X 展示案例
+
+| 游戏 | 类型 | 当前可用内容 | 原始帖子 |
+| --- | --- | --- | --- |
+| 蟑螂合作游戏原型 | 动作 | 约 69 秒的合作玩法视频；原帖没有公开可玩版本。 | [在 X 查看](https://x.com/araskodluyor/status/2094945201727168548) |
+
+## 模型名称与 SEO
+
+目录关注 **GPT-6 Astra 游戏**、**GPT-6 Sol 游戏**、**Claude Opus 5.5 游戏**等搜索意图。只有公开标题或创作者来源能够支持时，模型名称才会写入具体案例。这里出现一个关键词，并不代表目录已经收录了该模型的已核实案例。
+
+## 仓库结构
+
+```text
+data/cases.json            双语案例的唯一内容源
+media/cases/               编辑截图与来源视频封面
+docs/CASE_SCHEMA.md        案例字段与校验规则
+docs/X_COLLECTION_SPEC.md  grot-bot 的 X 采集规范
+docs/SEO_PLAN.md           搜索主题与未来内页规则
+docs/PLAN.md               产品和网站规划
+```
+
+网站仓库构建前运行 `npm run sync:data`，校验案例数据、复制 JSON 快照，并把对应媒体同步到网站公开目录。
+
+## 添加案例
+
+按照[案例字段规范](docs/CASE_SCHEMA.md)编辑 `data/cases.json`，并把对应图片放入 `media/cases/`。玩法不明确时使用 `other`；无法核实模型时使用空的 `models` 数组；公开来源没有说明 AI 用途时使用 `unverified`。
+
+X 候选使用 [grot-bot 采集规范](docs/X_COLLECTION_SPEC.md)。机器人输出只是草稿，必须人工核对原帖、展开链接、可玩状态、媒体、模型说法和作者身份后才能发布。
+
+## 许可证与媒体
+
+仓库代码、原创文档和原创数据结构使用 [MIT License](LICENSE)。第三方游戏截图、海报、名称、商标和链接内容仍归各自权利人所有，不因本仓库的许可证而重新授权。正式公开前需要核对媒体使用条件。

@@ -1,0 +1,474 @@
+[
+  {
+    "id": "pelican-on-a-bike",
+    "title": {
+      "en": "Pelican on a Bike",
+      "zh-CN": "鹈鹕骑单车"
+    },
+    "summary": {
+      "en": "A pelican pedals along a changing coastline, chasing fish through a playful 3D world.",
+      "zh-CN": "一只鹈鹕骑车沿海岸追鱼，穿过不断变化的 3D 世界。"
+    },
+    "description": {
+      "en": "A browser game created as a one-prompt AI coding experiment. The coastal world, bicycle motion, cloth scarf, waves, audio, and day-night cycle are generated in code.",
+      "zh-CN": "由一句提示词生成的 AI 编程实验网页游戏。海岸场景、单车动作、围巾布料、海浪、音效与昼夜循环均由代码生成。"
+    },
+    "creator": "riba2534",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "play_url": "https://claude-opus-5-5.riba2534.cn/",
+    "source_url": "https://github.com/riba2534/claude-opus-5-5-demo",
+    "x_post_url": null,
+    "cover_url": "/cases/pelican-on-a-bike.jpg",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-23",
+    "verified_at": "2026-09-23",
+    "genre": "casual",
+    "cover_source_url": "https://claude-opus-5-5.riba2534.cn/pelican-ride-og.jpg",
+    "cover_alt": {
+      "en": "Pelican cycling beside a stylized 3D coast",
+      "zh-CN": "3D 海岸边骑行的鹈鹕"
+    },
+    "gameplay": {
+      "en": "Ride along the coastline and chase fish while the scene changes between day and night.",
+      "zh-CN": "沿海岸骑车追鱼，体验随昼夜变化的 3D 场景。"
+    },
+    "ai_use": {
+      "en": "The creator documents a one-prompt coding experiment and procedural scene effects.",
+      "zh-CN": "作者在开源仓库记录了单提示词编程实验与程序化场景效果。"
+    }
+  },
+  {
+    "id": "transport-ship-3d",
+    "title": {
+      "en": "Transport Ship 3D",
+      "zh-CN": "运输船 3D"
+    },
+    "summary": {
+      "en": "A browser FPS experiment with bots, ship lanes, and a familiar container-filled deck.",
+      "zh-CN": "带有机器人对战、船舱路线和集装箱甲板的网页 FPS 实验。"
+    },
+    "description": {
+      "en": "One of three one-prompt games published by riba2534. The project repository documents the AI-generated code, map research, and playable deployment.",
+      "zh-CN": "riba2534 发布的三个单提示词游戏之一。项目仓库记录了 AI 生成代码、地图考据与在线部署。"
+    },
+    "creator": "riba2534",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "play_url": "https://claude-opus-5-5-cf-transport-ship.pages.dev/",
+    "source_url": "https://github.com/riba2534/claude-opus-5-5-demo",
+    "x_post_url": null,
+    "cover_url": "/cases/transport-ship-3d.jpg",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-23",
+    "verified_at": "2026-09-23",
+    "genre": "shooter",
+    "cover_source_url": "https://claude-opus-5-5-cf-transport-ship.pages.dev/",
+    "cover_alt": {
+      "en": "First-person view inside Transport Ship 3D",
+      "zh-CN": "运输船 3D 第一人称实机画面"
+    },
+    "gameplay": {
+      "en": "Choose a side and weapon, then fight bots on a container ship in a browser FPS.",
+      "zh-CN": "选择阵营和武器，在集装箱货船地图与机器人展开第一人称对战。"
+    },
+    "ai_use": {
+      "en": "The creator published this as part of a one-prompt AI game coding series.",
+      "zh-CN": "作者将它作为单提示词 AI 游戏编程系列的一部分公开。"
+    }
+  },
+  {
+    "id": "qq-speed-3d",
+    "title": {
+      "en": "QQ Speed 3D Experiment",
+      "zh-CN": "QQ 飞车 3D 实验"
+    },
+    "summary": {
+      "en": "A browser racing prototype with drifting, boost mechanics, and four tracks.",
+      "zh-CN": "包含漂移、氮气加速与四条赛道的网页竞速原型。"
+    },
+    "description": {
+      "en": "A one-prompt AI coding experiment from the same open source series. The creator describes a playable browser racing game with procedural tracks and driving controls.",
+      "zh-CN": "同一开源系列中的单提示词 AI 编程实验。作者介绍了可玩的网页竞速玩法、程序化赛道与驾驶操作。"
+    },
+    "creator": "riba2534",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "play_url": "https://claude-opus-5-5-qqfeiche3d.pages.dev/",
+    "source_url": "https://github.com/riba2534/claude-opus-5-5-demo",
+    "x_post_url": null,
+    "cover_url": "/cases/qq-speed-3d.jpg",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-23",
+    "verified_at": "2026-09-23",
+    "genre": "racing",
+    "cover_source_url": "https://claude-opus-5-5-qqfeiche3d.pages.dev/",
+    "cover_alt": {
+      "en": "Race start in the QQ Speed 3D browser prototype",
+      "zh-CN": "QQ 飞车 3D 网页原型的比赛起点"
+    },
+    "gameplay": {
+      "en": "Select a track and car, then race with drifting, boosts, and computer opponents.",
+      "zh-CN": "选择赛道和赛车，使用漂移与加速技巧和电脑对手竞速。"
+    },
+    "ai_use": {
+      "en": "The creator published this as part of a one-prompt AI game coding series.",
+      "zh-CN": "作者将它作为单提示词 AI 游戏编程系列的一部分公开。"
+    }
+  },
+  {
+    "id": "doodle-district",
+    "title": {
+      "en": "Doodle District",
+      "zh-CN": "Doodle District"
+    },
+    "summary": {
+      "en": "A hand-drawn browser survival shooter with solo waves and online multiplayer.",
+      "zh-CN": "手绘纸张风格的网页生存射击游戏，可单人闯关或在线多人对战。"
+    },
+    "description": {
+      "en": "Fight waves of enemies across a graph-paper arena. The live page offers solo play, online multiplayer for up to ten players, and two maps.",
+      "zh-CN": "在方格纸竞技场抵御一波波敌人。官网提供单人模式、最多十人的在线多人模式和两张地图。"
+    },
+    "creator": "Doodle District team",
+    "platforms": [
+      "web"
+    ],
+    "genre": "shooter",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://doodleshooter.vercel.app/",
+    "source_url": "https://doodleshooter.vercel.app/",
+    "x_post_url": null,
+    "cover_url": "/cases/doodle-district.jpg",
+    "cover_source_url": "https://doodleshooter.vercel.app/",
+    "cover_alt": {
+      "en": "Hand-drawn Doodle District shooter gameplay on graph paper",
+      "zh-CN": "方格纸上手绘风格的 Doodle District 射击画面"
+    },
+    "gameplay": {
+      "en": "Move and aim through enemy waves; the site also offers an online multiplayer mode.",
+      "zh-CN": "移动和瞄准以抵御敌人，网站还提供在线多人模式。"
+    },
+    "ai_use": {
+      "en": "The public game page does not explain the AI workflow. The AI role needs creator confirmation.",
+      "zh-CN": "公开游戏页面没有说明 AI 工作流程，AI 具体作用仍待作者确认。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-23",
+    "verified_at": "2026-09-23"
+  },
+  {
+    "id": "fish-feast",
+    "title": {
+      "en": "Fish Feast",
+      "zh-CN": "Fish Feast 海底颜色派对"
+    },
+    "summary": {
+      "en": "A colorful 3D browser puzzle about matching fish and clearing a rotating cube.",
+      "zh-CN": "围绕小鱼配色与旋转立方体展开的 3D 网页益智游戏。"
+    },
+    "description": {
+      "en": "Send fish from shell queues toward matching colored blocks on a rotating 3D board. The game includes many stages and in-page instructions.",
+      "zh-CN": "从贝壳队列派出小鱼，清理旋转 3D 棋盘上对应颜色的方块。游戏提供多关卡及站内玩法说明。"
+    },
+    "creator": "Fish Feast team",
+    "platforms": [
+      "web"
+    ],
+    "genre": "puzzle",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://fish-feast-sea-game.yanyuzhumang.chatgpt.site/",
+    "source_url": "https://fish-feast-sea-game.yanyuzhumang.chatgpt.site/",
+    "x_post_url": null,
+    "cover_url": "/cases/fish-feast.jpg",
+    "cover_source_url": "https://fish-feast-sea-game.yanyuzhumang.chatgpt.site/",
+    "cover_alt": {
+      "en": "Fish Feast 3D color puzzle board and shell queues",
+      "zh-CN": "Fish Feast 的 3D 配色棋盘与贝壳队列"
+    },
+    "gameplay": {
+      "en": "Choose a shell queue and plan which fish should reach matching blocks.",
+      "zh-CN": "选择贝壳队列，安排小鱼清理相应颜色的方块。"
+    },
+    "ai_use": {
+      "en": "The public game page does not document its AI workflow; this remains to be confirmed.",
+      "zh-CN": "公开游戏页面未记录 AI 工作流程，具体用途仍待确认。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-23",
+    "verified_at": "2026-09-23"
+  },
+  {
+    "id": "claude-of-tanks",
+    "title": {
+      "en": "Claude of Tanks",
+      "zh-CN": "Claude of Tanks"
+    },
+    "summary": {
+      "en": "A free browser tank game with a large vehicle roster and dozens of battlefields.",
+      "zh-CN": "拥有大量载具与数十张战场地图的免费网页坦克游戏。"
+    },
+    "description": {
+      "en": "Choose a tank and fight in a browser game. The creator documents 192 vehicles and 31 battlefields in the project repository.",
+      "zh-CN": "选择坦克，在浏览器中进行战斗。项目仓库记录了 192 辆载具和 31 张战场地图。"
+    },
+    "creator": "Kevin B. Liu",
+    "platforms": [
+      "web",
+      "mobile"
+    ],
+    "genre": "action",
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://claudeoftanks.kevinliu.studio/",
+    "source_url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks",
+    "x_post_url": null,
+    "cover_url": "/cases/claude-of-tanks.png",
+    "cover_source_url": "https://cot.kevinliu.studio/brand/og-image.png",
+    "cover_alt": {
+      "en": "Official Claude of Tanks game artwork",
+      "zh-CN": "Claude of Tanks 官方游戏封面"
+    },
+    "gameplay": {
+      "en": "Drive a tank through battles; the public game advertises desktop and mobile controls.",
+      "zh-CN": "驾驶坦克参战；公开游戏页提供桌面与移动端操作。"
+    },
+    "ai_use": {
+      "en": "The official repository credits Kevin B. Liu with direction and Claude/Codex with development assistance.",
+      "zh-CN": "官方仓库注明由 Kevin B. Liu 负责设计指导，Claude/Codex 辅助开发。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-23",
+    "verified_at": "2026-09-23"
+  },
+  {
+    "id": "bring-them-home",
+    "title": {
+      "en": "Bring Them Home",
+      "zh-CN": "Bring Them Home"
+    },
+    "summary": {
+      "en": "A snowy rescue game made for a 72-hour game jam, with an X development video and a playable build.",
+      "zh-CN": "72 小时 Game Jam 制作的雪地救援游戏，附 X 开发视频和可玩版本。"
+    },
+    "description": {
+      "en": "Search a snowy environment for survivors and bring them home. The creator shared the jam build on itch.io and discussed the Claude plus Unity MCP workflow on X.",
+      "zh-CN": "在雪地中寻找幸存者并带他们回家。作者在 itch.io 发布可玩版本，并在 X 介绍 Claude 与 Unity MCP 的制作流程。"
+    },
+    "creator": "Slicknick Studio",
+    "platforms": [
+      "web"
+    ],
+    "genre": "adventure",
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [
+      "Claude Fable 5.1"
+    ],
+    "status": "playable",
+    "play_url": "https://slicknickstudio.itch.io/bringthemhome",
+    "source_url": "https://slicknickstudio.itch.io/bringthemhome",
+    "x_post_url": "https://x.com/slicknickstudio/status/2099606594854260751",
+    "cover_url": "/cases/bring-them-home.jpg",
+    "cover_source_url": "https://pbs.twimg.com/amplify_video_thumb/2099606475958374400/img/3b9gU78ZgXorYaUH.jpg",
+    "cover_alt": {
+      "en": "Snowy rescue game shown in Slicknick Studio X video",
+      "zh-CN": "Slicknick Studio 的雪地救援游戏视频画面"
+    },
+    "gameplay": {
+      "en": "Explore the winter scene and rescue survivors. The itch.io page runs the game in a browser.",
+      "zh-CN": "探索冬季场景并救援幸存者；itch.io 页面可在浏览器中运行游戏。"
+    },
+    "ai_use": {
+      "en": "The creator describes a Claude plus Unity MCP workflow; the itch.io disclosure also lists other AI tools for 3D assets, voice and icons.",
+      "zh-CN": "作者介绍 Claude 与 Unity MCP 工作流程；itch.io 的披露还列出用于 3D 素材、配音和图标的其他 AI 工具。"
+    },
+    "preview_mode": "none",
+    "added_at": "2026-09-23",
+    "verified_at": "2026-09-23"
+  },
+  {
+    "id": "cockroach-co-op-prototype",
+    "title": {
+      "en": "Cockroach Co-op Prototype",
+      "zh-CN": "蟑螂合作游戏原型"
+    },
+    "summary": {
+      "en": "A chaotic co-op cockroach game prototype shown in an X gameplay clip.",
+      "zh-CN": "X 视频中展示的混乱风格蟑螂合作游戏原型。"
+    },
+    "description": {
+      "en": "The creator posted a 69-second gameplay clip of a co-op game built in three days. No public playable build was linked in the post.",
+      "zh-CN": "作者发布了一个三天内制作的合作游戏玩法视频，时长约 69 秒。该帖没有提供公开可玩的版本。"
+    },
+    "creator": "araskodluyor",
+    "platforms": [
+      "pc"
+    ],
+    "genre": "action",
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [
+      "Gemini 3.7 Flash"
+    ],
+    "status": "showcase",
+    "play_url": null,
+    "source_url": "https://x.com/araskodluyor/status/2094945201727168548",
+    "x_post_url": "https://x.com/araskodluyor/status/2094945201727168548",
+    "cover_url": "/cases/cockroach-co-op.jpg",
+    "cover_source_url": "https://pbs.twimg.com/amplify_video_thumb/2094945134332837888/img/83VlPI9Y9sNAYvOU.jpg",
+    "cover_alt": {
+      "en": "Cockroach co-op prototype in its X gameplay video",
+      "zh-CN": "蟑螂合作游戏的 X 玩法视频画面"
+    },
+    "gameplay": {
+      "en": "The clip shows cooperative gameplay; controls and a download page were not provided.",
+      "zh-CN": "视频展示合作玩法；原帖未提供操作方式或下载页面。"
+    },
+    "ai_use": {
+      "en": "The creator credits Gemini 3.7 Flash with Blender MCP for most 3D assets and Gemini with Unity MCP for the core game.",
+      "zh-CN": "作者称大部分 3D 素材使用 Gemini 3.7 Flash 与 Blender MCP 制作，核心游戏使用 Gemini 与 Unity MCP 制作。"
+    },
+    "preview_mode": "none",
+    "added_at": "2026-09-23",
+    "verified_at": "2026-09-23"
+  },
+  {
+    "id": "bubble-bay",
+    "title": {
+      "en": "Bubble Bay: 3D Water Balloon Battle",
+      "zh-CN": "Bubble Bay：3D 水球大战"
+    },
+    "summary": {
+      "en": "A colorful Three.js water-balloon arena with costumed characters, AI rivals, two maps, and custom 3D model imports.",
+      "zh-CN": "一款色彩明快的 Three.js 水球竞技游戏，包含原创装扮角色、AI 对手、两张地图和自定义 3D 模型导入。"
+    },
+    "description": {
+      "en": "Choose Langya, Shantao or Tuanli and battle two cooperating rivals in Pirate14 or Village10. Matches support capture targets or timed scoring, follow and overview cameras, desktop and touch controls, and imported rigged GLB characters.",
+      "zh-CN": "选择浪芽、珊桃或团栗，在 Pirate14 或 Village10 地图与两名合作对手交战。游戏支持捕获目标或限时计分、跟随与俯瞰镜头、桌面与触屏操作，以及导入绑定骨骼的 GLB 角色。"
+    },
+    "creator": "jared",
+    "platforms": [
+      "web",
+      "mobile"
+    ],
+    "genre": "action",
+    "ai_roles": [
+      "ai_built",
+      "npc",
+      "art_audio"
+    ],
+    "models": [
+      "GPT-6 Astra",
+      "Tripo P2",
+      "ElevenLabs music_v2_5"
+    ],
+    "status": "playable",
+    "play_url": "https://bubble-bay.tripo.page/",
+    "source_url": "https://www.tripo3d.ai/3d-prompts/bubble-bay",
+    "x_post_url": null,
+    "cover_url": "/cases/bubble-bay.jpg",
+    "cover_source_url": "https://www.tripo3d.ai/3d-prompts/bubble-bay",
+    "cover_alt": {
+      "en": "Bubble Bay prompt page showing its colorful 3D water-balloon battle",
+      "zh-CN": "Bubble Bay 页面展示彩色 3D 水球竞技画面"
+    },
+    "gameplay": {
+      "en": "Move, jump, dash and place timed water balloons to break crates, collect upgrades, trap rivals and reach the selected capture target.",
+      "zh-CN": "移动、跳跃、冲刺并放置定时水球，打破木箱、收集强化道具、困住对手并达到设定的捕获目标。"
+    },
+    "ai_use": {
+      "en": "The Tripo page labels this a GPT-6 Astra prompt. It documents Tripo P2 characters, AI-controlled rivals, generated sound effects and original ElevenLabs music.",
+      "zh-CN": "Tripo 页面将其标注为 GPT-6 Astra 提示词案例，并记录了 Tripo P2 角色、AI 控制的对手、生成音效和原创 ElevenLabs 音乐。"
+    },
+    "preview_mode": "iframe",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  },
+  {
+    "id": "opus-2k",
+    "title": {
+      "en": "Opus 5.5 NBA 2K",
+      "zh-CN": "Opus 5.5 NBA 2K"
+    },
+    "summary": {
+      "en": "A solo browser basketball game in a dark arena with dribbling, shooting, layups, dunks and multiple camera angles.",
+      "zh-CN": "一款置于暗色球馆中的单人网页篮球游戏，支持运球、投篮、上篮、扣篮和多种镜头。"
+    },
+    "description": {
+      "en": "Play solo basketball in the River City Coyotes arena. The Genex page exposes one-key layup and dunk controls, sprinting, ball reset and nine selectable camera views.",
+      "zh-CN": "在 River City Coyotes 球馆中进行单人篮球。Genex 页面提供一键上篮和扣篮、冲刺、重置篮球以及九种可选镜头。"
+    },
+    "creator": "Simeon M",
+    "platforms": [
+      "web"
+    ],
+    "genre": "sports",
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "play_url": "https://genex.games/opus-2k",
+    "source_url": "https://genex.games/opus-2k",
+    "x_post_url": null,
+    "cover_url": "/cases/opus-2k.jpg",
+    "cover_source_url": "https://genex.games/opus-2k",
+    "cover_alt": {
+      "en": "Opus 5.5 NBA 2K loading screen on its Genex game page",
+      "zh-CN": "Genex 游戏页中的 Opus 5.5 NBA 2K 加载画面"
+    },
+    "gameplay": {
+      "en": "Dribble around the court, sprint toward the basket, and use one-key controls to shoot, lay up or dunk while switching between broadcast and courtside cameras.",
+      "zh-CN": "在球场运球和冲刺接近篮筐，用单键完成投篮、上篮或扣篮，并在转播、场边等镜头之间切换。"
+    },
+    "ai_use": {
+      "en": "The published game title identifies Opus 5.5. The public page does not provide a detailed model workflow, so the model keyword is recorded from the title rather than inferred from the linked repository.",
+      "zh-CN": "已发布的游戏标题明确写有 Opus 5.5。公开页面没有提供详细模型工作流程，因此模型关键词仅依据标题记录，不从其 GitHub 链接推断。"
+    },
+    "preview_mode": "none",
+    "added_at": "2026-09-24",
+    "verified_at": "2026-09-24"
+  }
+]
