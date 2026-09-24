@@ -84,9 +84,6 @@
 
 | 游戏 | 类型 | 当前可用内容 | 原始帖子 |
 | --- | --- | --- | --- | --- |
-| 蟑螂合作游戏原型 | 动作 | X 视频中展示的混乱风格蟑螂合作游戏原型。 | [X 原帖](https://x.com/araskodluyor/status/2094945201727168548) |
-| PCH Cruise | 赛车 | 太平洋海岸公路巡游（页面当前 404）。 | [X 原帖](https://x.com/threejs/status/2089864159815221364) |
-| VibeFall | 休闲 | 垂直掉落 vibe 小游戏 VibeFall。 | [X 原帖](https://x.com/threejs/status/2063835966884958657) |
 
 ## 模型名称与 SEO
 

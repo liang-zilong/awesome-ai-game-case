@@ -325,54 +325,6 @@
     "verified_at": "2026-09-23"
   },
   {
-    "id": "cockroach-co-op-prototype",
-    "title": {
-      "en": "Cockroach Co-op Prototype",
-      "zh-CN": "蟑螂合作游戏原型"
-    },
-    "summary": {
-      "en": "A chaotic co-op cockroach game prototype shown in an X gameplay clip.",
-      "zh-CN": "X 视频中展示的混乱风格蟑螂合作游戏原型。"
-    },
-    "description": {
-      "en": "The creator posted a 69-second gameplay clip of a co-op game built in three days. No public playable build was linked in the post.",
-      "zh-CN": "作者发布了一个三天内制作的合作游戏玩法视频，时长约 69 秒。该帖没有提供公开可玩的版本。"
-    },
-    "creator": "araskodluyor",
-    "platforms": [
-      "pc"
-    ],
-    "genre": "action",
-    "ai_roles": [
-      "ai_built",
-      "art_audio"
-    ],
-    "models": [
-      "Gemini 3.7 Flash"
-    ],
-    "status": "showcase",
-    "play_url": null,
-    "source_url": "https://x.com/araskodluyor/status/2094945201727168548",
-    "x_post_url": "https://x.com/araskodluyor/status/2094945201727168548",
-    "cover_url": "/cases/cockroach-co-op.jpg",
-    "cover_source_url": "https://pbs.twimg.com/amplify_video_thumb/2094945134332837888/img/83VlPI9Y9sNAYvOU.jpg",
-    "cover_alt": {
-      "en": "Cockroach co-op prototype in its X gameplay video",
-      "zh-CN": "蟑螂合作游戏的 X 玩法视频画面"
-    },
-    "gameplay": {
-      "en": "The clip shows cooperative gameplay; controls and a download page were not provided.",
-      "zh-CN": "视频展示合作玩法；原帖未提供操作方式或下载页面。"
-    },
-    "ai_use": {
-      "en": "The creator credits Gemini 3.7 Flash with Blender MCP for most 3D assets and Gemini with Unity MCP for the core game.",
-      "zh-CN": "作者称大部分 3D 素材使用 Gemini 3.7 Flash 与 Blender MCP 制作，核心游戏使用 Gemini 与 Unity MCP 制作。"
-    },
-    "preview_mode": "none",
-    "added_at": "2026-09-23",
-    "verified_at": "2026-09-23"
-  },
-  {
     "id": "bubble-bay",
     "title": {
       "en": "Bubble Bay: 3D Water Balloon Battle",
@@ -1413,51 +1365,6 @@
       "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
     },
     "preview_mode": "iframe",
-    "added_at": "2026-09-24",
-    "verified_at": "2026-09-24"
-  },
-  {
-    "id": "pch-cruise",
-    "title": {
-      "en": "PCH Cruise",
-      "zh-CN": "PCH Cruise"
-    },
-    "summary": {
-      "en": "A Pacific Coast Highway driving showcase whose original public build is currently unavailable.",
-      "zh-CN": "太平洋海岸公路巡游（页面当前 404）。"
-    },
-    "description": {
-      "en": "A Pacific Coast Highway driving showcase whose original public build is currently unavailable. The project was shared through the Three.js showcase account with a link to the original public page.",
-      "zh-CN": "太平洋海岸公路巡游（页面当前 404）。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
-    },
-    "creator": "majidmanzarpour",
-    "platforms": [
-      "web"
-    ],
-    "genre": "racing",
-    "ai_roles": [
-      "unverified"
-    ],
-    "models": [],
-    "status": "showcase",
-    "play_url": null,
-    "source_url": "https://x.com/threejs/status/2089864159815221364",
-    "x_post_url": "https://x.com/threejs/status/2089864159815221364",
-    "cover_url": "/cases/pch-cruise.jpg",
-    "cover_source_url": "https://x.com/threejs/status/2089864159815221364",
-    "cover_alt": {
-      "en": "PCH Cruise browser game screenshot",
-      "zh-CN": "PCH Cruise 网页游戏画面"
-    },
-    "gameplay": {
-      "en": "A Pacific Coast Highway driving showcase whose original public build is currently unavailable.",
-      "zh-CN": "太平洋海岸公路巡游（页面当前 404）。"
-    },
-    "ai_use": {
-      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
-      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
-    },
-    "preview_mode": "none",
     "added_at": "2026-09-24",
     "verified_at": "2026-09-24"
   },
@@ -2673,51 +2580,6 @@
       "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
     },
     "preview_mode": "iframe",
-    "added_at": "2026-09-24",
-    "verified_at": "2026-09-24"
-  },
-  {
-    "id": "vibefall",
-    "title": {
-      "en": "VibeFall",
-      "zh-CN": "VibeFall"
-    },
-    "summary": {
-      "en": "A vertical falling game showcase whose original public build is currently unavailable.",
-      "zh-CN": "垂直掉落 vibe 小游戏 VibeFall。"
-    },
-    "description": {
-      "en": "A vertical falling game showcase whose original public build is currently unavailable. The project was shared through the Three.js showcase account with a link to the original public page.",
-      "zh-CN": "垂直掉落 vibe 小游戏 VibeFall。 该项目由 Three.js 展示账号分享，并保留原始公开页面与帖子链接。"
-    },
-    "creator": "imkieransmith",
-    "platforms": [
-      "web"
-    ],
-    "genre": "casual",
-    "ai_roles": [
-      "unverified"
-    ],
-    "models": [],
-    "status": "showcase",
-    "play_url": null,
-    "source_url": "https://x.com/threejs/status/2063835966884958657",
-    "x_post_url": "https://x.com/threejs/status/2063835966884958657",
-    "cover_url": "/cases/vibefall.jpg",
-    "cover_source_url": "https://x.com/threejs/status/2063835966884958657",
-    "cover_alt": {
-      "en": "VibeFall browser game screenshot",
-      "zh-CN": "VibeFall 网页游戏画面"
-    },
-    "gameplay": {
-      "en": "A vertical falling game showcase whose original public build is currently unavailable.",
-      "zh-CN": "垂直掉落 vibe 小游戏 VibeFall。"
-    },
-    "ai_use": {
-      "en": "This was supplied as an AI-made game candidate, but the checked public source does not name a specific model or document the AI workflow.",
-      "zh-CN": "该项目作为 AI 游戏候选提供，但已检查的公开来源未注明具体模型或记录 AI 工作流程。"
-    },
-    "preview_mode": "none",
     "added_at": "2026-09-24",
     "verified_at": "2026-09-24"
   },

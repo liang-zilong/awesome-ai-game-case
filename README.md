@@ -84,9 +84,6 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 
 | Game | Genre | What is available | Original post |
 | --- | --- | --- | --- | --- |
-| Cockroach Co-op Prototype | Action | A chaotic co-op cockroach game prototype shown in an X gameplay clip. | [X post](https://x.com/araskodluyor/status/2094945201727168548) |
-| PCH Cruise | Racing | A Pacific Coast Highway driving showcase whose original public build is currently unavailable. | [X post](https://x.com/threejs/status/2089864159815221364) |
-| VibeFall | Casual | A vertical falling game showcase whose original public build is currently unavailable. | [X post](https://x.com/threejs/status/2063835966884958657) |
 
 ## Model discovery
 
