@@ -2672,5 +2672,418 @@
     "preview_mode": "iframe",
     "added_at": "2026-09-24",
     "verified_at": "2026-09-24"
+  },
+  {
+    "platforms": [
+      "web",
+      "mobile"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-28",
+    "verified_at": "2026-09-28",
+    "id": "punch-clock",
+    "title": {
+      "en": "PUNCH CLOCK",
+      "zh-CN": "PUNCH CLOCK 公司拳击"
+    },
+    "summary": {
+      "en": "A corporate boxing game where a laid-off worker punches from the mailroom to the penthouse.",
+      "zh-CN": "一款公司拳击小游戏：被裁员后，从收发室一路打到顶层办公室。"
+    },
+    "description": {
+      "en": "Fight a lineup of office rivals in a free 3D browser boxing game, or challenge a colleague online. The public page supports desktop and phone play.",
+      "zh-CN": "在免费的 3D 网页拳击游戏中挑战多位办公室对手，也可以邀请同事在线对战，支持桌面端和手机。"
+    },
+    "creator": "PUNCH CLOCK team",
+    "genre": "action",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "play_url": "https://punch-clock-game.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2103401860438917152",
+    "x_post_url": "https://x.com/threejs/status/2103401860438917152",
+    "cover_source_url": "https://punch-clock-game.vercel.app/",
+    "cover_alt": {
+      "en": "PUNCH CLOCK corporate boxing game menu",
+      "zh-CN": "PUNCH CLOCK 公司拳击游戏菜单"
+    },
+    "gameplay": {
+      "en": "Clock in, fight office-themed opponents, and work your way up to the CEO.",
+      "zh-CN": "打卡上班，击败办公室主题对手，一路挑战到 CEO。"
+    },
+    "ai_use": {
+      "en": "The game was supplied through the AI game collection, but the checked public source does not document a specific model or AI workflow.",
+      "zh-CN": "该游戏来自 AI 游戏收藏，但已检查的公开来源未记录具体模型或 AI 工作流程。"
+    },
+    "cover_url": "/cases/punch-clock.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-28",
+    "verified_at": "2026-09-28",
+    "id": "voxel-musou",
+    "title": {
+      "en": "Voxel Musou: Zhao Yun",
+      "zh-CN": "体素无双：赵云"
+    },
+    "summary": {
+      "en": "A voxel action demo where Zhao Yun cuts through dense waves of soldiers in the browser.",
+      "zh-CN": "体素无双风动作演示，操控赵云在浏览器中迎战密集兵潮。"
+    },
+    "description": {
+      "en": "A fast browser action game built around large enemy crowds, sweeping attacks, and a stylized voxel battlefield.",
+      "zh-CN": "围绕大量敌兵、范围攻击和体素战场构建的快节奏网页动作游戏。"
+    },
+    "creator": "Voxel Musou team",
+    "genre": "action",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "play_url": "https://voxel-musou.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2103137148925104412",
+    "x_post_url": "https://x.com/threejs/status/2103137148925104412",
+    "cover_source_url": "https://voxel-musou.vercel.app/",
+    "cover_alt": {
+      "en": "Voxel Musou Zhao Yun title screen and voxel battlefield",
+      "zh-CN": "体素无双赵云标题画面与体素战场"
+    },
+    "gameplay": {
+      "en": "Control Zhao Yun, move through the battlefield, and clear crowds with wide attacks.",
+      "zh-CN": "操控赵云穿过战场，使用大范围攻击清理兵潮。"
+    },
+    "ai_use": {
+      "en": "The checked Three.js showcase post does not name a specific AI model or document the creation workflow.",
+      "zh-CN": "已检查的 Three.js 展示帖未注明具体 AI 模型或制作流程。"
+    },
+    "cover_url": "/cases/voxel-musou.jpg"
+  },
+  {
+    "platforms": [
+      "web",
+      "mobile"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-28",
+    "verified_at": "2026-09-28",
+    "id": "claybound",
+    "title": {
+      "en": "Claybound",
+      "zh-CN": "Claybound 黏土之路"
+    },
+    "summary": {
+      "en": "A clay platformer where players sculpt ramps and bridges to make their own route.",
+      "zh-CN": "一款黏土平台游戏，通过捏制坡道和桥梁开辟自己的路线。"
+    },
+    "description": {
+      "en": "Shape soft modelling clay into ramps and bridges, then traverse the handmade world in a free browser demo that supports PC and mobile.",
+      "zh-CN": "把柔软黏土塑造成坡道和桥梁，再穿越手工质感的世界；免费网页试玩支持电脑和手机。"
+    },
+    "creator": "Claybound team",
+    "genre": "puzzle",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "play_url": "https://claybound-56949.web.app/",
+    "source_url": "https://x.com/threejs/status/2103709424271687813",
+    "x_post_url": "https://x.com/threejs/status/2103709424271687813",
+    "cover_source_url": "https://claybound-56949.web.app/",
+    "cover_alt": {
+      "en": "Claybound clay platformer desert menu",
+      "zh-CN": "Claybound 黏土平台游戏沙漠菜单"
+    },
+    "gameplay": {
+      "en": "Sculpt the terrain into useful shapes and cross obstacles along a route you create.",
+      "zh-CN": "把地形塑造成可用结构，沿自己创造的路线跨越障碍。"
+    },
+    "ai_use": {
+      "en": "The checked public page describes the game but does not document a specific AI model or workflow.",
+      "zh-CN": "已检查的公开页面介绍了游戏，但未记录具体 AI 模型或工作流程。"
+    },
+    "cover_url": "/cases/claybound.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-28",
+    "verified_at": "2026-09-28",
+    "id": "poseidia",
+    "title": {
+      "en": "Poseidia: The City of the Golden Gates",
+      "zh-CN": "Poseidia：金门之城"
+    },
+    "summary": {
+      "en": "A boat journey through Atlantis and the monumental City of the Golden Gates.",
+      "zh-CN": "乘船穿过亚特兰蒂斯，探索宏伟的金门之城。"
+    },
+    "description": {
+      "en": "Sail through a cinematic reconstruction of Atlantis built entirely in code from a written canon, with monumental architecture and a guided water route.",
+      "zh-CN": "沿水路驶入依据文字设定、完全用代码构建的亚特兰蒂斯，体验电影感建筑与海上探索。"
+    },
+    "creator": "Poseidia team",
+    "genre": "adventure",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "play_url": "https://poseidia.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2103330634500563113",
+    "x_post_url": "https://x.com/threejs/status/2103330634500563113",
+    "cover_source_url": "https://poseidia.vercel.app/",
+    "cover_alt": {
+      "en": "Poseidia boat approaching the City of the Golden Gates",
+      "zh-CN": "Poseidia 船只驶向金门之城"
+    },
+    "gameplay": {
+      "en": "Pilot a boat through Atlantis and discover the city along a cinematic route.",
+      "zh-CN": "驾驶船只穿行亚特兰蒂斯，沿电影感路线探索城市。"
+    },
+    "ai_use": {
+      "en": "The public page says the world was built in code from a written canon; it does not name a specific AI model.",
+      "zh-CN": "公开页面说明世界依据文字设定用代码构建，但未注明具体 AI 模型。"
+    },
+    "cover_url": "/cases/poseidia.jpg"
+  },
+  {
+    "platforms": [
+      "web",
+      "mobile"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-28",
+    "verified_at": "2026-09-28",
+    "id": "shirokuro-tennis",
+    "title": {
+      "en": "Shirokuro Tennis",
+      "zh-CN": "しろくろテニス！黑白网球"
+    },
+    "summary": {
+      "en": "A 90-second browser game that combines tennis rallies with Reversi board control.",
+      "zh-CN": "把网球回合与黑白棋占格结合起来的 90 秒网页对战游戏。"
+    },
+    "description": {
+      "en": "Return shots to place pieces on the court, flip surrounded pieces, and finish with the largest territory. Four animal characters have their own special moves.",
+      "zh-CN": "回球落点会放置棋子，夹住对手棋子即可翻面；使用四个动物角色及其必杀技，在 90 秒内争夺更多格子。"
+    },
+    "creator": "AMIX",
+    "genre": "sports",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "play_url": "https://amix-design.com/tl/tool-g-shirokuro/",
+    "source_url": "https://x.com/threejs/status/2104365365107343393",
+    "x_post_url": "https://x.com/threejs/status/2104365365107343393",
+    "cover_source_url": "https://amix-design.com/tl/tool-g-shirokuro/",
+    "cover_alt": {
+      "en": "Shirokuro Tennis court with animal characters",
+      "zh-CN": "しろくろテニス动物角色与棋盘球场"
+    },
+    "gameplay": {
+      "en": "Return the ball onto open squares, surround rival pieces, and control more of the court before time expires.",
+      "zh-CN": "把球打向空格、包围并翻转对手棋子，在时间结束前占领更多球场。"
+    },
+    "ai_use": {
+      "en": "The checked public source does not document a specific AI model or AI workflow.",
+      "zh-CN": "已检查的公开来源未记录具体 AI 模型或 AI 工作流程。"
+    },
+    "cover_url": "/cases/shirokuro-tennis.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-28",
+    "verified_at": "2026-09-28",
+    "id": "transformer",
+    "title": {
+      "en": "Transformer",
+      "zh-CN": "Transformer 载具变形"
+    },
+    "summary": {
+      "en": "A WebGPU desert driving game where three vehicles transform into walking robots mid-drive.",
+      "zh-CN": "一款 WebGPU 沙漠驾驶游戏，三种载具可在行驶中变形成步行机器人。"
+    },
+    "description": {
+      "en": "Drive a Cybertruck, Formula 1 car, or Tesla Semi across an open desert and transform the vehicle into a walking robot with one key.",
+      "zh-CN": "驾驶 Cybertruck、F1 赛车或 Tesla Semi 穿越开放沙漠，并用一个按键把载具变形成步行机器人。"
+    },
+    "creator": "Scott Sun",
+    "genre": "action",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "play_url": "https://transformer.scottsun.io/",
+    "source_url": "https://x.com/threejs/status/2103852275395678251",
+    "x_post_url": "https://x.com/threejs/status/2103852275395678251",
+    "cover_source_url": "https://transformer.scottsun.io/",
+    "cover_alt": {
+      "en": "Transformer WebGPU browser game title screen",
+      "zh-CN": "Transformer WebGPU 网页游戏标题画面"
+    },
+    "gameplay": {
+      "en": "Choose a vehicle, drive across the desert, and switch into robot form while moving.",
+      "zh-CN": "选择载具穿越沙漠，并在行驶过程中切换为机器人形态。"
+    },
+    "ai_use": {
+      "en": "The checked game page documents the WebGPU experience but does not name a specific AI model.",
+      "zh-CN": "已检查的游戏页面记录了 WebGPU 体验，但未注明具体 AI 模型。"
+    },
+    "cover_url": "/cases/transformer.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-28",
+    "verified_at": "2026-09-28",
+    "id": "deep-sea-fish",
+    "title": {
+      "en": "Deep Sea Fish",
+      "zh-CN": "深海鱼群"
+    },
+    "summary": {
+      "en": "An atmospheric WebGPU scene filled with schools of fish moving through deep blue water.",
+      "zh-CN": "充满深蓝水体与鱼群运动的 WebGPU 氛围互动场景。"
+    },
+    "description": {
+      "en": "Explore a real-time underwater environment where large schools of fish move through light shafts, plants, and open water.",
+      "zh-CN": "探索实时水下环境，观察大量鱼群穿过光束、水草与开阔水域。"
+    },
+    "creator": "Deep Sea Fish team",
+    "genre": "simulation",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "play_url": "https://threejs-fish.vercel.app/",
+    "source_url": "https://x.com/threejs/status/2104200549860343941",
+    "x_post_url": "https://x.com/threejs/status/2104200549860343941",
+    "cover_source_url": "https://threejs-fish.vercel.app/",
+    "cover_alt": {
+      "en": "WebGPU deep sea scene with schools of fish",
+      "zh-CN": "WebGPU 深海场景中的鱼群"
+    },
+    "gameplay": {
+      "en": "Move through the underwater scene and observe schools of fish in real time.",
+      "zh-CN": "在水下场景中移动，实时观察鱼群运动。"
+    },
+    "ai_use": {
+      "en": "The checked Three.js showcase post does not name a specific AI model or creation workflow.",
+      "zh-CN": "已检查的 Three.js 展示帖未注明具体 AI 模型或制作流程。"
+    },
+    "cover_url": "/cases/deep-sea-fish.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-28",
+    "verified_at": "2026-09-28",
+    "id": "zig-zag-dash",
+    "title": {
+      "en": "Zig Zag Dash",
+      "zh-CN": "Zig Zag Dash 折线冲刺"
+    },
+    "summary": {
+      "en": "A one-tap neon space dash about switching direction, collecting gems, and dodging planets.",
+      "zh-CN": "单键控制的霓虹太空冲刺游戏：切换方向、收集宝石并躲避星球。"
+    },
+    "description": {
+      "en": "Race along a glowing zig-zag path in an endless pixel-style space game. Tap to turn, collect gems, and avoid incoming planets.",
+      "zh-CN": "在像素风太空中沿发光折线路径无尽冲刺，点击转向、收集宝石并避开星球。"
+    },
+    "creator": "ishtianrev",
+    "genre": "casual",
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Code",
+      "Claude Opus"
+    ],
+    "play_url": "https://ishtian-revee.github.io/zig-zag-dash/",
+    "source_url": "https://x.com/ishtianrev/status/2104034700771959210",
+    "x_post_url": "https://x.com/ishtianrev/status/2104034700771959210",
+    "cover_source_url": "https://ishtian-revee.github.io/zig-zag-dash/",
+    "cover_alt": {
+      "en": "Zig Zag Dash neon space start screen",
+      "zh-CN": "Zig Zag Dash 霓虹太空开始画面"
+    },
+    "gameplay": {
+      "en": "Tap to switch direction, stay on the path, collect gems, and dodge planets.",
+      "zh-CN": "点击切换方向，保持在路径上，收集宝石并躲避星球。"
+    },
+    "ai_use": {
+      "en": "The creator identifies the project as built with Claude Code using Opus.",
+      "zh-CN": "作者说明该项目使用 Claude Code 与 Opus 构建。"
+    },
+    "cover_url": "/cases/zig-zag-dash.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-28",
+    "verified_at": "2026-09-28",
+    "id": "monolith-wilds",
+    "title": {
+      "en": "Monolith Wilds",
+      "zh-CN": "Monolith Wilds 巨石荒野"
+    },
+    "summary": {
+      "en": "A cinematic world of impossible architecture and vast landscapes made for unhurried discovery.",
+      "zh-CN": "一个充满不可能建筑与辽阔景观的电影感世界，专注自由发现。"
+    },
+    "description": {
+      "en": "Explore monumental structures and wide landscapes without goals or combat. The creator presents it as a one-prompt Opus-generated 3D world.",
+      "zh-CN": "在没有目标和战斗的环境中探索巨型建筑与辽阔景观。作者将其描述为 Opus 一句话生成的 3D 世界。"
+    },
+    "creator": "LexnLin",
+    "genre": "adventure",
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus"
+    ],
+    "play_url": "https://monolithwilds.vercel.app/",
+    "source_url": "https://x.com/LexnLin/status/2103194052850241739",
+    "x_post_url": "https://x.com/LexnLin/status/2103194052850241739",
+    "cover_source_url": "https://monolithwilds.vercel.app/",
+    "cover_alt": {
+      "en": "Monolith Wilds cinematic title screen",
+      "zh-CN": "Monolith Wilds 电影感标题画面"
+    },
+    "gameplay": {
+      "en": "Wander through the landscape and discover impossible structures at your own pace.",
+      "zh-CN": "按照自己的节奏穿行景观，发现不可能存在的巨型结构。"
+    },
+    "ai_use": {
+      "en": "The creator describes the explorable 3D world as generated from a single prompt with Opus.",
+      "zh-CN": "作者说明这个可探索 3D 世界由 Opus 根据一句提示词生成。"
+    },
+    "cover_url": "/cases/monolith-wilds.jpg"
   }
 ]

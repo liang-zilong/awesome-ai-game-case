@@ -79,6 +79,15 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Procedural Terrains](https://procedural-terrains.com/) | Simulation | AI workflow awaits creator confirmation | [Play](https://procedural-terrains.com/) | [X post](https://x.com/threejs/status/2066843195351413026) |
 | [HOTLAP](https://hotlap-ecru.vercel.app/) | Racing | AI workflow awaits creator confirmation | [Play](https://hotlap-ecru.vercel.app/) | [X post](https://x.com/threejs/status/2062686472269189620) |
 | [Arkenfall](https://www.arkenfall.site/) | Action | AI workflow awaits creator confirmation | [Play](https://www.arkenfall.site/) | [X post](https://x.com/LexnLin/status/2102834362530079093) |
+| [PUNCH CLOCK](https://punch-clock-game.vercel.app/) | Action | AI workflow awaits creator confirmation | [Play](https://punch-clock-game.vercel.app/) | [X post](https://x.com/threejs/status/2103401860438917152) |
+| [Voxel Musou: Zhao Yun](https://voxel-musou.vercel.app/) | Action | AI workflow awaits creator confirmation | [Play](https://voxel-musou.vercel.app/) | [X post](https://x.com/threejs/status/2103137148925104412) |
+| [Claybound](https://claybound-56949.web.app/) | Puzzle | AI workflow awaits creator confirmation | [Play](https://claybound-56949.web.app/) | [X post](https://x.com/threejs/status/2103709424271687813) |
+| [Poseidia: The City of the Golden Gates](https://poseidia.vercel.app/) | Adventure | AI workflow awaits creator confirmation | [Play](https://poseidia.vercel.app/) | [X post](https://x.com/threejs/status/2103330634500563113) |
+| [Shirokuro Tennis](https://amix-design.com/tl/tool-g-shirokuro/) | Sports | AI workflow awaits creator confirmation | [Play](https://amix-design.com/tl/tool-g-shirokuro/) | [X post](https://x.com/threejs/status/2104365365107343393) |
+| [Transformer](https://transformer.scottsun.io/) | Action | AI workflow awaits creator confirmation | [Play](https://transformer.scottsun.io/) | [X post](https://x.com/threejs/status/2103852275395678251) |
+| [Deep Sea Fish](https://threejs-fish.vercel.app/) | Simulation | AI workflow awaits creator confirmation | [Play](https://threejs-fish.vercel.app/) | [X post](https://x.com/threejs/status/2104200549860343941) |
+| [Zig Zag Dash](https://ishtian-revee.github.io/zig-zag-dash/) | Casual | Claude Code, Claude Opus | [Play](https://ishtian-revee.github.io/zig-zag-dash/) | [X post](https://x.com/ishtianrev/status/2104034700771959210) |
+| [Monolith Wilds](https://monolithwilds.vercel.app/) | Adventure | Claude Opus | [Play](https://monolithwilds.vercel.app/) | [X post](https://x.com/LexnLin/status/2103194052850241739) |
 
 ## X showcase
 

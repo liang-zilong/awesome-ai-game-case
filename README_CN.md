@@ -79,6 +79,15 @@
 | [Procedural Terrains](https://procedural-terrains.com/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://procedural-terrains.com/) | [X 原帖](https://x.com/threejs/status/2066843195351413026) |
 | [HOTLAP](https://hotlap-ecru.vercel.app/) | 赛车 | AI 工作流程等待作者确认 | [打开游戏](https://hotlap-ecru.vercel.app/) | [X 原帖](https://x.com/threejs/status/2062686472269189620) |
 | [Arkenfall](https://www.arkenfall.site/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://www.arkenfall.site/) | [X 原帖](https://x.com/LexnLin/status/2102834362530079093) |
+| [PUNCH CLOCK 公司拳击](https://punch-clock-game.vercel.app/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://punch-clock-game.vercel.app/) | [X 原帖](https://x.com/threejs/status/2103401860438917152) |
+| [体素无双：赵云](https://voxel-musou.vercel.app/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://voxel-musou.vercel.app/) | [X 原帖](https://x.com/threejs/status/2103137148925104412) |
+| [Claybound 黏土之路](https://claybound-56949.web.app/) | 益智 | AI 工作流程等待作者确认 | [打开游戏](https://claybound-56949.web.app/) | [X 原帖](https://x.com/threejs/status/2103709424271687813) |
+| [Poseidia：金门之城](https://poseidia.vercel.app/) | 冒险 | AI 工作流程等待作者确认 | [打开游戏](https://poseidia.vercel.app/) | [X 原帖](https://x.com/threejs/status/2103330634500563113) |
+| [しろくろテニス！黑白网球](https://amix-design.com/tl/tool-g-shirokuro/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://amix-design.com/tl/tool-g-shirokuro/) | [X 原帖](https://x.com/threejs/status/2104365365107343393) |
+| [Transformer 载具变形](https://transformer.scottsun.io/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://transformer.scottsun.io/) | [X 原帖](https://x.com/threejs/status/2103852275395678251) |
+| [深海鱼群](https://threejs-fish.vercel.app/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://threejs-fish.vercel.app/) | [X 原帖](https://x.com/threejs/status/2104200549860343941) |
+| [Zig Zag Dash 折线冲刺](https://ishtian-revee.github.io/zig-zag-dash/) | 休闲 | Claude Code、Claude Opus | [打开游戏](https://ishtian-revee.github.io/zig-zag-dash/) | [X 原帖](https://x.com/ishtianrev/status/2104034700771959210) |
+| [Monolith Wilds 巨石荒野](https://monolithwilds.vercel.app/) | 冒险 | Claude Opus | [打开游戏](https://monolithwilds.vercel.app/) | [X 原帖](https://x.com/LexnLin/status/2103194052850241739) |
 
 ## X 展示案例
 
