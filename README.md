@@ -90,14 +90,14 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Monolith Wilds](https://monolithwilds.vercel.app/) | Adventure | Claude Opus | [Play](https://monolithwilds.vercel.app/) | [X post](https://x.com/LexnLin/status/2103194052850241739) |
 | [Powder Rush](https://powder-rush-two.vercel.app/) | Sports | ElevenLabs audio; model unverified | [Play](https://powder-rush-two.vercel.app/) | [X post](https://x.com/threejs/status/2104474370941079707) |
 | [UFOmageddon 3D](https://afredenuccigames.itch.io/ufomageddon-3d) | Shooter | AI-assisted code and graphics | [Play](https://afredenuccigames.itch.io/ufomageddon-3d) | [Source](https://afredenuccigames.itch.io/ufomageddon-3d) |
+| [Threejs-Punk Drive](https://www.threejspunk.com/) | Racing | AI workflow awaits creator confirmation | [Play](https://www.threejspunk.com/) | [X post](https://x.com/threejs/status/2104706214374642155) |
+| [Three-point Contest](https://3pointscontest.netlify.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://3pointscontest.netlify.app/) | [X post](https://x.com/threejs/status/2104505613061603525) |
+| [Voxel City](https://three-voxel-destruction.vercel.app/) | Simulation | AI workflow awaits creator confirmation | [Play](https://three-voxel-destruction.vercel.app/) | [GitHub](https://github.com/sbobyn/three-voxel-destruction) |
 
 ## X showcase
 
 | Game | Genre | What is available | Original post |
 | --- | --- | --- | --- | --- |
-| [Threejs-Punk Drive](https://www.threejspunk.com/) | Racing | AI workflow awaits creator confirmation | [Play](https://www.threejspunk.com/) | [X post](https://x.com/threejs/status/2104706214374642155) |
-| [Three-point Contest](https://3pointscontest.netlify.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://3pointscontest.netlify.app/) | [X post](https://x.com/threejs/status/2104505613061603525) |
-| [Voxel City](https://three-voxel-destruction.vercel.app/) | Simulation | AI workflow awaits creator confirmation | [Play](https://three-voxel-destruction.vercel.app/) | [GitHub](https://github.com/sbobyn/three-voxel-destruction) |
 
 ## Model discovery
 
