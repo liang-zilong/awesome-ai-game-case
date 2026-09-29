@@ -3085,5 +3085,232 @@
       "zh-CN": "作者说明这个可探索 3D 世界由 Opus 根据一句提示词生成。"
     },
     "cover_url": "/cases/monolith-wilds.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-29",
+    "verified_at": "2026-09-29",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "id": "threejs-punk-drive",
+    "title": {
+      "en": "Threejs-Punk Drive",
+      "zh-CN": "Threejs-Punk Drive 赛博朋克驾驶"
+    },
+    "summary": {
+      "en": "Drift through a rainy neon city in a free WebGPU browser driving game.",
+      "zh-CN": "在免费的 WebGPU 网页驾驶游戏中穿行雨夜霓虹城市，体验漂移。"
+    },
+    "description": {
+      "en": "Anderson Mancini and Sunag present a Three.js driving game with traffic, nitro, drift scoring and a synthwave radio. A WebGPU-capable browser is required.",
+      "zh-CN": "Anderson Mancini 与 Sunag 制作的 Three.js 驾驶游戏，包含城市车流、氮气加速、漂移计分与合成波电台，需要支持 WebGPU 的浏览器。"
+    },
+    "creator": "Anderson Mancini and Sunag",
+    "genre": "racing",
+    "play_url": "https://www.threejspunk.com/",
+    "gameplay": {
+      "en": "Use W/S to accelerate and brake, A/D to steer, Space to drift and Shift for nitro. C changes the camera; Tab opens the city map.",
+      "zh-CN": "W/S 加速和刹车，A/D 转向，空格漂移，Shift 使用氮气；C 切换镜头，Tab 打开城市地图。"
+    },
+    "cover_alt": {
+      "en": "Threejs-Punk Drive rainy neon title screen",
+      "zh-CN": "Threejs-Punk Drive 雨夜霓虹标题画面"
+    },
+    "ai_use": {
+      "en": "The checked game page and Three.js showcase do not document an AI workflow or a specific model.",
+      "zh-CN": "已检查的游戏页面与 Three.js 展示帖未记录 AI 工作流程或具体模型。"
+    },
+    "x_post_url": "https://x.com/threejs/status/2104706214374642155",
+    "source_url": "https://x.com/threejs/status/2104706214374642155",
+    "cover_source_url": "https://www.threejspunk.com/",
+    "cover_url": "/cases/threejs-punk-drive.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-29",
+    "verified_at": "2026-09-29",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "id": "three-point-contest",
+    "title": {
+      "en": "Three-point Contest",
+      "zh-CN": "Three-point Contest 三分球大赛"
+    },
+    "summary": {
+      "en": "A browser basketball challenge with timed aiming, shot power and five shooting racks.",
+      "zh-CN": "通过瞄准与力度时机挑战五组投篮点的网页三分球大赛。"
+    },
+    "description": {
+      "en": "Shoot from five positions in the Wildcats gym. Each rack ends with a two-point money ball; consecutive makes and quick releases offer additional scoring opportunities. Daily results are stored locally in the browser.",
+      "zh-CN": "在 Wildcats 体育馆的五个位置投篮，每组最后一颗为两分球；连续命中与快速出手带来更多得分机会，每日成绩保存在本地浏览器中。"
+    },
+    "creator": "Uncredited on the checked public page",
+    "genre": "sports",
+    "play_url": "https://3pointscontest.netlify.app/",
+    "gameplay": {
+      "en": "Click to stop the aim marker, then click again to set power. Hold Shift to switch to a flatter shot arc and try to hit the green timing zones.",
+      "zh-CN": "点击停止瞄准标记，再次点击确定力度；按住 Shift 切换为更平的抛物线，尽量命中绿色时机区域。"
+    },
+    "cover_alt": {
+      "en": "Three-point Contest title menu in the Wildcats basketball gym",
+      "zh-CN": "Three-point Contest 在 Wildcats 篮球馆的标题菜单"
+    },
+    "ai_use": {
+      "en": "The checked game page and Three.js showcase do not document an AI workflow or a specific model.",
+      "zh-CN": "已检查的游戏页面与 Three.js 展示帖未记录 AI 工作流程或具体模型。"
+    },
+    "x_post_url": "https://x.com/threejs/status/2104505613061603525",
+    "source_url": "https://x.com/threejs/status/2104505613061603525",
+    "cover_source_url": "https://3pointscontest.netlify.app/",
+    "cover_url": "/cases/three-point-contest.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-29",
+    "verified_at": "2026-09-29",
+    "ai_roles": [
+      "art_audio"
+    ],
+    "models": [],
+    "id": "powder-rush",
+    "title": {
+      "en": "Powder Rush",
+      "zh-CN": "Powder Rush 粉雪冲刺"
+    },
+    "summary": {
+      "en": "An arcade snowboard descent through a 3.35 km alpine valley with an 890 m drop.",
+      "zh-CN": "沿 3.35 公里高山雪谷完成 890 米落差下降的街机单板滑雪游戏。"
+    },
+    "description": {
+      "en": "Andrew Blumson’s WebGPU snowboard game follows one mountain run through snow and forests. Land tricks to fill the boost meter and trigger RUSH. The game requires a desktop WebGPU browser and supports keyboard and gamepad controls.",
+      "zh-CN": "Andrew Blumson 制作的 WebGPU 单板滑雪游戏，沿单条山地路线穿越积雪与森林；成功落地的技巧动作积累加速能量并触发 RUSH。游戏需要桌面端 WebGPU 浏览器，支持键盘与手柄。"
+    },
+    "creator": "Andrew Blumson",
+    "genre": "sports",
+    "play_url": "https://powder-rush-two.vercel.app/",
+    "gameplay": {
+      "en": "Start a mountain run, steer the snowboard down the valley, land tricks and use boost to reach the finish faster.",
+      "zh-CN": "开始山地滑行，控制单板沿雪谷下降，完成技巧动作积累加速，以更快速度到达终点。"
+    },
+    "cover_alt": {
+      "en": "Powder Rush title screen with a snowboarder on a snowy mountain",
+      "zh-CN": "Powder Rush 雪山单板滑雪标题画面"
+    },
+    "ai_use": {
+      "en": "The public in-game credits state that music, the announcer and every sound effect were made with ElevenLabs. They do not identify a specific model or verify AI programming.",
+      "zh-CN": "公开游戏制作名单说明音乐、播报员与全部音效使用 ElevenLabs 制作，但未注明具体模型，也未证实 AI 编程。"
+    },
+    "x_post_url": "https://x.com/threejs/status/2104474370941079707",
+    "source_url": "https://x.com/threejs/status/2104474370941079707",
+    "cover_source_url": "https://powder-rush-two.vercel.app/",
+    "cover_url": "/cases/powder-rush.jpg"
+  },
+  {
+    "platforms": [
+      "web",
+      "mobile"
+    ],
+    "status": "playable",
+    "preview_mode": "iframe",
+    "added_at": "2026-09-29",
+    "verified_at": "2026-09-29",
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "id": "voxel-city",
+    "title": {
+      "en": "Voxel City",
+      "zh-CN": "Voxel City 体素破坏城"
+    },
+    "summary": {
+      "en": "A WebGPU destruction sandbox where about 94,000 city voxels are individual rigid bodies.",
+      "zh-CN": "约 9.4 万个城市体素分别参与刚体模拟的 WebGPU 破坏沙盒。"
+    },
+    "description": {
+      "en": "This open-source Three.js demo uses the three-avbd GPU solver for destructible city buildings, a voxel race track and a zero-gravity space station. Cut supports, shatter glass and watch debris settle; compatible mobile browsers have touch controls.",
+      "zh-CN": "这款开源 Three.js 演示使用 three-avbd GPU 求解器，提供可破坏城市、体素赛道与零重力空间站。切断支撑、打碎玻璃并观察碎片沉降；兼容的手机浏览器提供触控操作。"
+    },
+    "creator": "sbobyn (@nybobs)",
+    "genre": "simulation",
+    "play_url": "https://three-voxel-destruction.vercel.app/",
+    "source_url": "https://github.com/sbobyn/three-voxel-destruction",
+    "gameplay": {
+      "en": "Move with WASD and use the mouse to aim and operate tools. Switch between hammer, laser, rockets, charges and wrecking ball; F toggles flying and walking, and R resets the scene.",
+      "zh-CN": "WASD 移动，鼠标瞄准并使用工具；切换锤子、激光、火箭、炸药与破坏球，F 切换飞行和步行，R 重置场景。"
+    },
+    "cover_alt": {
+      "en": "Voxel City browser sandbox with towers and a rocket launcher",
+      "zh-CN": "Voxel City 网页沙盒中的高楼与火箭发射器"
+    },
+    "ai_use": {
+      "en": "The public repository describes the physics and controls but does not document an AI workflow or model.",
+      "zh-CN": "公开仓库介绍了物理系统和操作方式，但未记录 AI 工作流程或模型。"
+    },
+    "x_post_url": "https://x.com/threejs/status/2104469068824854819",
+    "cover_source_url": "https://three-voxel-destruction.vercel.app/",
+    "cover_url": "/cases/voxel-city.jpg"
+  },
+  {
+    "platforms": [
+      "web"
+    ],
+    "status": "playable",
+    "preview_mode": "none",
+    "added_at": "2026-09-29",
+    "verified_at": "2026-09-29",
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [],
+    "id": "ufomageddon-3d",
+    "title": {
+      "en": "UFOmageddon 3D",
+      "zh-CN": "UFOmageddon 3D 外星入侵"
+    },
+    "summary": {
+      "en": "A free browser demo of a retro first-person shooter set in an alien-invaded city.",
+      "zh-CN": "外星入侵城市题材的复古第一人称射击游戏，提供免费网页试玩。"
+    },
+    "description": {
+      "en": "Play as Nova Velryn, leave the hotel and fight aliens with firearms and unusual gadgets. The free demo has marked boundaries; the complete downloadable edition is paid. Desktop WebGL 2 and keyboard/mouse or an Xbox controller are supported.",
+      "zh-CN": "扮演 Nova Velryn，从酒店进入城市，使用枪械与奇特道具对抗外星人。免费试玩区域设有边界，完整下载版付费；支持桌面 WebGL 2、键鼠或 Xbox 手柄。"
+    },
+    "creator": "Afredenuccigames (@alexfredo87)",
+    "genre": "shooter",
+    "play_url": "https://afredenuccigames.itch.io/ufomageddon-3d",
+    "source_url": "https://afredenuccigames.itch.io/ufomageddon-3d",
+    "cover_source_url": "https://html-classic.itch.zone/html/19438049/index.html?v=1790547585",
+    "gameplay": {
+      "en": "Click Run game, then Enter the game. Move with WASD, aim with the mouse, fire with left click, use E to interact or enter vehicles, and press Esc or Tab to pause.",
+      "zh-CN": "点击 Run game，再点击 Enter the game；WASD 移动，鼠标瞄准，左键攻击，E 互动或进入载具，Esc 或 Tab 暂停。"
+    },
+    "cover_alt": {
+      "en": "UFOmageddon 3D playable demo title screen with an alien fleet",
+      "zh-CN": "UFOmageddon 3D 可玩演示的外星舰队标题画面"
+    },
+    "ai_use": {
+      "en": "The creator’s itch.io AI Disclosure explicitly lists AI Assisted, Code and Graphics. This verifies AI-assisted coding and graphics, without identifying a model or claiming fully autonomous development.",
+      "zh-CN": "作者的 itch.io AI Disclosure 明确列出 AI Assisted、Code 和 Graphics，支持 AI 辅助编程与图像制作，未注明模型，也未声称完全自主开发。"
+    },
+    "x_post_url": "https://x.com/threejs/status/2104427146299249014",
+    "cover_url": "/cases/ufomageddon-3d.jpg"
   }
 ]

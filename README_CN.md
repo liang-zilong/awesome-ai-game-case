@@ -88,11 +88,16 @@
 | [深海鱼群](https://threejs-fish.vercel.app/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://threejs-fish.vercel.app/) | [X 原帖](https://x.com/threejs/status/2104200549860343941) |
 | [Zig Zag Dash 折线冲刺](https://ishtian-revee.github.io/zig-zag-dash/) | 休闲 | Claude Code、Claude Opus | [打开游戏](https://ishtian-revee.github.io/zig-zag-dash/) | [X 原帖](https://x.com/ishtianrev/status/2104034700771959210) |
 | [Monolith Wilds 巨石荒野](https://monolithwilds.vercel.app/) | 冒险 | Claude Opus | [打开游戏](https://monolithwilds.vercel.app/) | [X 原帖](https://x.com/LexnLin/status/2103194052850241739) |
+| [Powder Rush 粉雪冲刺](https://powder-rush-two.vercel.app/) | 体育 | ElevenLabs 音频；模型待核实 | [打开游戏](https://powder-rush-two.vercel.app/) | [X 原帖](https://x.com/threejs/status/2104474370941079707) |
+| [UFOmageddon 3D 外星入侵](https://afredenuccigames.itch.io/ufomageddon-3d) | 射击 | AI 辅助编程与图像 | [打开游戏](https://afredenuccigames.itch.io/ufomageddon-3d) | [来源](https://afredenuccigames.itch.io/ufomageddon-3d) |
 
 ## X 展示案例
 
 | 游戏 | 类型 | 当前可用内容 | 原始帖子 |
 | --- | --- | --- | --- | --- |
+| [Threejs-Punk Drive 赛博朋克驾驶](https://www.threejspunk.com/) | 赛车 | AI 工作流程等待作者确认 | [打开游戏](https://www.threejspunk.com/) | [X 原帖](https://x.com/threejs/status/2104706214374642155) |
+| [Three-point Contest 三分球大赛](https://3pointscontest.netlify.app/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://3pointscontest.netlify.app/) | [X 原帖](https://x.com/threejs/status/2104505613061603525) |
+| [Voxel City 体素破坏城](https://three-voxel-destruction.vercel.app/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://three-voxel-destruction.vercel.app/) | [GitHub](https://github.com/sbobyn/three-voxel-destruction) |
 
 ## 模型名称与 SEO
 
