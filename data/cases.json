@@ -3312,5 +3312,230 @@
     },
     "x_post_url": "https://x.com/threejs/status/2104427146299249014",
     "cover_url": "/cases/ufomageddon-3d.jpg"
+  },
+  {
+    "id": "portal-clone",
+    "title": {
+      "en": "Portal Clone",
+      "zh-CN": "传送门复刻"
+    },
+    "summary": {
+      "en": "Solve first-person test chambers by placing linked portals.",
+      "zh-CN": "通过放置互通的传送门，破解第一人称测试房间。"
+    },
+    "description": {
+      "en": "A browser-based Three.js Portal-inspired experiment with single-player chambers and a chamber editor. The public build allows guest access without an account.",
+      "zh-CN": "基于 Three.js 的《传送门》风格网页实验，包含单人测试房间和房间编辑器。公开版本支持免登录游客进入。"
+    },
+    "creator": "rafadante",
+    "genre": "puzzle",
+    "gameplay": {
+      "en": "Enter as a guest, choose Single Player and Play All, then navigate rooms and place portals to reach the exit.",
+      "zh-CN": "以游客身份进入，选择单人模式与 Play All，在房间中放置传送门并寻找出口。"
+    },
+    "play_url": "https://portal-clone-three.vercel.app/",
+    "source_url": "https://github.com/rafadante/portal-clone-three",
+    "x_post_url": "https://x.com/threejs/status/2104938681115263410",
+    "cover_alt": {
+      "en": "First-person Portal Clone test chamber with portal gun",
+      "zh-CN": "手持传送枪的 Portal Clone 第一人称测试房间"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/portal-clone.png",
+    "cover_source_url": "https://portal-clone-three.vercel.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-09-30",
+    "verified_at": "2026-09-30"
+  },
+  {
+    "id": "gramma-theft-auto",
+    "title": {
+      "en": "Gramma Theft Auto",
+      "zh-CN": "奶奶侠盗风云"
+    },
+    "summary": {
+      "en": "A playful open-world romp through a Japanese neighborhood as a grandmother.",
+      "zh-CN": "扮演奶奶，在日式街区展开恶搞开放世界冒险。"
+    },
+    "description": {
+      "en": "A browser game subtitled 回覧板クライシス, with a 3D neighborhood, movement, dash, attacks, vehicles and a map. Its game page credits an AI video character inspiration.",
+      "zh-CN": "副标题为「回覧板クライシス」的网页游戏，设有 3D 街区、移动、冲刺、攻击、载具和地图。游戏页注明角色灵感来自 AI 视频。"
+    },
+    "creator": "katapad",
+    "genre": "action",
+    "gameplay": {
+      "en": "Press Play, roam with WASD, dash with Shift, attack with Space and inspect objects with E.",
+      "zh-CN": "点击 Play 后用 WASD 探索街区，Shift 冲刺、空格攻击、E 调查物品。"
+    },
+    "play_url": "https://katapad.github.io/bba-gta-game/",
+    "source_url": "https://katapad.github.io/bba-gta-game/",
+    "x_post_url": "https://x.com/threejs/status/2104749753464713371",
+    "cover_alt": {
+      "en": "A 3D Japanese neighborhood in Gramma Theft Auto",
+      "zh-CN": "Gramma Theft Auto 中的日式 3D 街区"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/gramma-theft-auto.png",
+    "cover_source_url": "https://katapad.github.io/bba-gta-game/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-09-30",
+    "verified_at": "2026-09-30"
+  },
+  {
+    "id": "castnet",
+    "title": {
+      "en": "CastNet",
+      "zh-CN": "撒网捕鱼"
+    },
+    "summary": {
+      "en": "Read the surf and cast a net for baitfish in a short coastal fishing game.",
+      "zh-CN": "观察海浪，在短时海岸捕鱼游戏中撒网捕捉小鱼。"
+    },
+    "description": {
+      "en": "A three-minute browser fishing game set on Florida’s Gulf Coast. Choose a difficulty, follow flashes of fish, time the cast and haul the net before the round ends.",
+      "zh-CN": "设定在佛罗里达墨西哥湾海岸的三分钟网页捕鱼游戏。选择难度，观察鱼群闪光，把握撒网时机并在回合结束前收网。"
+    },
+    "creator": "thejonfredric",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Enter a nickname and start a round. Move with WASD, aim with the mouse, click to cast and hold Space to retrieve.",
+      "zh-CN": "输入昵称开始回合。用 WASD 移动、鼠标瞄准，点击撒网，按住空格收网。"
+    },
+    "play_url": "https://fishingtrip.app/castnet/",
+    "source_url": "https://fishingtrip.app/castnet/",
+    "x_post_url": "https://x.com/thejonfredric/status/2104957781472387308",
+    "cover_alt": {
+      "en": "Pixel-art shoreline and fish schools in CastNet",
+      "zh-CN": "CastNet 中的像素海岸与鱼群"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/castnet.png",
+    "cover_source_url": "https://fishingtrip.app/castnet/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-09-30",
+    "verified_at": "2026-09-30"
+  },
+  {
+    "id": "biro-clash",
+    "title": {
+      "en": "Biro Clash",
+      "zh-CN": "甩笔大战"
+    },
+    "summary": {
+      "en": "Flick pens across a school desk in a physics-based duel.",
+      "zh-CN": "在课桌上用物理甩笔展开对决。"
+    },
+    "description": {
+      "en": "A browser pen-flicking game powered by Box2D v3. The setup offers duels, team battles and battle royale, with an AI bot, local two-player and peer-to-peer modes.",
+      "zh-CN": "采用 Box2D v3 物理的网页甩笔游戏，提供单挑、团队战和大逃杀模式，并支持电脑对手、本地双人及点对点对战。"
+    },
+    "creator": "The_real_E2O",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Choose a match format and opponent, enter the classroom, then aim and flick your pen to knock rivals across the desk.",
+      "zh-CN": "选择赛制与对手并进入教室，瞄准并甩动钢笔，击退桌面上的对手。"
+    },
+    "play_url": "https://thereale2o.github.io/birogame/",
+    "source_url": "https://github.com/TherealE2O/birogame",
+    "x_post_url": "https://x.com/The_real_E2O/status/2104882858641027265",
+    "cover_alt": {
+      "en": "Two pens facing off on the Biro Clash school desk",
+      "zh-CN": "Biro Clash 课桌上相对的两支钢笔"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/biro-clash.png",
+    "cover_source_url": "https://thereale2o.github.io/birogame/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-09-30",
+    "verified_at": "2026-09-30"
+  },
+  {
+    "id": "vectorrun",
+    "title": {
+      "en": "VectorRun",
+      "zh-CN": "矢量疾驰"
+    },
+    "summary": {
+      "en": "Pilot a fighter through a five-minute space combat mission.",
+      "zh-CN": "驾驶战机完成五分钟太空战斗任务。"
+    },
+    "description": {
+      "en": "A browser space shooter with a three-dimensional tactical scanner, target selection, shields, missiles and keyboard or on-screen flight controls.",
+      "zh-CN": "网页太空射击游戏，包含 3D 战术扫描器、目标选择、护盾、导弹，以及键盘和屏幕飞行控制。"
+    },
+    "creator": "HappyMonkeyAI",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Start Mission, steer with WASD, aim with the mouse, fire with Space or the Fire button and launch missiles at locked targets.",
+      "zh-CN": "点击 Start Mission，用 WASD 驾驶、鼠标瞄准，通过空格或 Fire 按钮开火，并对锁定目标发射导弹。"
+    },
+    "play_url": "https://vector.happymonkey.ai/",
+    "source_url": "https://vector.happymonkey.ai/",
+    "x_post_url": "https://x.com/HappyMonkeyAI/status/2104572037079675385",
+    "cover_alt": {
+      "en": "Space fighter, planets and targeting HUD in VectorRun",
+      "zh-CN": "VectorRun 中的战机、行星和瞄准界面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/vectorrun.png",
+    "cover_source_url": "https://vector.happymonkey.ai/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-09-30",
+    "verified_at": "2026-09-30"
   }
 ]

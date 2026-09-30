@@ -94,6 +94,12 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Three-point Contest](https://3pointscontest.netlify.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://3pointscontest.netlify.app/) | [X post](https://x.com/threejs/status/2104505613061603525) |
 | [Voxel City](https://three-voxel-destruction.vercel.app/) | Simulation | AI workflow awaits creator confirmation | [Play](https://three-voxel-destruction.vercel.app/) | [GitHub](https://github.com/sbobyn/three-voxel-destruction) |
 
+| [Portal Clone](https://portal-clone-three.vercel.app/) | Puzzle | AI workflow awaits creator confirmation | [Play](https://portal-clone-three.vercel.app/) | [Source](https://github.com/rafadante/portal-clone-three) |
+| [Gramma Theft Auto](https://katapad.github.io/bba-gta-game/) | Action | AI workflow awaits creator confirmation | [Play](https://katapad.github.io/bba-gta-game/) | [Source](https://katapad.github.io/bba-gta-game/) |
+| [CastNet](https://fishingtrip.app/castnet/) | Sports | AI workflow awaits creator confirmation | [Play](https://fishingtrip.app/castnet/) | [Source](https://fishingtrip.app/castnet/) |
+| [Biro Clash](https://thereale2o.github.io/birogame/) | Sports | AI workflow awaits creator confirmation | [Play](https://thereale2o.github.io/birogame/) | [Source](https://github.com/TherealE2O/birogame) |
+| [VectorRun](https://vector.happymonkey.ai/) | Shooter | AI workflow awaits creator confirmation | [Play](https://vector.happymonkey.ai/) | [Source](https://vector.happymonkey.ai/) |
+
 ## X showcase
 
 | Game | Genre | What is available | Original post |

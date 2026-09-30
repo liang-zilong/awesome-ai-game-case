@@ -94,6 +94,12 @@
 | [Three-point Contest 三分球大赛](https://3pointscontest.netlify.app/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://3pointscontest.netlify.app/) | [X 原帖](https://x.com/threejs/status/2104505613061603525) |
 | [Voxel City 体素破坏城](https://three-voxel-destruction.vercel.app/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://three-voxel-destruction.vercel.app/) | [GitHub](https://github.com/sbobyn/three-voxel-destruction) |
 
+| [传送门复刻](https://portal-clone-three.vercel.app/) | 解谜 | AI 工作流程等待作者确认 | [打开游戏](https://portal-clone-three.vercel.app/) | [来源](https://github.com/rafadante/portal-clone-three) |
+| [奶奶侠盗风云](https://katapad.github.io/bba-gta-game/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://katapad.github.io/bba-gta-game/) | [来源](https://katapad.github.io/bba-gta-game/) |
+| [撒网捕鱼](https://fishingtrip.app/castnet/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://fishingtrip.app/castnet/) | [来源](https://fishingtrip.app/castnet/) |
+| [甩笔大战](https://thereale2o.github.io/birogame/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://thereale2o.github.io/birogame/) | [来源](https://github.com/TherealE2O/birogame) |
+| [矢量疾驰](https://vector.happymonkey.ai/) | 射击 | AI 工作流程等待作者确认 | [打开游戏](https://vector.happymonkey.ai/) | [来源](https://vector.happymonkey.ai/) |
+
 ## X 展示案例
 
 | 游戏 | 类型 | 当前可用内容 | 原始帖子 |
