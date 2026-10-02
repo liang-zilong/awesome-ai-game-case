@@ -3537,5 +3537,635 @@
     },
     "added_at": "2026-09-30",
     "verified_at": "2026-09-30"
+  },
+  {
+    "id": "soccar",
+    "title": {
+      "en": "Soccar",
+      "zh-CN": "汽车足球"
+    },
+    "summary": {
+      "en": "Drive a car into a giant ball in an arcade soccer match.",
+      "zh-CN": "驾驶汽车撞击巨型足球，展开街机式比赛。"
+    },
+    "description": {
+      "en": "A browser car soccer game in a stadium with a match clock, score, drifting and ball cam.",
+      "zh-CN": "设有计时、比分、漂移与追球镜头的体育场汽车足球网页游戏。"
+    },
+    "creator": "BlendiByl",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Steer and boost your car, chase the ball and score against the other team.",
+      "zh-CN": "驾驶并加速追球，把球送进对方球门。"
+    },
+    "play_url": "https://soccar-one.vercel.app/",
+    "source_url": "https://soccar-one.vercel.app/",
+    "x_post_url": "https://x.com/threejs/status/2105270138530627684",
+    "cover_alt": {
+      "en": "Car facing the soccer ball inside Soccar stadium",
+      "zh-CN": "Soccar 体育场内面向足球的赛车"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/soccar.png",
+    "cover_source_url": "https://soccar-one.vercel.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "hitch-park",
+    "title": {
+      "en": "Hitch Park",
+      "zh-CN": "停车挑战"
+    },
+    "summary": {
+      "en": "Park a vehicle in a compact browser driving challenge.",
+      "zh-CN": "在浏览器驾驶挑战中把车辆停进车位。"
+    },
+    "description": {
+      "en": "A NewKrok parking game with a 3D lot, vehicle selection and timed challenges.",
+      "zh-CN": "NewKrok 制作的 3D 停车场游戏，提供车辆选择和计时挑战。"
+    },
+    "creator": "KSomoracz / NewKrok",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Choose a vehicle, enter the lot and steer into the marked parking space before time runs out.",
+      "zh-CN": "选择车辆进入停车场，在限时内驶入标记车位。"
+    },
+    "play_url": "https://newkrok.com/gamer-zone/hitch-park",
+    "source_url": "https://newkrok.com/gamer-zone/hitch-park",
+    "x_post_url": "https://x.com/threejs/status/2105275040778633272",
+    "cover_alt": {
+      "en": "Parking lot and vehicle selection in Hitch Park",
+      "zh-CN": "Hitch Park 的停车场与车辆选择界面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/hitch-park.png",
+    "cover_source_url": "https://newkrok.com/gamer-zone/hitch-park",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "skate-soweme",
+    "title": {
+      "en": "Skate Soweme",
+      "zh-CN": "街头滑板"
+    },
+    "summary": {
+      "en": "Skate through a stylized 3D street scene.",
+      "zh-CN": "在风格化的 3D 街道上滑板穿行。"
+    },
+    "description": {
+      "en": "A browser skateboarding game with a street course, a timer and movement controls.",
+      "zh-CN": "带有街道路线、计时器与移动操作的网页滑板游戏。"
+    },
+    "creator": "HelloSoweme",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Start a run, move the skater around the street and keep riding through the course.",
+      "zh-CN": "开始一轮滑行，操纵滑板手沿街道路线前进。"
+    },
+    "play_url": "https://skate.soweme.com/",
+    "source_url": "https://skate.soweme.com/",
+    "x_post_url": "https://x.com/threejs/status/2105140434402152855",
+    "cover_alt": {
+      "en": "Skater standing above a colorful street course",
+      "zh-CN": "站在彩色街道路线上的滑板手"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/skate-soweme.png",
+    "cover_source_url": "https://skate.soweme.com/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "dust-and-lead",
+    "title": {
+      "en": "Dust & Lead",
+      "zh-CN": "尘与铅"
+    },
+    "summary": {
+      "en": "Fight through a pixel-art western platform shooter.",
+      "zh-CN": "在像素风西部平台射击游戏中战斗。"
+    },
+    "description": {
+      "en": "A side-scrolling western shooter with a desert town, enemies and arcade-style combat.",
+      "zh-CN": "以荒漠小镇为舞台的横向卷轴西部射击游戏，包含敌人和街机式战斗。"
+    },
+    "creator": "inkstaid",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Move through the town, aim and shoot while avoiding hostile fire.",
+      "zh-CN": "在小镇中移动、瞄准和射击，同时躲避敌人的攻击。"
+    },
+    "play_url": "https://inkstaid.github.io/dust-and-lead/",
+    "source_url": "https://inkstaid.github.io/dust-and-lead/",
+    "x_post_url": "https://x.com/inkstaid/status/2105380449875005813",
+    "cover_alt": {
+      "en": "Pixel-art western town in Dust & Lead",
+      "zh-CN": "《尘与铅》的像素风西部小镇"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/dust-and-lead.png",
+    "cover_source_url": "https://inkstaid.github.io/dust-and-lead/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "taipei-gta",
+    "title": {
+      "en": "Taipei GTA",
+      "zh-CN": "臺北 GTA"
+    },
+    "summary": {
+      "en": "Explore a playful open-world driving take on Taipei.",
+      "zh-CN": "在戏谑的台北开放世界中驾车探索。"
+    },
+    "description": {
+      "en": "A browser driving game set in a stylized Taipei with landmarks and a city exploration menu.",
+      "zh-CN": "以风格化台北为舞台的网页驾驶游戏，包含地标和城市探索菜单。"
+    },
+    "creator": "aicodewithme",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Start from the menu and drive around the city streets and landmarks.",
+      "zh-CN": "从菜单开始，在城市街道和地标之间驾车穿行。"
+    },
+    "play_url": "https://taipei-gta.vercel.app/",
+    "source_url": "https://taipei-gta.vercel.app/",
+    "x_post_url": "https://x.com/barros_bryce/status/2105185113999130743",
+    "cover_alt": {
+      "en": "Taipei skyline and start menu in Taipei GTA",
+      "zh-CN": "《臺北 GTA》的台北天际线与开始菜单"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/taipei-gta.png",
+    "cover_source_url": "https://taipei-gta.vercel.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "geopreneur",
+    "title": {
+      "en": "GeoPreneur",
+      "zh-CN": "创业地理猜谜"
+    },
+    "summary": {
+      "en": "Guess where a company was founded from a short clue.",
+      "zh-CN": "根据简短线索猜测公司的创办地点。"
+    },
+    "description": {
+      "en": "A globe-based founder and company geography quiz that presents a business clue and asks for a location.",
+      "zh-CN": "围绕创始人与公司的地球仪地理问答：阅读商业线索，再猜测地点。"
+    },
+    "creator": "leonagano",
+    "genre": "puzzle",
+    "gameplay": {
+      "en": "Read the clue, choose a location on the globe and submit a guess.",
+      "zh-CN": "阅读线索，在地球仪上选定地点并提交猜测。"
+    },
+    "play_url": "https://geopreneur.fun/",
+    "source_url": "https://geopreneur.fun/",
+    "x_post_url": "https://x.com/leonagano/status/2105452810175455699",
+    "cover_alt": {
+      "en": "Globe and company clue in GeoPreneur",
+      "zh-CN": "GeoPreneur 中的地球仪与公司线索"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/geopreneur.png",
+    "cover_source_url": "https://geopreneur.fun/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "who-gets-the-green",
+    "title": {
+      "en": "Who Gets the Green?",
+      "zh-CN": "谁先绿灯？"
+    },
+    "summary": {
+      "en": "Experiment with traffic signals at a busy intersection.",
+      "zh-CN": "在繁忙路口实验交通信号灯调度。"
+    },
+    "description": {
+      "en": "An interactive 3D intersection simulation that compares fixed and adaptive signals, with traffic, vehicle and speed controls.",
+      "zh-CN": "可交互的 3D 路口模拟，比较固定与自适应信号灯，并可调整车流、车辆类型和速度。"
+    },
+    "creator": "Ryan Sael",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Switch signal timing, add buses or an ambulance, then watch waiting times change.",
+      "zh-CN": "切换信号灯方案，加入公交车或救护车，观察等待时间变化。"
+    },
+    "play_url": "https://sael.net/traffic/",
+    "source_url": "https://sael.net/traffic/",
+    "x_post_url": "https://x.com/threejs/status/2105672551825596721",
+    "cover_alt": {
+      "en": "Aerial 3D traffic intersection with signal controls",
+      "zh-CN": "带信号灯控制面板的 3D 路口俯视图"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/who-gets-the-green.png",
+    "cover_source_url": "https://sael.net/traffic/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "soap-bubble",
+    "title": {
+      "en": "Soap Bubble Lab",
+      "zh-CN": "肥皂泡实验室"
+    },
+    "summary": {
+      "en": "Shape and stretch a colorful soap film.",
+      "zh-CN": "调整并拉伸彩色肥皂膜。"
+    },
+    "description": {
+      "en": "An interactive soap-film lab with frame shapes, ring position, wire twist and multiple viewing modes.",
+      "zh-CN": "可交互的肥皂膜实验室，可改变框架形状、拉环位置、铁丝扭转角度和视角。"
+    },
+    "creator": "Ryan Sael",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Choose a frame, pull the ring, twist the wire and dip again to form a new film.",
+      "zh-CN": "选择框架，拉动圆环、扭转铁丝，再次浸泡形成新膜。"
+    },
+    "play_url": "https://sael.net/soap-bubble/",
+    "source_url": "https://sael.net/soap-bubble/",
+    "x_post_url": "https://x.com/threejs/status/2105621522383839684",
+    "cover_alt": {
+      "en": "Iridescent soap film and experiment controls",
+      "zh-CN": "彩虹色肥皂膜与实验控制面板"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/soap-bubble.png",
+    "cover_source_url": "https://sael.net/soap-bubble/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "the-last-lantern",
+    "title": {
+      "en": "The Last Lantern",
+      "zh-CN": "最后的提灯"
+    },
+    "summary": {
+      "en": "Survive in a dark fantasy world by the light of a lantern.",
+      "zh-CN": "借提灯的光芒在黑暗奇幻世界中求生。"
+    },
+    "description": {
+      "en": "A browser fantasy survival game on NewKrok with a 3D world, movement, abilities and an in-game tutorial.",
+      "zh-CN": "NewKrok 的网页奇幻生存游戏，包含 3D 世界、移动、技能和游戏内教程。"
+    },
+    "creator": "KSomoracz / NewKrok",
+    "genre": "survival",
+    "gameplay": {
+      "en": "Enter the world, move with WASD and use abilities while keeping the lantern-lit journey going.",
+      "zh-CN": "进入世界，用 WASD 移动并施放技能，继续提灯之旅。"
+    },
+    "play_url": "https://newkrok.com/gamer-zone/last-lantern",
+    "source_url": "https://newkrok.com/gamer-zone/last-lantern",
+    "x_post_url": "https://x.com/KSomoracz/status/2104692937837969783",
+    "cover_alt": {
+      "en": "Dark fantasy world and opening dialog in The Last Lantern",
+      "zh-CN": "《最后的提灯》的黑暗奇幻场景与开场对话"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/the-last-lantern.png",
+    "cover_source_url": "https://newkrok.com/gamer-zone/last-lantern",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "freesbee",
+    "title": {
+      "en": "Freesbee",
+      "zh-CN": "飞盘小狗"
+    },
+    "summary": {
+      "en": "Chase a flying disc across a grassy field as a dog.",
+      "zh-CN": "操纵小狗在草地上追逐飞盘。"
+    },
+    "description": {
+      "en": "A 3D browser dog-and-disc game with a timer, score, movement hints and a large outdoor field.",
+      "zh-CN": "3D 网页飞盘游戏，带有计时、计分、操作提示和宽阔的户外场地。"
+    },
+    "creator": "okidoki9903",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Move the dog across the field and catch the thrown disc before the timer ends.",
+      "zh-CN": "操纵小狗穿过草地，在计时结束前接住飞盘。"
+    },
+    "play_url": "https://okidoki9903.github.io/Freesbee/",
+    "source_url": "https://okidoki9903.github.io/Freesbee/",
+    "x_post_url": "https://x.com/Dia_konos/status/2104308320089882772",
+    "cover_alt": {
+      "en": "Dog running on a grassy disc field",
+      "zh-CN": "在草地飞盘场上奔跑的小狗"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/freesbee.png",
+    "cover_source_url": "https://okidoki9903.github.io/Freesbee/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "dead-station-zero-hour",
+    "title": {
+      "en": "DEAD STATION: Zero Hour",
+      "zh-CN": "死亡空间站：零时"
+    },
+    "summary": {
+      "en": "Fight a sci-fi containment breach in a 3D shooter.",
+      "zh-CN": "在 3D 射击游戏中对抗科幻设施失控事件。"
+    },
+    "description": {
+      "en": "A browser sci-fi horror shooter with keyboard movement, mouse aiming, multiple weapons, flares and a dash.",
+      "zh-CN": "网页科幻恐怖射击游戏，支持键盘移动、鼠标瞄准、多种武器、照明弹和冲刺。"
+    },
+    "creator": "hasibdreamer35",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Start the game, move with WASD, aim and fire with the mouse, reload and dodge threats.",
+      "zh-CN": "开始游戏，用 WASD 移动、鼠标瞄准开火，并装弹和闪避威胁。"
+    },
+    "play_url": "https://mdhasibul35.github.io/dead-station-zero-hour/",
+    "source_url": "https://mdhasibul35.github.io/dead-station-zero-hour/",
+    "x_post_url": "https://x.com/hasibdreamer35/status/2103744005737771380",
+    "cover_alt": {
+      "en": "Start screen and combat controls of DEAD STATION",
+      "zh-CN": "《死亡空间站》的开始界面与战斗操作说明"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/dead-station-zero-hour.png",
+    "cover_source_url": "https://mdhasibul35.github.io/dead-station-zero-hour/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "thermopylae",
+    "title": {
+      "en": "Thermopylae",
+      "zh-CN": "温泉关"
+    },
+    "summary": {
+      "en": "Defend a Spartan line in a stylized action game.",
+      "zh-CN": "在风格化动作游戏中守住斯巴达防线。"
+    },
+    "description": {
+      "en": "A browser action game inspired by the Battle of Thermopylae, with a training option and spear-and-shield combat.",
+      "zh-CN": "受温泉关战役启发的网页动作游戏，提供训练选项与长矛、盾牌战斗。"
+    },
+    "creator": "linyutai120479",
+    "genre": "action",
+    "gameplay": {
+      "en": "Start the campaign or training, move your Spartan and defend with shield and spear.",
+      "zh-CN": "开始征程或训练，操纵斯巴达战士以盾与矛防守。"
+    },
+    "play_url": "https://thermopylae-v2.vercel.app/",
+    "source_url": "https://thermopylae-v2.vercel.app/",
+    "x_post_url": "https://x.com/linyutai120479/status/2103304809243918486",
+    "cover_alt": {
+      "en": "Spartan warrior with shield on the Thermopylae title screen",
+      "zh-CN": "温泉关标题画面上持盾的斯巴达战士"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/thermopylae.png",
+    "cover_source_url": "https://thermopylae-v2.vercel.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "akhbar-rush",
+    "title": {
+      "en": "Akhbaar Rush",
+      "zh-CN": "送报冲刺"
+    },
+    "summary": {
+      "en": "Deliver the morning paper in a pixel-art runner.",
+      "zh-CN": "在像素风跑酷中投递晨报。"
+    },
+    "description": {
+      "en": "A browser newspaper-delivery runner with changing lanes, jumps and a best-score counter.",
+      "zh-CN": "网页送报跑酷游戏，可切换车道、跳跃，并记录最高得分。"
+    },
+    "creator": "Shiva Games",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Tap to start, switch lanes and jump over hazards while delivering newspapers.",
+      "zh-CN": "点击开始，切换车道并跳过障碍，完成送报。"
+    },
+    "play_url": "https://shiva78388789.github.io/Akhbar-Rush/",
+    "source_url": "https://shiva78388789.github.io/Akhbar-Rush/",
+    "x_post_url": "https://x.com/shiva_pdf/status/2104116440718819404",
+    "cover_alt": {
+      "en": "Pixel-art newspaper courier on a city street",
+      "zh-CN": "城市街道上的像素风送报员"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/akhbar-rush.png",
+    "cover_source_url": "https://shiva78388789.github.io/Akhbar-Rush/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
+  },
+  {
+    "id": "82-and-0",
+    "title": {
+      "en": "Perfect 82–0",
+      "zh-CN": "完美 82 胜"
+    },
+    "summary": {
+      "en": "Draft a basketball starting five for a perfect season.",
+      "zh-CN": "选出篮球首发五人，挑战完美赛季。"
+    },
+    "description": {
+      "en": "A browser basketball draft game that assigns team and era choices, rerolls and five lineup positions.",
+      "zh-CN": "网页篮球选秀游戏，提供球队与年代选项、重掷机会和五个首发位置。"
+    },
+    "creator": "AndrewRiBT",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Choose players for five positions, use rerolls strategically and pursue an 82–0 record.",
+      "zh-CN": "为五个位置选择球员，策略性地使用重掷机会，冲击 82 胜 0 负。"
+    },
+    "play_url": "https://82and0.netlify.app/",
+    "source_url": "https://82and0.netlify.app/",
+    "x_post_url": "https://x.com/AndrewRiBT/status/2103929117095625176",
+    "cover_alt": {
+      "en": "Basketball draft board with five open lineup positions",
+      "zh-CN": "有五个待选位置的篮球选秀面板"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/82-and-0.png",
+    "cover_source_url": "https://82and0.netlify.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-02",
+    "verified_at": "2026-10-02"
   }
 ]

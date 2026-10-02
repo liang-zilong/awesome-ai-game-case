@@ -100,6 +100,21 @@
 | [甩笔大战](https://thereale2o.github.io/birogame/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://thereale2o.github.io/birogame/) | [来源](https://github.com/TherealE2O/birogame) |
 | [矢量疾驰](https://vector.happymonkey.ai/) | 射击 | AI 工作流程等待作者确认 | [打开游戏](https://vector.happymonkey.ai/) | [来源](https://vector.happymonkey.ai/) |
 
+| [汽车足球](https://soccar-one.vercel.app/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://soccar-one.vercel.app/) | [来源](https://soccar-one.vercel.app/) |
+| [停车挑战](https://newkrok.com/gamer-zone/hitch-park) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://newkrok.com/gamer-zone/hitch-park) | [来源](https://newkrok.com/gamer-zone/hitch-park) |
+| [街头滑板](https://skate.soweme.com/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://skate.soweme.com/) | [来源](https://skate.soweme.com/) |
+| [尘与铅](https://inkstaid.github.io/dust-and-lead/) | 射击 | AI 工作流程等待作者确认 | [打开游戏](https://inkstaid.github.io/dust-and-lead/) | [来源](https://inkstaid.github.io/dust-and-lead/) |
+| [臺北 GTA](https://taipei-gta.vercel.app/) | 赛车 | AI 工作流程等待作者确认 | [打开游戏](https://taipei-gta.vercel.app/) | [来源](https://taipei-gta.vercel.app/) |
+| [创业地理猜谜](https://geopreneur.fun/) | 益智 | AI 工作流程等待作者确认 | [打开游戏](https://geopreneur.fun/) | [来源](https://geopreneur.fun/) |
+| [谁先绿灯？](https://sael.net/traffic/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://sael.net/traffic/) | [来源](https://sael.net/traffic/) |
+| [肥皂泡实验室](https://sael.net/soap-bubble/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://sael.net/soap-bubble/) | [来源](https://sael.net/soap-bubble/) |
+| [最后的提灯](https://newkrok.com/gamer-zone/last-lantern) | 生存 | AI 工作流程等待作者确认 | [打开游戏](https://newkrok.com/gamer-zone/last-lantern) | [来源](https://newkrok.com/gamer-zone/last-lantern) |
+| [飞盘小狗](https://okidoki9903.github.io/Freesbee/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://okidoki9903.github.io/Freesbee/) | [来源](https://okidoki9903.github.io/Freesbee/) |
+| [死亡空间站：零时](https://mdhasibul35.github.io/dead-station-zero-hour/) | 射击 | AI 工作流程等待作者确认 | [打开游戏](https://mdhasibul35.github.io/dead-station-zero-hour/) | [来源](https://mdhasibul35.github.io/dead-station-zero-hour/) |
+| [温泉关](https://thermopylae-v2.vercel.app/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://thermopylae-v2.vercel.app/) | [来源](https://thermopylae-v2.vercel.app/) |
+| [送报冲刺](https://shiva78388789.github.io/Akhbar-Rush/) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://shiva78388789.github.io/Akhbar-Rush/) | [来源](https://shiva78388789.github.io/Akhbar-Rush/) |
+| [完美 82 胜](https://82and0.netlify.app/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://82and0.netlify.app/) | [来源](https://82and0.netlify.app/) |
+
 ## X 展示案例
 
 | 游戏 | 类型 | 当前可用内容 | 原始帖子 |

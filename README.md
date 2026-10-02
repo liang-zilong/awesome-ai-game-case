@@ -100,6 +100,21 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Biro Clash](https://thereale2o.github.io/birogame/) | Sports | AI workflow awaits creator confirmation | [Play](https://thereale2o.github.io/birogame/) | [Source](https://github.com/TherealE2O/birogame) |
 | [VectorRun](https://vector.happymonkey.ai/) | Shooter | AI workflow awaits creator confirmation | [Play](https://vector.happymonkey.ai/) | [Source](https://vector.happymonkey.ai/) |
 
+| [Soccar](https://soccar-one.vercel.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://soccar-one.vercel.app/) | [Source](https://soccar-one.vercel.app/) |
+| [Hitch Park](https://newkrok.com/gamer-zone/hitch-park) | Simulation | AI workflow awaits creator confirmation | [Play](https://newkrok.com/gamer-zone/hitch-park) | [Source](https://newkrok.com/gamer-zone/hitch-park) |
+| [Skate Soweme](https://skate.soweme.com/) | Sports | AI workflow awaits creator confirmation | [Play](https://skate.soweme.com/) | [Source](https://skate.soweme.com/) |
+| [Dust & Lead](https://inkstaid.github.io/dust-and-lead/) | Shooter | AI workflow awaits creator confirmation | [Play](https://inkstaid.github.io/dust-and-lead/) | [Source](https://inkstaid.github.io/dust-and-lead/) |
+| [Taipei GTA](https://taipei-gta.vercel.app/) | Racing | AI workflow awaits creator confirmation | [Play](https://taipei-gta.vercel.app/) | [Source](https://taipei-gta.vercel.app/) |
+| [GeoPreneur](https://geopreneur.fun/) | Puzzle | AI workflow awaits creator confirmation | [Play](https://geopreneur.fun/) | [Source](https://geopreneur.fun/) |
+| [Who Gets the Green?](https://sael.net/traffic/) | Simulation | AI workflow awaits creator confirmation | [Play](https://sael.net/traffic/) | [Source](https://sael.net/traffic/) |
+| [Soap Bubble Lab](https://sael.net/soap-bubble/) | Simulation | AI workflow awaits creator confirmation | [Play](https://sael.net/soap-bubble/) | [Source](https://sael.net/soap-bubble/) |
+| [The Last Lantern](https://newkrok.com/gamer-zone/last-lantern) | Survival | AI workflow awaits creator confirmation | [Play](https://newkrok.com/gamer-zone/last-lantern) | [Source](https://newkrok.com/gamer-zone/last-lantern) |
+| [Freesbee](https://okidoki9903.github.io/Freesbee/) | Sports | AI workflow awaits creator confirmation | [Play](https://okidoki9903.github.io/Freesbee/) | [Source](https://okidoki9903.github.io/Freesbee/) |
+| [DEAD STATION: Zero Hour](https://mdhasibul35.github.io/dead-station-zero-hour/) | Shooter | AI workflow awaits creator confirmation | [Play](https://mdhasibul35.github.io/dead-station-zero-hour/) | [Source](https://mdhasibul35.github.io/dead-station-zero-hour/) |
+| [Thermopylae](https://thermopylae-v2.vercel.app/) | Action | AI workflow awaits creator confirmation | [Play](https://thermopylae-v2.vercel.app/) | [Source](https://thermopylae-v2.vercel.app/) |
+| [Akhbaar Rush](https://shiva78388789.github.io/Akhbar-Rush/) | Casual | AI workflow awaits creator confirmation | [Play](https://shiva78388789.github.io/Akhbar-Rush/) | [Source](https://shiva78388789.github.io/Akhbar-Rush/) |
+| [Perfect 82–0](https://82and0.netlify.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://82and0.netlify.app/) | [Source](https://82and0.netlify.app/) |
+
 ## X showcase
 
 | Game | Genre | What is available | Original post |
