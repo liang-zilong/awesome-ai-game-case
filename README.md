@@ -115,6 +115,10 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Akhbaar Rush](https://shiva78388789.github.io/Akhbar-Rush/) | Casual | AI workflow awaits creator confirmation | [Play](https://shiva78388789.github.io/Akhbar-Rush/) | [Source](https://shiva78388789.github.io/Akhbar-Rush/) |
 | [Perfect 82–0](https://82and0.netlify.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://82and0.netlify.app/) | [Source](https://82and0.netlify.app/) |
 
+| [Crazy Clankers](https://crazyclankers.com/) | Racing | AI workflow awaits creator confirmation | [Play](https://crazyclankers.com/) | [X post](https://x.com/threejs/status/2106189558933328232) |
+| [Sykes–Picot](https://sykespicot.io/) | Strategy | AI workflow awaits creator confirmation | [Play](https://sykespicot.io/) | [X post](https://x.com/Ned_Donovan/status/2106117192555065719) |
+| [My Aquarium](https://unofficialartworks.github.io/AquariumGame/) | Simulation | AI workflow awaits creator confirmation | [Play](https://unofficialartworks.github.io/AquariumGame/) | [GitHub](https://github.com/UnofficialArtworks/AquariumGame) |
+
 ## X showcase
 
 | Game | Genre | What is available | Original post |

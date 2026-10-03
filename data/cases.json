@@ -4167,5 +4167,140 @@
     },
     "added_at": "2026-10-02",
     "verified_at": "2026-10-02"
+  },
+  {
+    "id": "crazy-clankers",
+    "title": {
+      "en": "Crazy Clankers",
+      "zh-CN": "疯狂铁疙瘩"
+    },
+    "summary": {
+      "en": "Drive an autonomous taxi through a colorful city and serve passengers.",
+      "zh-CN": "驾驶无人出租车穿行彩色城市，完成载客任务。"
+    },
+    "description": {
+      "en": "A 3D browser driving game with a satirical robot-taxi theme. Choose a vehicle with different handling and fares before starting a shift.",
+      "zh-CN": "讽刺机器人出租车主题的 3D 网页驾驶游戏。玩家先挑选性能和车费各异的车辆，再开始当班载客。"
+    },
+    "creator": "Scrubghetti",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Select a taxi, start a shift, drive to passengers and keep their ratings up.",
+      "zh-CN": "挑选出租车并开始接单，开车接送乘客，维持乘客评分。"
+    },
+    "play_url": "https://crazyclankers.com/",
+    "source_url": "https://crazyclankers.com/",
+    "x_post_url": "https://x.com/threejs/status/2106189558933328232",
+    "cover_alt": {
+      "en": "Autonomous taxis lined up at the vehicle selection screen",
+      "zh-CN": "车辆选择界面中停成一排的无人出租车"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/crazy-clankers.jpg",
+    "cover_source_url": "https://crazyclankers.com/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-03",
+    "verified_at": "2026-10-03"
+  },
+  {
+    "id": "sykes-picot",
+    "title": {
+      "en": "Sykes–Picot",
+      "zh-CN": "赛克斯–皮科协定"
+    },
+    "summary": {
+      "en": "Draw proposed 1916 borders on a hex map of the Middle East.",
+      "zh-CN": "在中东六边形地图上绘制 1916 年拟议边界。"
+    },
+    "description": {
+      "en": "A browser historical strategy and map-drawing game set during wartime negotiations over the Ottoman Empire. Paint territories, inspect places and compare the settlement that results.",
+      "zh-CN": "以奥斯曼帝国战时瓜分谈判为背景的网页历史策略与绘图游戏。玩家可涂绘领土、查看地点，并检视形成的划分。"
+    },
+    "creator": "Ned Donovan",
+    "genre": "strategy",
+    "gameplay": {
+      "en": "Begin the scenario, paint territory on the hex map, erase or revise borders and submit a settlement.",
+      "zh-CN": "开始情境，在六边形地图上涂绘领土、擦除或修改边界，再提交划分方案。"
+    },
+    "play_url": "https://sykespicot.io/",
+    "source_url": "https://sykespicot.io/",
+    "x_post_url": "https://x.com/Ned_Donovan/status/2106117192555065719",
+    "cover_alt": {
+      "en": "Interactive Middle East map with territory painting tools",
+      "zh-CN": "带领土绘制工具的中东交互地图"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/sykes-picot.jpg",
+    "cover_source_url": "https://sykespicot.io/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-03",
+    "verified_at": "2026-10-03"
+  },
+  {
+    "id": "my-aquarium",
+    "title": {
+      "en": "My Aquarium",
+      "zh-CN": "我的水族箱"
+    },
+    "summary": {
+      "en": "Raise fish and care for a customizable 3D aquarium.",
+      "zh-CN": "饲养鱼类，照料可自由装饰的 3D 水族箱。"
+    },
+    "description": {
+      "en": "A browser aquarium simulation with feeding, cleaning, decoration, a nursery and locally saved progress. The creator provides a public source repository.",
+      "zh-CN": "网页水族箱模拟游戏，包含喂食、清洁、装饰、育儿室和本地存档。作者公开了源代码仓库。"
+    },
+    "creator": "UnofficialArtworks",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Feed fish, clean algae and water, decorate the tank and raise new fish.",
+      "zh-CN": "喂养鱼群、清理藻类和水质、布置鱼缸并培育新鱼。"
+    },
+    "play_url": "https://unofficialartworks.github.io/AquariumGame/",
+    "source_url": "https://github.com/UnofficialArtworks/AquariumGame",
+    "x_post_url": "https://x.com/bickelc98/status/2106145741442060780",
+    "cover_alt": {
+      "en": "Live aquarium tank with fish and feed, clean and decorate controls",
+      "zh-CN": "有游鱼及喂食、清洁、装饰按钮的实时鱼缸"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/my-aquarium.jpg",
+    "cover_source_url": "https://unofficialartworks.github.io/AquariumGame/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-03",
+    "verified_at": "2026-10-03"
   }
 ]

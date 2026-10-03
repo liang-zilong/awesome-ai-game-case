@@ -115,6 +115,10 @@
 | [送报冲刺](https://shiva78388789.github.io/Akhbar-Rush/) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://shiva78388789.github.io/Akhbar-Rush/) | [来源](https://shiva78388789.github.io/Akhbar-Rush/) |
 | [完美 82 胜](https://82and0.netlify.app/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://82and0.netlify.app/) | [来源](https://82and0.netlify.app/) |
 
+| [疯狂铁疙瘩](https://crazyclankers.com/) | 竞速 | AI 工作流程等待作者确认 | [打开游戏](https://crazyclankers.com/) | [X 原帖](https://x.com/threejs/status/2106189558933328232) |
+| [赛克斯–皮科协定](https://sykespicot.io/) | 策略 | AI 工作流程等待作者确认 | [打开游戏](https://sykespicot.io/) | [X 原帖](https://x.com/Ned_Donovan/status/2106117192555065719) |
+| [我的水族箱](https://unofficialartworks.github.io/AquariumGame/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://unofficialartworks.github.io/AquariumGame/) | [GitHub](https://github.com/UnofficialArtworks/AquariumGame) |
+
 ## X 展示案例
 
 | 游戏 | 类型 | 当前可用内容 | 原始帖子 |
