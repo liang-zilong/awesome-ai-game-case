@@ -17,7 +17,6 @@
 暂不收录只有商店页、通用平台首页、没有来源支持的 AI 说法，以及使用抽象占位图的案例。
 
 ## 可玩游戏
-
 | 游戏 | 类型 | 模型 / 工作流程 | 试玩 | 来源 |
 | --- | --- | --- | --- | --- |
 | [鹈鹕骑单车](https://claude-opus-5-5.riba2534.cn/) | 休闲 | Claude Opus 5.5 | [打开游戏](https://claude-opus-5-5.riba2534.cn/) | [GitHub](https://github.com/riba2534/claude-opus-5-5-demo) |
@@ -93,13 +92,11 @@
 | [Threejs-Punk Drive 赛博朋克驾驶](https://www.threejspunk.com/) | 赛车 | AI 工作流程等待作者确认 | [打开游戏](https://www.threejspunk.com/) | [X 原帖](https://x.com/threejs/status/2104706214374642155) |
 | [Three-point Contest 三分球大赛](https://3pointscontest.netlify.app/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://3pointscontest.netlify.app/) | [X 原帖](https://x.com/threejs/status/2104505613061603525) |
 | [Voxel City 体素破坏城](https://three-voxel-destruction.vercel.app/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://three-voxel-destruction.vercel.app/) | [GitHub](https://github.com/sbobyn/three-voxel-destruction) |
-
 | [传送门复刻](https://portal-clone-three.vercel.app/) | 解谜 | AI 工作流程等待作者确认 | [打开游戏](https://portal-clone-three.vercel.app/) | [来源](https://github.com/rafadante/portal-clone-three) |
 | [奶奶侠盗风云](https://katapad.github.io/bba-gta-game/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://katapad.github.io/bba-gta-game/) | [来源](https://katapad.github.io/bba-gta-game/) |
 | [撒网捕鱼](https://fishingtrip.app/castnet/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://fishingtrip.app/castnet/) | [来源](https://fishingtrip.app/castnet/) |
 | [甩笔大战](https://thereale2o.github.io/birogame/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://thereale2o.github.io/birogame/) | [来源](https://github.com/TherealE2O/birogame) |
 | [矢量疾驰](https://vector.happymonkey.ai/) | 射击 | AI 工作流程等待作者确认 | [打开游戏](https://vector.happymonkey.ai/) | [来源](https://vector.happymonkey.ai/) |
-
 | [汽车足球](https://soccar-one.vercel.app/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://soccar-one.vercel.app/) | [来源](https://soccar-one.vercel.app/) |
 | [停车挑战](https://newkrok.com/gamer-zone/hitch-park) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://newkrok.com/gamer-zone/hitch-park) | [来源](https://newkrok.com/gamer-zone/hitch-park) |
 | [街头滑板](https://skate.soweme.com/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://skate.soweme.com/) | [来源](https://skate.soweme.com/) |
@@ -114,10 +111,24 @@
 | [温泉关](https://thermopylae-v2.vercel.app/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://thermopylae-v2.vercel.app/) | [来源](https://thermopylae-v2.vercel.app/) |
 | [送报冲刺](https://shiva78388789.github.io/Akhbar-Rush/) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://shiva78388789.github.io/Akhbar-Rush/) | [来源](https://shiva78388789.github.io/Akhbar-Rush/) |
 | [完美 82 胜](https://82and0.netlify.app/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://82and0.netlify.app/) | [来源](https://82and0.netlify.app/) |
-
 | [疯狂铁疙瘩](https://crazyclankers.com/) | 竞速 | AI 工作流程等待作者确认 | [打开游戏](https://crazyclankers.com/) | [X 原帖](https://x.com/threejs/status/2106189558933328232) |
 | [赛克斯–皮科协定](https://sykespicot.io/) | 策略 | AI 工作流程等待作者确认 | [打开游戏](https://sykespicot.io/) | [X 原帖](https://x.com/Ned_Donovan/status/2106117192555065719) |
 | [我的水族箱](https://unofficialartworks.github.io/AquariumGame/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://unofficialartworks.github.io/AquariumGame/) | [GitHub](https://github.com/UnofficialArtworks/AquariumGame) |
+| [海岛热](https://insel-fever.vercel.app/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://insel-fever.vercel.app/) | [X 原帖](https://x.com/threejs/status/2105819211230802196) |
+| [拆车德比](https://drcollect.github.io/demolition-derby/) | 赛车 | AI 工作流程等待作者确认 | [打开游戏](https://drcollect.github.io/demolition-derby/) | [GitHub](https://github.com/drcollect/demolition-derby) |
+| [遡上：鲑鱼洄游](https://amix-design.com/tl/tool-g-upstream/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://amix-design.com/tl/tool-g-upstream/) | [X 原帖](https://x.com/threejs/status/2106309700950348211) |
+| [咚钉当当！](https://amix-design.com/tl/tool-g-tonten/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://amix-design.com/tl/tool-g-tonten/) | [X 原帖](https://x.com/threejs/status/2106277829587751376) |
+| [鱼市漂移](https://amix-design.com/tl/tool-g-drift/) | 赛车 | AI 工作流程等待作者确认 | [打开游戏](https://amix-design.com/tl/tool-g-drift/) | [X 原帖](https://x.com/threejs/status/2106277689317613966) |
+| [瞭望角](https://claude-creative-xbmc.vercel.app/) | 冒险 | AI 工作流程等待作者确认 | [打开游戏](https://claude-creative-xbmc.vercel.app/) | [X 原帖](https://x.com/threejs/status/2106250581526692243) |
+| [春日漫游](https://spring-ramble.kelly-1df.workers.dev/) | 冒险 | AI 工作流程等待作者确认 | [打开游戏](https://spring-ramble.kelly-1df.workers.dev/) | [X 原帖](https://x.com/threejs/status/2106206487781712216) |
+| [火星 GT](https://mars-gt.vercel.app) | 赛车 | AI 工作流程等待作者确认 | [打开游戏](https://mars-gt.vercel.app) | [X 原帖](https://x.com/AndreiProvkin/status/2106449409978626416) |
+| [泡泡鱼 Fizzfin](https://semperphoenix.com/lab/fizzfin/) | 益智 | AI 工作流程等待作者确认 | [打开游戏](https://semperphoenix.com/lab/fizzfin/) | [X 原帖](https://x.com/dev_jmitchell/status/2106495538866659693) |
+| [狮城生活](https://lioncitylife.vercel.app) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://lioncitylife.vercel.app) | [X 原帖](https://x.com/RahulBhola5516/status/2106470475811762630) |
+| [万千道路](https://playmanyroads.com) | 策略 | AI 工作流程等待作者确认 | [打开游戏](https://playmanyroads.com) | [X 原帖](https://x.com/TdotsSolutionsz/status/2106468882982785337) |
+| [滑雪板至尊](https://snowboard-supreme.vercel.app) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://snowboard-supreme.vercel.app) | [X 原帖](https://x.com/kidkenney/status/2106452611415097460) |
+| [蜕变 MOLT](https://knightfal3.itch.io/molt) | 生存 | AI 工作流程等待作者确认 | [打开游戏](https://knightfal3.itch.io/molt) | [X 原帖](https://x.com/keysforthewin/status/2106369912868315645) |
+| [影之道](https://kage.rvnztolentino.com) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://kage.rvnztolentino.com) | [X 原帖](https://x.com/kusanagikeiji/status/2105994556219215990) |
+| [潮光](https://tidelight.rymajp.com/) | 冒险 | AI 工作流程等待作者确认 | [打开游戏](https://tidelight.rymajp.com/) | [X 原帖](https://x.com/threejs/status/2105632227900141840) |
 
 ## X 展示案例
 

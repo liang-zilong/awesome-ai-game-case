@@ -17,7 +17,6 @@ The companion website is maintained in the separate `awesome-ai-game-case-web` r
 Store-only pages, generic platform landing pages, unsupported AI claims, and abstract placeholder covers are excluded.
 
 ## Playable games
-
 | Game | Genre | Model / workflow | Play | Source |
 | --- | --- | --- | --- | --- |
 | [Pelican on a Bike](https://claude-opus-5-5.riba2534.cn/) | Casual | Claude Opus 5.5 | [Play](https://claude-opus-5-5.riba2534.cn/) | [GitHub](https://github.com/riba2534/claude-opus-5-5-demo) |
@@ -93,13 +92,11 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Threejs-Punk Drive](https://www.threejspunk.com/) | Racing | AI workflow awaits creator confirmation | [Play](https://www.threejspunk.com/) | [X post](https://x.com/threejs/status/2104706214374642155) |
 | [Three-point Contest](https://3pointscontest.netlify.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://3pointscontest.netlify.app/) | [X post](https://x.com/threejs/status/2104505613061603525) |
 | [Voxel City](https://three-voxel-destruction.vercel.app/) | Simulation | AI workflow awaits creator confirmation | [Play](https://three-voxel-destruction.vercel.app/) | [GitHub](https://github.com/sbobyn/three-voxel-destruction) |
-
 | [Portal Clone](https://portal-clone-three.vercel.app/) | Puzzle | AI workflow awaits creator confirmation | [Play](https://portal-clone-three.vercel.app/) | [Source](https://github.com/rafadante/portal-clone-three) |
 | [Gramma Theft Auto](https://katapad.github.io/bba-gta-game/) | Action | AI workflow awaits creator confirmation | [Play](https://katapad.github.io/bba-gta-game/) | [Source](https://katapad.github.io/bba-gta-game/) |
 | [CastNet](https://fishingtrip.app/castnet/) | Sports | AI workflow awaits creator confirmation | [Play](https://fishingtrip.app/castnet/) | [Source](https://fishingtrip.app/castnet/) |
 | [Biro Clash](https://thereale2o.github.io/birogame/) | Sports | AI workflow awaits creator confirmation | [Play](https://thereale2o.github.io/birogame/) | [Source](https://github.com/TherealE2O/birogame) |
 | [VectorRun](https://vector.happymonkey.ai/) | Shooter | AI workflow awaits creator confirmation | [Play](https://vector.happymonkey.ai/) | [Source](https://vector.happymonkey.ai/) |
-
 | [Soccar](https://soccar-one.vercel.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://soccar-one.vercel.app/) | [Source](https://soccar-one.vercel.app/) |
 | [Hitch Park](https://newkrok.com/gamer-zone/hitch-park) | Simulation | AI workflow awaits creator confirmation | [Play](https://newkrok.com/gamer-zone/hitch-park) | [Source](https://newkrok.com/gamer-zone/hitch-park) |
 | [Skate Soweme](https://skate.soweme.com/) | Sports | AI workflow awaits creator confirmation | [Play](https://skate.soweme.com/) | [Source](https://skate.soweme.com/) |
@@ -114,10 +111,24 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Thermopylae](https://thermopylae-v2.vercel.app/) | Action | AI workflow awaits creator confirmation | [Play](https://thermopylae-v2.vercel.app/) | [Source](https://thermopylae-v2.vercel.app/) |
 | [Akhbaar Rush](https://shiva78388789.github.io/Akhbar-Rush/) | Casual | AI workflow awaits creator confirmation | [Play](https://shiva78388789.github.io/Akhbar-Rush/) | [Source](https://shiva78388789.github.io/Akhbar-Rush/) |
 | [Perfect 82–0](https://82and0.netlify.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://82and0.netlify.app/) | [Source](https://82and0.netlify.app/) |
-
 | [Crazy Clankers](https://crazyclankers.com/) | Racing | AI workflow awaits creator confirmation | [Play](https://crazyclankers.com/) | [X post](https://x.com/threejs/status/2106189558933328232) |
 | [Sykes–Picot](https://sykespicot.io/) | Strategy | AI workflow awaits creator confirmation | [Play](https://sykespicot.io/) | [X post](https://x.com/Ned_Donovan/status/2106117192555065719) |
 | [My Aquarium](https://unofficialartworks.github.io/AquariumGame/) | Simulation | AI workflow awaits creator confirmation | [Play](https://unofficialartworks.github.io/AquariumGame/) | [GitHub](https://github.com/UnofficialArtworks/AquariumGame) |
+| [Salmon Ascent](https://amix-design.com/tl/tool-g-upstream/) | Action | AI workflow awaits creator confirmation | [Play](https://amix-design.com/tl/tool-g-upstream/) | [X post](https://x.com/threejs/status/2106309700950348211) |
+| [Tonten Kanten!](https://amix-design.com/tl/tool-g-tonten/) | Action | AI workflow awaits creator confirmation | [Play](https://amix-design.com/tl/tool-g-tonten/) | [X post](https://x.com/threejs/status/2106277829587751376) |
+| [GYOKO DRIFT](https://amix-design.com/tl/tool-g-drift/) | Racing | AI workflow awaits creator confirmation | [Play](https://amix-design.com/tl/tool-g-drift/) | [X post](https://x.com/threejs/status/2106277689317613966) |
+| [Point Lookout](https://claude-creative-xbmc.vercel.app/) | Adventure | AI workflow awaits creator confirmation | [Play](https://claude-creative-xbmc.vercel.app/) | [X post](https://x.com/threejs/status/2106250581526692243) |
+| [Spring Ramble](https://spring-ramble.kelly-1df.workers.dev/) | Adventure | AI workflow awaits creator confirmation | [Play](https://spring-ramble.kelly-1df.workers.dev/) | [X post](https://x.com/threejs/status/2106206487781712216) |
+| [Mars GT](https://mars-gt.vercel.app) | Racing | AI workflow awaits creator confirmation | [Play](https://mars-gt.vercel.app) | [X post](https://x.com/AndreiProvkin/status/2106449409978626416) |
+| [Fizzfin](https://semperphoenix.com/lab/fizzfin/) | Puzzle | AI workflow awaits creator confirmation | [Play](https://semperphoenix.com/lab/fizzfin/) | [X post](https://x.com/dev_jmitchell/status/2106495538866659693) |
+| [Lion City Life](https://lioncitylife.vercel.app) | Simulation | AI workflow awaits creator confirmation | [Play](https://lioncitylife.vercel.app) | [X post](https://x.com/RahulBhola5516/status/2106470475811762630) |
+| [Many Roads](https://playmanyroads.com) | Strategy | AI workflow awaits creator confirmation | [Play](https://playmanyroads.com) | [X post](https://x.com/TdotsSolutionsz/status/2106468882982785337) |
+| [Snowboard Supreme](https://snowboard-supreme.vercel.app) | Sports | AI workflow awaits creator confirmation | [Play](https://snowboard-supreme.vercel.app) | [X post](https://x.com/kidkenney/status/2106452611415097460) |
+| [MOLT](https://knightfal3.itch.io/molt) | Survival | AI workflow awaits creator confirmation | [Play](https://knightfal3.itch.io/molt) | [X post](https://x.com/keysforthewin/status/2106369912868315645) |
+| [Kage no Michi: Path of the Shadow](https://kage.rvnztolentino.com) | Action | AI workflow awaits creator confirmation | [Play](https://kage.rvnztolentino.com) | [X post](https://x.com/kusanagikeiji/status/2105994556219215990) |
+| [Tidelight](https://tidelight.rymajp.com/) | Adventure | AI workflow awaits creator confirmation | [Play](https://tidelight.rymajp.com/) | [X post](https://x.com/threejs/status/2105632227900141840) |
+| [Insel Fever](https://insel-fever.vercel.app/) | Simulation | AI workflow awaits creator confirmation | [Play](https://insel-fever.vercel.app/) | [X post](https://x.com/threejs/status/2105819211230802196) |
+| [Demolition Derby](https://drcollect.github.io/demolition-derby/) | Racing | AI workflow awaits creator confirmation | [Play](https://drcollect.github.io/demolition-derby/) | [GitHub](https://github.com/drcollect/demolition-derby) |
 
 ## X showcase
 

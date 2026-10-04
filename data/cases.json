@@ -4302,5 +4302,680 @@
     },
     "added_at": "2026-10-03",
     "verified_at": "2026-10-03"
+  },
+  {
+    "id": "salmon-ascent",
+    "title": {
+      "en": "Salmon Ascent",
+      "zh-CN": "遡上：鲑鱼洄游"
+    },
+    "summary": {
+      "en": "Guide a salmon upstream through a river of waterfalls and leaps.",
+      "zh-CN": "操控鲑鱼逆流而上，跃过瀑布与急流。"
+    },
+    "description": {
+      "en": "An AMIX browser game about a salmon swimming from the estuary toward its spawning grounds. Choose a river, difficulty and salmon before starting a timed ascent.",
+      "zh-CN": "AMIX 的网页游戏：鲑鱼从河口游向产卵地。玩家选择河流、难度和鲑鱼种类，开始计时洄游。"
+    },
+    "creator": "AMIX / Haruki Tominaga",
+    "genre": "action",
+    "gameplay": {
+      "en": "Swim upstream, time jumps over waterfalls and reach the spawning grounds.",
+      "zh-CN": "逆流游动，把握时机跳过瀑布，抵达产卵地。"
+    },
+    "play_url": "https://amix-design.com/tl/tool-g-upstream/",
+    "source_url": "https://amix-design.com/tl/tool-g-upstream/",
+    "x_post_url": "https://x.com/threejs/status/2106309700950348211",
+    "cover_alt": {
+      "en": "Salmon Ascent gameplay in a green river with a run timer",
+      "zh-CN": "绿色河流中的鲑鱼洄游实机画面与计时器"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/salmon-ascent.jpg",
+    "cover_source_url": "https://amix-design.com/tl/tool-g-upstream/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "tonten-kanten",
+    "title": {
+      "en": "Tonten Kanten!",
+      "zh-CN": "咚钉当当！"
+    },
+    "summary": {
+      "en": "Race to build a bridge across the river using planks and nails.",
+      "zh-CN": "用木板和钉子抢先架桥过河。"
+    },
+    "description": {
+      "en": "A colorful AMIX construction race with four selectable characters and a sequence of river-crossing stages. The first stage loads into a live bridge-building match.",
+      "zh-CN": "AMIX 的彩色建桥竞赛，有四名可选角色和逐关解锁的过河关卡；首关可以直接进入实时比赛。"
+    },
+    "creator": "AMIX / Haruki Tominaga",
+    "genre": "action",
+    "gameplay": {
+      "en": "Throw planks, pick them up and hammer nails to make a crossing before rivals do.",
+      "zh-CN": "扔出并搬运木板，钉牢桥面，赶在对手前过河。"
+    },
+    "play_url": "https://amix-design.com/tl/tool-g-tonten/",
+    "source_url": "https://amix-design.com/tl/tool-g-tonten/",
+    "x_post_url": "https://x.com/threejs/status/2106277829587751376",
+    "cover_alt": {
+      "en": "Three characters racing to bridge a river with wooden planks",
+      "zh-CN": "三名角色用木板搭桥过河的游戏画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/tonten-kanten.jpg",
+    "cover_source_url": "https://amix-design.com/tl/tool-g-tonten/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "gyoko-drift",
+    "title": {
+      "en": "GYOKO DRIFT",
+      "zh-CN": "鱼市漂移"
+    },
+    "summary": {
+      "en": "Race a fish market carrier through a busy harbor circuit.",
+      "zh-CN": "驾驶鱼市小货车穿过繁忙港口赛道。"
+    },
+    "description": {
+      "en": "An AMIX browser racing game set around Japanese fish markets. Players can choose Osaka, Tokyo or a snowy northern harbor and compete against other carriers while keeping their cargo aboard.",
+      "zh-CN": "AMIX 的鱼市题材网页赛车游戏。可选择大阪、东京或北方雪港赛道，与其他小货车竞速并尽量保住鱼货。"
+    },
+    "creator": "AMIX / Haruki Tominaga",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Choose a circuit and difficulty, steer through corners and keep the fish cargo on the cart.",
+      "zh-CN": "选择赛道和难度，过弯漂移并尽量不让鱼货掉落。"
+    },
+    "play_url": "https://amix-design.com/tl/tool-g-drift/",
+    "source_url": "https://amix-design.com/tl/tool-g-drift/",
+    "x_post_url": "https://x.com/threejs/status/2106277689317613966",
+    "cover_alt": {
+      "en": "Fish market carriers racing through a warehouse circuit",
+      "zh-CN": "鱼市小货车在仓库赛道竞速的实机画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/gyoko-drift.jpg",
+    "cover_source_url": "https://amix-design.com/tl/tool-g-drift/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "point-lookout",
+    "title": {
+      "en": "Point Lookout",
+      "zh-CN": "瞭望角"
+    },
+    "summary": {
+      "en": "Explore a real-time 3D coastal scene inspired by North Stradbroke Island.",
+      "zh-CN": "探索以北斯特拉德布鲁克岛为灵感的实时 3D 海岸。"
+    },
+    "description": {
+      "en": "A browser-based WebGL recreation of the Point Lookout coastline in Australia. The scene opens into a rendered overlook with animated ocean and terrain.",
+      "zh-CN": "在浏览器中实时呈现澳大利亚瞭望角海岸的 WebGL 场景；进入后可看到海浪、岩岸与远方地形。"
+    },
+    "creator": "LexnLin",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Enter the coastal scene and look around the ocean, cliffs and headland.",
+      "zh-CN": "进入海岸场景，观看海面、悬崖与岬角。"
+    },
+    "play_url": "https://claude-creative-xbmc.vercel.app/",
+    "source_url": "https://claude-creative-xbmc.vercel.app/",
+    "x_post_url": "https://x.com/threejs/status/2106250581526692243",
+    "cover_alt": {
+      "en": "Rendered Point Lookout coastline with surf and cliffs",
+      "zh-CN": "海浪与悬崖环绕的瞭望角实时场景"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/point-lookout.jpg",
+    "cover_source_url": "https://claude-creative-xbmc.vercel.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "spring-ramble",
+    "title": {
+      "en": "Spring Ramble",
+      "zh-CN": "春日漫游"
+    },
+    "summary": {
+      "en": "Wander through a dense spring meadow rendered in WebGPU.",
+      "zh-CN": "漫步于 WebGPU 渲染的茂密春日草甸。"
+    },
+    "description": {
+      "en": "An interactive first-person meadow with grass and wildflowers. The page provides free-walk controls and graphics settings for the live scene.",
+      "zh-CN": "一片可第一人称自由漫步的草甸，布满草叶与野花；页面提供漫游操作和画质设置。"
+    },
+    "creator": "Kelly Milligan",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Click to begin, then use movement controls to wander and look through the meadow.",
+      "zh-CN": "点击开始后使用移动与视角操作，在草甸中漫游。"
+    },
+    "play_url": "https://spring-ramble.kelly-1df.workers.dev/",
+    "source_url": "https://spring-ramble.kelly-1df.workers.dev/",
+    "x_post_url": "https://x.com/threejs/status/2106206487781712216",
+    "cover_alt": {
+      "en": "First-person view among tall spring grass and wildflowers",
+      "zh-CN": "高草与野花间的第一人称春日场景"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/spring-ramble.jpg",
+    "cover_source_url": "https://spring-ramble.kelly-1df.workers.dev/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "mars-gt",
+    "title": {
+      "en": "Mars GT",
+      "zh-CN": "火星 GT"
+    },
+    "summary": {
+      "en": "Drive a sports car along a winding road through a Martian valley.",
+      "zh-CN": "驾驶跑车穿过火星峡谷的蜿蜒道路。"
+    },
+    "description": {
+      "en": "A browser driving demo with a rendered Martian landscape, road, car and on-screen driving controls. The live build loads directly into the driving scene.",
+      "zh-CN": "浏览器驾驶演示，包含火星地形、道路、汽车和屏幕操作提示；加载后直接进入驾驶场景。"
+    },
+    "creator": "Andrei Provkin",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Drive with WASD or arrow keys, use the handbrake and change cameras while exploring the valley road.",
+      "zh-CN": "用 WASD 或方向键驾驶，使用手刹并切换镜头探索峡谷道路。"
+    },
+    "play_url": "https://mars-gt.vercel.app",
+    "source_url": "https://mars-gt.vercel.app",
+    "x_post_url": "https://x.com/AndreiProvkin/status/2106449409978626416",
+    "cover_alt": {
+      "en": "Sports car on a winding road between red Martian cliffs",
+      "zh-CN": "红色火星峡谷间蜿蜒公路上的跑车"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/mars-gt.jpg",
+    "cover_source_url": "https://mars-gt.vercel.app",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "fizzfin",
+    "title": {
+      "en": "Fizzfin",
+      "zh-CN": "泡泡鱼 Fizzfin"
+    },
+    "summary": {
+      "en": "Swim through a colorful reef puzzle and push bubbles to clear each level.",
+      "zh-CN": "在彩色珊瑚礁关卡中游动、推泡泡解谜。"
+    },
+    "description": {
+      "en": "A browser puzzle game about a small fish navigating pearl-filled underwater mazes. The live game opens with level controls, scores and a new-game option.",
+      "zh-CN": "以小鱼为主角的网页益智游戏，在布满珍珠的水下迷宫中闯关；页面提供新游戏、计分和关卡操作。"
+    },
+    "creator": "J. Mitchell",
+    "genre": "puzzle",
+    "gameplay": {
+      "en": "Use arrow keys to swim and Space to push bubbles through the maze.",
+      "zh-CN": "用方向键游动，按空格推动泡泡穿过迷宫。"
+    },
+    "play_url": "https://semperphoenix.com/lab/fizzfin/",
+    "source_url": "https://semperphoenix.com/lab/fizzfin/",
+    "x_post_url": "https://x.com/dev_jmitchell/status/2106495538866659693",
+    "cover_alt": {
+      "en": "Fizzfin underwater puzzle board with pearls and fish",
+      "zh-CN": "有珍珠与小鱼的 Fizzfin 水下解谜关卡"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/fizzfin.jpg",
+    "cover_source_url": "https://semperphoenix.com/lab/fizzfin/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "lion-city-life",
+    "title": {
+      "en": "Lion City Life",
+      "zh-CN": "狮城生活"
+    },
+    "summary": {
+      "en": "Explore Singapore on foot in a 3D story and open-world game.",
+      "zh-CN": "在 3D 故事与开放世界游戏中步行探索新加坡。"
+    },
+    "description": {
+      "en": "A browser game set in a stylized Singapore. Players can choose a story or open-world mode, then navigate city landmarks, needs and transport options.",
+      "zh-CN": "以风格化新加坡为舞台的网页游戏。玩家可选择剧情或开放世界模式，探索地标、生活需求与交通系统。"
+    },
+    "creator": "Cosmos Studios",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Choose a mode, walk through Singapore, interact with people and use transport or the map.",
+      "zh-CN": "选择模式后在新加坡步行探索，与人物互动并使用交通或地图。"
+    },
+    "play_url": "https://lioncitylife.vercel.app",
+    "source_url": "https://lioncitylife.vercel.app",
+    "x_post_url": "https://x.com/RahulBhola5516/status/2106470475811762630",
+    "cover_alt": {
+      "en": "Player character beside Singapore waterfront landmarks",
+      "zh-CN": "角色站在新加坡滨水地标旁的实机画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/lion-city-life.jpg",
+    "cover_source_url": "https://lioncitylife.vercel.app",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "many-roads",
+    "title": {
+      "en": "Many Roads",
+      "zh-CN": "万千道路"
+    },
+    "summary": {
+      "en": "Choose a pair of fighters for a Toronto-themed tactical roguelite.",
+      "zh-CN": "挑选两名战士，展开多伦多主题的战术 roguelite。"
+    },
+    "description": {
+      "en": "A browser tactical game with a playable run setup, eight starting fighters and Toronto locations. The game opens into an isometric street scene and character selection.",
+      "zh-CN": "网页战术游戏，提供开局编队、八名初始战士和多伦多地点；启动后可见等距街景和角色选择。"
+    },
+    "creator": "Tdots Solutions",
+    "genre": "strategy",
+    "gameplay": {
+      "en": "Select point and partner fighters, choose a difficulty and start a run through street encounters.",
+      "zh-CN": "选择主战与搭档角色、难度，再进入街头遭遇战。"
+    },
+    "play_url": "https://playmanyroads.com",
+    "source_url": "https://playmanyroads.com",
+    "x_post_url": "https://x.com/TdotsSolutionsz/status/2106468882982785337",
+    "cover_alt": {
+      "en": "Many Roads fighter selection over an isometric city street",
+      "zh-CN": "等距城市街景上的 Many Roads 战士选择界面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/many-roads.jpg",
+    "cover_source_url": "https://playmanyroads.com",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "snowboard-supreme",
+    "title": {
+      "en": "Snowboard Supreme",
+      "zh-CN": "滑雪板至尊"
+    },
+    "summary": {
+      "en": "Carve down an endless mountain, score tricks and avoid trees.",
+      "zh-CN": "沿无尽山坡滑行、完成特技并躲开树木。"
+    },
+    "description": {
+      "en": "A browser snowboarding game with endless descent, slalom and daily descent modes. The playable scene shows speed, score and distance as the rider moves downhill.",
+      "zh-CN": "网页滑雪板游戏，包含无尽下坡、旗门赛和每日赛道；实机画面实时显示速度、分数和滑行距离。"
+    },
+    "creator": "kidkenney",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Steer down the slope, chain tricks, build flow and avoid trees.",
+      "zh-CN": "控制方向滑下山坡，连续完成特技、积累流畅度并避开树木。"
+    },
+    "play_url": "https://snowboard-supreme.vercel.app",
+    "source_url": "https://snowboard-supreme.vercel.app",
+    "x_post_url": "https://x.com/kidkenney/status/2106452611415097460",
+    "cover_alt": {
+      "en": "Snowboarder descending a snowy mountain with score and speed",
+      "zh-CN": "带分数与速度显示的雪山滑行实机画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/snowboard-supreme.jpg",
+    "cover_source_url": "https://snowboard-supreme.vercel.app",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "molt",
+    "title": {
+      "en": "MOLT",
+      "zh-CN": "蜕变 MOLT"
+    },
+    "summary": {
+      "en": "Play a growing alien creature aboard a deep-survey ship.",
+      "zh-CN": "在深空勘测船上扮演不断进化的外星生物。"
+    },
+    "description": {
+      "en": "A browser horror game hosted on itch.io. Players start as a hatchling in hydroponics and work through ship decks by implanting crew, evolving forms and avoiding defenders.",
+      "zh-CN": "托管在 itch.io 的网页恐怖游戏。玩家从水培舱的幼体开始，寄生船员、进化形态并躲避防卫者，逐层攻入飞船。"
+    },
+    "creator": "knightfal3",
+    "genre": "survival",
+    "gameplay": {
+      "en": "Crawl through vents, implant sleepers, grow a brood and molt into stronger forms.",
+      "zh-CN": "穿行通风管道、寄生熟睡船员、壮大群体并蜕变为更强形态。"
+    },
+    "play_url": "https://knightfal3.itch.io/molt",
+    "source_url": "https://knightfal3.itch.io/molt",
+    "x_post_url": "https://x.com/keysforthewin/status/2106369912868315645",
+    "cover_alt": {
+      "en": "MOLT hydroponics deck gameplay with hatchling controls",
+      "zh-CN": "显示幼体操作的 MOLT 水培舱实机画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/molt.jpg",
+    "cover_source_url": "https://knightfal3.itch.io/molt",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "kage-no-michi",
+    "title": {
+      "en": "Kage no Michi: Path of the Shadow",
+      "zh-CN": "影之道"
+    },
+    "summary": {
+      "en": "Fight through a stylized ninja journey in a brush-ink world.",
+      "zh-CN": "在水墨风格的忍者旅途中展开战斗。"
+    },
+    "description": {
+      "en": "A browser action game with a Japanese ink-painting look. After choosing a new journey, an opening scene leads into a side-view stage with health and combat resources.",
+      "zh-CN": "水墨风格的网页动作游戏。选择新旅程后，开场叙事进入带生命值与战斗资源显示的横向关卡。"
+    },
+    "creator": "kusanagikeiji",
+    "genre": "action",
+    "gameplay": {
+      "en": "Start a new journey, move through the burned village and use sword and ninja abilities against enemies.",
+      "zh-CN": "开启新旅程，穿过被烧毁的村庄，使用剑术与忍术迎敌。"
+    },
+    "play_url": "https://kage.rvnztolentino.com",
+    "source_url": "https://kage.rvnztolentino.com",
+    "x_post_url": "https://x.com/kusanagikeiji/status/2105994556219215990",
+    "cover_alt": {
+      "en": "Ink-brush ninja character in the first burned-village stage",
+      "zh-CN": "水墨忍者站在第一幕烧毁村庄的实机画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/kage-no-michi.jpg",
+    "cover_source_url": "https://kage.rvnztolentino.com",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "tidelight",
+    "title": {
+      "en": "Tidelight",
+      "zh-CN": "潮光"
+    },
+    "summary": {
+      "en": "Paddle a kayak through a reflective mangrove waterway.",
+      "zh-CN": "划皮艇穿行于倒映树影的红树林水道。"
+    },
+    "description": {
+      "en": "A browser kayaking experience set in a dense mangrove forest at golden hour. The live build presents left and right paddle controls once the scene loads.",
+      "zh-CN": "金色时分红树林里的网页划艇体验。场景加载完成后提供左右划桨按钮，可在水道中前进。"
+    },
+    "creator": "ryma_jp",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Use the left and right paddle controls to steer the kayak along the mangrove channel.",
+      "zh-CN": "使用左右划桨控制皮艇，沿红树林水道前进。"
+    },
+    "play_url": "https://tidelight.rymajp.com/",
+    "source_url": "https://tidelight.rymajp.com/",
+    "x_post_url": "https://x.com/threejs/status/2105632227900141840",
+    "cover_alt": {
+      "en": "Kayak entering a reflective mangrove channel",
+      "zh-CN": "皮艇驶入倒映树影的红树林水道"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/tidelight.jpg",
+    "cover_source_url": "https://tidelight.rymajp.com/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "insel-fever",
+    "title": {
+      "en": "Insel Fever",
+      "zh-CN": "海岛热"
+    },
+    "summary": {
+      "en": "Explore and interact with a tiny tropical island diorama.",
+      "zh-CN": "探索并与一座热带海岛微缩世界互动。"
+    },
+    "description": {
+      "en": "A browser island simulation with diorama, follow and tour modes, adjustable time of day and weather, and small interactions such as petting the dog.",
+      "zh-CN": "一款网页海岛模拟体验，提供微缩景观、跟随与导览模式，可调整时间和天气，并能与岛上的狗互动。"
+    },
+    "creator": "to6iDEV",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Tour the island, change the time and weather, follow residents and interact with the scene.",
+      "zh-CN": "导览海岛、改变时间与天气、跟随岛民并与场景互动。"
+    },
+    "play_url": "https://insel-fever.vercel.app/",
+    "source_url": "https://insel-fever.vercel.app/",
+    "x_post_url": "https://x.com/threejs/status/2105819211230802196",
+    "cover_alt": {
+      "en": "Tropical island diorama at golden hour with interaction controls",
+      "zh-CN": "黄金时分的热带海岛微缩景观与交互控件"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/insel-fever.jpg",
+    "cover_source_url": "https://insel-fever.vercel.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
+  },
+  {
+    "id": "demolition-derby",
+    "title": {
+      "en": "Demolition Derby",
+      "zh-CN": "拆车德比"
+    },
+    "summary": {
+      "en": "Race and crash through a figure-eight circuit with rival cars.",
+      "zh-CN": "与对手在八字形赛道上竞速和碰撞。"
+    },
+    "description": {
+      "en": "An open-source browser driving game with figure-eight race, derby and total-destruction events. Players choose a car, event, laps, livery and difficulty before entering the live race.",
+      "zh-CN": "开源的网页赛车游戏，包含八字赛、德比赛和彻底破坏等模式。玩家可选车辆、赛事、圈数、涂装与难度，再进入实时比赛。"
+    },
+    "creator": "drcollect",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Pick a car and event, then drive, steer and use the handbrake through crowded races.",
+      "zh-CN": "选择车辆和赛事，驾驶、转向并用手刹应对拥挤赛道。"
+    },
+    "play_url": "https://drcollect.github.io/demolition-derby/",
+    "source_url": "https://github.com/drcollect/demolition-derby",
+    "x_post_url": "https://x.com/threejs/status/2105547061693497380",
+    "cover_alt": {
+      "en": "Demolition Derby race car on a figure-eight track with live HUD",
+      "zh-CN": "八字形赛道上带实时界面的拆车德比赛车"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/demolition-derby.jpg",
+    "cover_source_url": "https://drcollect.github.io/demolition-derby/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-04",
+    "verified_at": "2026-10-04"
   }
 ]
