@@ -129,6 +129,15 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Tidelight](https://tidelight.rymajp.com/) | Adventure | AI workflow awaits creator confirmation | [Play](https://tidelight.rymajp.com/) | [X post](https://x.com/threejs/status/2105632227900141840) |
 | [Insel Fever](https://insel-fever.vercel.app/) | Simulation | AI workflow awaits creator confirmation | [Play](https://insel-fever.vercel.app/) | [X post](https://x.com/threejs/status/2105819211230802196) |
 | [Demolition Derby](https://drcollect.github.io/demolition-derby/) | Racing | AI workflow awaits creator confirmation | [Play](https://drcollect.github.io/demolition-derby/) | [GitHub](https://github.com/drcollect/demolition-derby) |
+| [Acrobatic Train](https://x282665.com/games/acrobatic-train/) | Casual | AI workflow awaits creator confirmation | [Play](https://x282665.com/games/acrobatic-train/) | [X post](https://x.com/threejs/status/2106720952050757917) |
+| [MEATSPORT](https://meatsport.lcbgames.com/) | Action | AI workflow awaits creator confirmation | [Play](https://meatsport.lcbgames.com/) | [X post](https://x.com/threejs/status/2106798063612510350) |
+| [Kingbots](https://kingbots.lcbgames.com/) | Action | AI workflow awaits creator confirmation | [Play](https://kingbots.lcbgames.com/) | [X post](https://x.com/threejs/status/2106635924704760283) |
+| [Petits Gardiens](https://patapain18.github.io/petits-gardiens/) | Strategy | AI workflow awaits creator confirmation | [Play](https://patapain18.github.io/petits-gardiens/) | [X post](https://x.com/Drpatapain/status/2106883027398009146) |
+| [CLAWD: Out of Context](https://clawd-rpg.vercel.app/) | Role Playing | AI workflow awaits creator confirmation | [Play](https://clawd-rpg.vercel.app/) | [X post](https://x.com/LexnLin/status/2107211922320044279) |
+| [GlassJaw](https://glassjaw-kickboxing.vercel.app/) | Sports | AI workflow awaits creator confirmation | [Play](https://glassjaw-kickboxing.vercel.app/) | [X post](https://x.com/TNorthDen/status/2103968515568853088) |
+| [Merge Conflict: Clawd vs Codex](https://merge-conflict-delta.vercel.app/) | Action | AI workflow awaits creator confirmation | [Play](https://merge-conflict-delta.vercel.app/) | [X post](https://x.com/LexnLin/status/2107502672907506162) |
+| [Rose & Blade](https://rose-and-blade.ai2070.net/) | Action | AI workflow awaits creator confirmation | [Play](https://rose-and-blade.ai2070.net/) | [X post](https://x.com/danielv8698/status/2107578963581440111) |
+| [Aquarius](https://playaquarius.com/) | Simulation | AI workflow awaits creator confirmation | [Play](https://playaquarius.com/) | [X post](https://x.com/giannismoll7/status/2107492523149049976) |
 
 ## X showcase
 

@@ -4977,5 +4977,410 @@
     },
     "added_at": "2026-10-04",
     "verified_at": "2026-10-04"
+  },
+  {
+    "id": "acrobatic-train",
+    "title": {
+      "en": "Acrobatic Train",
+      "zh-CN": "特技列车"
+    },
+    "summary": {
+      "en": "Swipe to launch a train into acrobatic jumps along its tracks.",
+      "zh-CN": "滑动操作小火车，在轨道上完成腾跃特技。"
+    },
+    "description": {
+      "en": "A compact Japanese browser train game with a live 3D railway, score counter and swipe control.",
+      "zh-CN": "日语网页小火车游戏，展示实时 3D 铁道、得分与滑动操作。"
+    },
+    "creator": "x282665",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Swipe forward or back to time the train jump and improve your score.",
+      "zh-CN": "前后滑动控制列车腾跃时机，争取更高分。"
+    },
+    "play_url": "https://x282665.com/games/acrobatic-train/",
+    "source_url": "https://x.com/threejs/status/2106720952050757917",
+    "x_post_url": "https://x.com/threejs/status/2106720952050757917",
+    "cover_alt": {
+      "en": "A train on green tracks in the 3D game",
+      "zh-CN": "绿色原野铁轨上的 3D 列车"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/acrobatic-train.jpg",
+    "cover_source_url": "https://x282665.com/games/acrobatic-train/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-07",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "meatsport",
+    "title": {
+      "en": "MEATSPORT",
+      "zh-CN": "肉球斗兽场"
+    },
+    "summary": {
+      "en": "Build a strange fighter from body parts and send it into an arena bout.",
+      "zh-CN": "给奇异肉球拼装部件，再派它进入斗兽场。"
+    },
+    "description": {
+      "en": "A browser arena game by LCB Games. Add limbs and other parts to a creature, then start a fight and chase a winning streak.",
+      "zh-CN": "LCB Games 的网页斗兽场游戏。给生物装上肢体等部件，开战并挑战连胜。"
+    },
+    "creator": "LCB Games",
+    "genre": "action",
+    "gameplay": {
+      "en": "Choose creature parts, press Fight and watch the arena bout.",
+      "zh-CN": "选择生物部件，按下 Fight，观看斗兽场对战。"
+    },
+    "play_url": "https://meatsport.lcbgames.com/",
+    "source_url": "https://x.com/threejs/status/2106798063612510350",
+    "x_post_url": "https://x.com/threejs/status/2106798063612510350",
+    "cover_alt": {
+      "en": "A customised meat creature in the MEATSPORT arena",
+      "zh-CN": "MEATSPORT 斗兽场中的自定义肉球生物"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/meatsport.jpg",
+    "cover_source_url": "https://meatsport.lcbgames.com/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-07",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "kingbots",
+    "title": {
+      "en": "Kingbots",
+      "zh-CN": "城堡机甲"
+    },
+    "summary": {
+      "en": "Choose a walking castle and deploy into a monster-filled battlefield.",
+      "zh-CN": "选择步行城堡机甲，部署到怪物战场。"
+    },
+    "description": {
+      "en": "A 3D browser action game from LCB Games. Pick a castle, deploy it and use attacks and defensive abilities in a destructible battlefield.",
+      "zh-CN": "LCB Games 的 3D 网页动作游戏。选定城堡机甲并部署，使用攻击和防御技能对抗敌人。"
+    },
+    "creator": "LCB Games",
+    "genre": "action",
+    "gameplay": {
+      "en": "Select a castle, deploy, move and strike enemies.",
+      "zh-CN": "选择城堡、部署、移动并攻击敌人。"
+    },
+    "play_url": "https://kingbots.lcbgames.com/",
+    "source_url": "https://x.com/threejs/status/2106635924704760283",
+    "x_post_url": "https://x.com/threejs/status/2106635924704760283",
+    "cover_alt": {
+      "en": "Two walking castle choices on the Kingbots start screen",
+      "zh-CN": "Kingbots 开始画面中的两座步行城堡"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/kingbots.jpg",
+    "cover_source_url": "https://kingbots.lcbgames.com/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-07",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "petits-gardiens",
+    "title": {
+      "en": "Petits Gardiens",
+      "zh-CN": "小小守卫者"
+    },
+    "summary": {
+      "en": "Defend a castle across pixel, cartoon and voxel tower-defense worlds.",
+      "zh-CN": "跨越像素、卡通与体素世界，布防守护城堡。"
+    },
+    "description": {
+      "en": "A French browser tower-defense game with a world map, staged levels and a playable first tutorial. Place guardians before waves of monsters reach the castle.",
+      "zh-CN": "法语网页塔防游戏，有世界地图、逐级关卡和可玩的首关教程。布置守卫，阻止怪物浪潮抵达城堡。"
+    },
+    "creator": "Drpatapain",
+    "genre": "strategy",
+    "gameplay": {
+      "en": "Open the first level, place defenders and launch each wave.",
+      "zh-CN": "进入首关，布置守卫并逐波放出敌人。"
+    },
+    "play_url": "https://patapain18.github.io/petits-gardiens/",
+    "source_url": "https://x.com/Drpatapain/status/2106883027398009146",
+    "x_post_url": "https://x.com/Drpatapain/status/2106883027398009146",
+    "cover_alt": {
+      "en": "Pixel-art tower-defense first level with tutorial overlay",
+      "zh-CN": "像素风塔防首关及教程提示"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/petits-gardiens.jpg",
+    "cover_source_url": "https://patapain18.github.io/petits-gardiens/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-07",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "clawd-out-of-context",
+    "title": {
+      "en": "CLAWD: Out of Context",
+      "zh-CN": "出圈的 Clawd"
+    },
+    "summary": {
+      "en": "Play as Clawd in a 3D action RPG with bug-themed enemies.",
+      "zh-CN": "扮演 Clawd，在 3D 动作 RPG 中迎战程序错误主题的敌人。"
+    },
+    "description": {
+      "en": "A browser action RPG by LexnLin. Its live menu offers a new game, settings and controls before entering the 3D world.",
+      "zh-CN": "LexnLin 的网页动作 RPG。实时菜单提供新游戏、设置和操作说明，可进入 3D 世界。"
+    },
+    "creator": "LexnLin",
+    "genre": "role_playing",
+    "gameplay": {
+      "en": "Start a new game, move through the 3D world and use combat abilities.",
+      "zh-CN": "开启新游戏，在 3D 世界中移动并使用战斗技能。"
+    },
+    "play_url": "https://clawd-rpg.vercel.app/",
+    "source_url": "https://x.com/LexnLin/status/2107211922320044279",
+    "x_post_url": "https://x.com/LexnLin/status/2107211922320044279",
+    "cover_alt": {
+      "en": "CLAWD game menu over a stylized 3D scene",
+      "zh-CN": "风格化 3D 场景上的 CLAWD 游戏菜单"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/clawd-out-of-context.jpg",
+    "cover_source_url": "https://clawd-rpg.vercel.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-07",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "glassjaw",
+    "title": {
+      "en": "GlassJaw",
+      "zh-CN": "玻璃下巴"
+    },
+    "summary": {
+      "en": "Fight in a ragdoll kickboxing ring with adjustable physics.",
+      "zh-CN": "在可调物理参数的布娃娃踢拳擂台中对战。"
+    },
+    "description": {
+      "en": "A browser kickboxing game with a live ring, single-player and local two-player modes, plus controls for strikes and movement.",
+      "zh-CN": "网页踢拳游戏，提供实时擂台、单人与本地双人模式，并可控制击打与移动。"
+    },
+    "creator": "TNorthDen",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Choose a fight mode, then punch, kick and dodge in the ring.",
+      "zh-CN": "选择对战模式，在擂台上出拳、踢腿与闪躲。"
+    },
+    "play_url": "https://glassjaw-kickboxing.vercel.app/",
+    "source_url": "https://x.com/TNorthDen/status/2103968515568853088",
+    "x_post_url": "https://x.com/TNorthDen/status/2103968515568853088",
+    "cover_alt": {
+      "en": "GlassJaw fight-mode menu over a kickboxing ring",
+      "zh-CN": "踢拳擂台前的 GlassJaw 模式选择菜单"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/glassjaw.jpg",
+    "cover_source_url": "https://glassjaw-kickboxing.vercel.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-07",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "merge-conflict",
+    "title": {
+      "en": "Merge Conflict: Clawd vs Codex",
+      "zh-CN": "合并冲突：Clawd 对决 Codex"
+    },
+    "summary": {
+      "en": "Choose Clawd or Codex and fight a bot in a cinematic 3D arena.",
+      "zh-CN": "选择 Clawd 或 Codex，在电影感 3D 擂台上对抗机器人。"
+    },
+    "description": {
+      "en": "An open-source Three.js browser fighter with four difficulties, combos, parries, dashes and ultimate beam clashes. The creator repository documents the game and controls.",
+      "zh-CN": "开源 Three.js 网页格斗游戏，含四档难度、连招、招架、闪避与终极光束对拼。作者仓库记录了玩法与操作。"
+    },
+    "creator": "Leon Lin",
+    "genre": "action",
+    "gameplay": {
+      "en": "Choose a fighter and difficulty, then use movement, attacks, block and specials to win a best-of-three match.",
+      "zh-CN": "选角色和难度，用移动、攻击、格挡与特殊技赢得三局两胜的对决。"
+    },
+    "play_url": "https://merge-conflict-delta.vercel.app/",
+    "source_url": "https://github.com/Leonxlnx/merge-conflict",
+    "x_post_url": "https://x.com/LexnLin/status/2107502672907506162",
+    "cover_alt": {
+      "en": "Clawd and Codex face each other on the fighter selection screen",
+      "zh-CN": "角色选择画面中对峙的 Clawd 与 Codex"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/merge-conflict.jpg",
+    "cover_source_url": "https://merge-conflict-delta.vercel.app/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-07",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "rose-and-blade",
+    "title": {
+      "en": "Rose & Blade",
+      "zh-CN": "玫瑰与利刃"
+    },
+    "summary": {
+      "en": "Duel with physics-driven swords in a medieval browser arena.",
+      "zh-CN": "在中世纪网页竞技场进行物理驱动的剑术决斗。"
+    },
+    "description": {
+      "en": "A browser sword-fighting game by DanielV8. The creator page links to a direct game build and describes solo waves, co-op and player-versus-player modes.",
+      "zh-CN": "DanielV8 的网页剑斗游戏。作者页面提供直达游戏版本，并介绍单人波次、合作及玩家对战模式。"
+    },
+    "creator": "DanielV8",
+    "genre": "action",
+    "gameplay": {
+      "en": "Enter the game, move your sword with the mouse and fight solo or with other players.",
+      "zh-CN": "进入游戏，用鼠标挥剑，单人或与其他玩家对战。"
+    },
+    "play_url": "https://rose-and-blade.ai2070.net/",
+    "source_url": "https://danielv8.itch.io/rose-and-blade",
+    "x_post_url": "https://x.com/danielv8698/status/2107578963581440111",
+    "cover_alt": {
+      "en": "Rose & Blade title screen in a medieval tournament arena",
+      "zh-CN": "中世纪比武场中的《玫瑰与利刃》标题画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/rose-and-blade.jpg",
+    "cover_source_url": "https://rose-and-blade.ai2070.net/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-07",
+    "verified_at": "2026-10-07"
+  },
+  {
+    "id": "aquarius",
+    "title": {
+      "en": "Aquarius",
+      "zh-CN": "水族箱物语"
+    },
+    "summary": {
+      "en": "Build and care for a living 3D aquarium as a guest player.",
+      "zh-CN": "以访客身份打造并照料鲜活的 3D 水族箱。"
+    },
+    "description": {
+      "en": "A browser aquarium game with guest play, fish collecting, feeding, tank decoration, breeding and quests. The Play now button opens a working guest game.",
+      "zh-CN": "网页水族箱游戏，可访客试玩，包含收集鱼类、喂养、布景、繁殖及任务。点击 Play now 可直接进入访客游戏。"
+    },
+    "creator": "giannismoll7",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Enter as a guest, collect fish, decorate tanks and maintain their care.",
+      "zh-CN": "以访客身份进入，收集鱼类、布置鱼缸并照料它们。"
+    },
+    "play_url": "https://playaquarius.com/",
+    "source_url": "https://x.com/giannismoll7/status/2107492523149049976",
+    "x_post_url": "https://x.com/giannismoll7/status/2107492523149049976",
+    "cover_alt": {
+      "en": "Aquarius guest game dashboard with a welcome chest",
+      "zh-CN": "Aquarius 访客游戏主界面与欢迎宝箱"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/aquarius.jpg",
+    "cover_source_url": "https://playaquarius.com/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-07",
+    "verified_at": "2026-10-07"
   }
 ]

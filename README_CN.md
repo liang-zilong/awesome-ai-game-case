@@ -129,6 +129,15 @@
 | [蜕变 MOLT](https://knightfal3.itch.io/molt) | 生存 | AI 工作流程等待作者确认 | [打开游戏](https://knightfal3.itch.io/molt) | [X 原帖](https://x.com/keysforthewin/status/2106369912868315645) |
 | [影之道](https://kage.rvnztolentino.com) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://kage.rvnztolentino.com) | [X 原帖](https://x.com/kusanagikeiji/status/2105994556219215990) |
 | [潮光](https://tidelight.rymajp.com/) | 冒险 | AI 工作流程等待作者确认 | [打开游戏](https://tidelight.rymajp.com/) | [X 原帖](https://x.com/threejs/status/2105632227900141840) |
+| [特技列车](https://x282665.com/games/acrobatic-train/) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://x282665.com/games/acrobatic-train/) | [X 原帖](https://x.com/threejs/status/2106720952050757917) |
+| [肉球斗兽场](https://meatsport.lcbgames.com/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://meatsport.lcbgames.com/) | [X 原帖](https://x.com/threejs/status/2106798063612510350) |
+| [城堡机甲](https://kingbots.lcbgames.com/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://kingbots.lcbgames.com/) | [X 原帖](https://x.com/threejs/status/2106635924704760283) |
+| [小小守卫者](https://patapain18.github.io/petits-gardiens/) | 策略 | AI 工作流程等待作者确认 | [打开游戏](https://patapain18.github.io/petits-gardiens/) | [X 原帖](https://x.com/Drpatapain/status/2106883027398009146) |
+| [出圈的 Clawd](https://clawd-rpg.vercel.app/) | 角色扮演 | AI 工作流程等待作者确认 | [打开游戏](https://clawd-rpg.vercel.app/) | [X 原帖](https://x.com/LexnLin/status/2107211922320044279) |
+| [玻璃下巴](https://glassjaw-kickboxing.vercel.app/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://glassjaw-kickboxing.vercel.app/) | [X 原帖](https://x.com/TNorthDen/status/2103968515568853088) |
+| [合并冲突：Clawd 对决 Codex](https://merge-conflict-delta.vercel.app/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://merge-conflict-delta.vercel.app/) | [X 原帖](https://x.com/LexnLin/status/2107502672907506162) |
+| [玫瑰与利刃](https://rose-and-blade.ai2070.net/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://rose-and-blade.ai2070.net/) | [X 原帖](https://x.com/danielv8698/status/2107578963581440111) |
+| [水族箱物语](https://playaquarius.com/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://playaquarius.com/) | [X 原帖](https://x.com/giannismoll7/status/2107492523149049976) |
 
 ## X 展示案例
 
