@@ -4,7 +4,7 @@
 
 一份重视来源、可以直接试玩的 AI 游戏案例目录。每条案例都提供游戏直达地址或创作者原始展示、简短介绍、玩法类型、已核实的 AI 用途，以及真实游戏截图或原帖视频封面。
 
-配套网站位于独立仓库 `awesome-ai-game-case-web`。网站默认英文，简体中文页面位于 `/zh-CN/`。
+前往 **[AI Game Case](https://aigame.zhumang.dev/zh-CN/)** 在线浏览和试玩。网站代码位于独立的 [awesome-ai-game-case-web](https://github.com/liang-zilong/awesome-ai-game-case-web) 仓库，默认语言为英文，同时提供简体中文页面。
 
 ## 收录标准
 

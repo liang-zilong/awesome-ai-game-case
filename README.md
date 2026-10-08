@@ -4,7 +4,7 @@
 
 A source-first list of playable games and game experiments made with AI. Every entry includes a direct game or original showcase link, a concise description, a genre, the documented AI role, and a real game screenshot or source video poster.
 
-The companion website is maintained in the separate `awesome-ai-game-case-web` repository. English is the default website language; Simplified Chinese is available under `/zh-CN/`.
+Play the collection at **[AI Game Case](https://aigame.zhumang.dev/)**. The website is maintained in the separate [awesome-ai-game-case-web](https://github.com/liang-zilong/awesome-ai-game-case-web) repository; English is the default language and [Simplified Chinese](https://aigame.zhumang.dev/zh-CN/) is also available.
 
 ## What belongs here
 
