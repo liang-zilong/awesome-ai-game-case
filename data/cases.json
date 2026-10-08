@@ -5382,5 +5382,320 @@
     },
     "added_at": "2026-10-07",
     "verified_at": "2026-10-07"
+  },
+  {
+    "id": "rakugaki-fighter",
+    "title": {
+      "en": "Rakugaki Fighter",
+      "zh-CN": "涂鸦格斗家"
+    },
+    "summary": {
+      "en": "Draw a fighter, then face a CPU opponent in a 3D arena.",
+      "zh-CN": "画出自己的角色，在 3D 擂台与电脑对手格斗。"
+    },
+    "description": {
+      "en": "A browser fighting game by x282665. Drawing on the grid creates a fighter; the live match screen exposes movement, guard and attack controls.",
+      "zh-CN": "x282665 制作的网页格斗游戏。在网格上画出的形象会成为战斗角色，进入擂台后可移动、格挡和攻击。"
+    },
+    "creator": "x282665",
+    "genre": "action",
+    "gameplay": {
+      "en": "Draw a character, press Fight, then move and choose guard or attack against the CPU.",
+      "zh-CN": "先画角色并点击“战斗”，再移动并选择格挡或攻击，与电脑对手交锋。"
+    },
+    "play_url": "https://x282665.com/games/rakugaki-fighter/",
+    "source_url": "https://x282665.com/games/rakugaki-fighter/",
+    "x_post_url": "https://x.com/x282665/status/2107751232748273735",
+    "cover_alt": {
+      "en": "A hand-drawn fighter faces the red CPU character in the arena",
+      "zh-CN": "手绘角色在擂台上面对红色电脑对手"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/rakugaki-fighter.jpg",
+    "cover_source_url": "https://x282665.com/games/rakugaki-fighter/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-08",
+    "verified_at": "2026-10-08"
+  },
+  {
+    "id": "snowball",
+    "title": {
+      "en": "Snowball",
+      "zh-CN": "雪球大作战"
+    },
+    "summary": {
+      "en": "Roll a snowball through a shared mountain arena before the next blizzard.",
+      "zh-CN": "在多人雪山竞技场滚动雪球，迎接下一场暴风雪。"
+    },
+    "description": {
+      "en": "A live browser snowball arena on Genex. Guest play enters an active winter round with a mass counter, ranking, boost meter and a blizzard timer.",
+      "zh-CN": "Genex 上可直接进入的网页雪球竞技场。访客试玩会进入正在进行的冬季回合，画面显示质量、排名、加速槽与暴风雪倒计时。"
+    },
+    "creator": "John Travolte",
+    "genre": "action",
+    "gameplay": {
+      "en": "Join the arena, steer with WASD, grow by rolling over snow and objects, and use boost while competing with other players.",
+      "zh-CN": "进入竞技场，用 WASD 操控雪球，碾过雪地和物体积累质量，并使用加速与其他玩家竞争。"
+    },
+    "play_url": "https://genex.games/snowball",
+    "source_url": "https://genex.games/snowball",
+    "x_post_url": "https://x.com/boozyoddbear/status/2107478487418196129",
+    "cover_alt": {
+      "en": "Player snowball rolling across a mountain arena with mass and blizzard timer",
+      "zh-CN": "玩家雪球穿过雪山竞技场，画面显示质量和暴风雪倒计时"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/snowball.jpg",
+    "cover_source_url": "https://genex.games/snowball",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-08",
+    "verified_at": "2026-10-08"
+  },
+  {
+    "id": "destructovibe",
+    "title": {
+      "en": "Destructovibe",
+      "zh-CN": "拆迁节奏"
+    },
+    "summary": {
+      "en": "Take demolition contracts and bring down structures in first person.",
+      "zh-CN": "接取拆除合同，以第一人称视角拆毁建筑。"
+    },
+    "description": {
+      "en": "A browser demolition game with a contract list, job briefings, score and target demolition percentage. The first Garden Variety job opens a playable 3D worksite.",
+      "zh-CN": "网页拆除游戏，包含合同列表、任务简报、得分与目标拆除比例。首个 Garden Variety 任务可进入 3D 工地直接游玩。"
+    },
+    "creator": "RasputinKaiser",
+    "genre": "action",
+    "gameplay": {
+      "en": "Select a contract, enter the worksite and use demolition tools to reach the target percentage before the par time.",
+      "zh-CN": "选择合同后进入工地，使用拆除工具，在目标时间内达到规定的拆除比例。"
+    },
+    "play_url": "https://destructovibe-mobile.asputinkaiser.chatgpt.site/",
+    "source_url": "https://destructovibe-mobile.asputinkaiser.chatgpt.site/",
+    "x_post_url": "https://x.com/RasputinKaiser/status/2106956155792564344",
+    "cover_alt": {
+      "en": "First-person demolition worksite with a sledgehammer and job target",
+      "zh-CN": "第一人称拆除工地，画面显示大锤和任务目标"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/destructovibe.jpg",
+    "cover_source_url": "https://destructovibe-mobile.asputinkaiser.chatgpt.site/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-08",
+    "verified_at": "2026-10-08"
+  },
+  {
+    "id": "heatsink",
+    "title": {
+      "en": "HEATSINK",
+      "zh-CN": "热沉竞速"
+    },
+    "summary": {
+      "en": "Race an armed drone through a neon city while managing heat and shields.",
+      "zh-CN": "驾驶武装无人机穿越霓虹都市，同时管理过热与护盾。"
+    },
+    "description": {
+      "en": "A playable 3D drone racer hosted on Crayon. The Grand Circuit starts a timed multi-lap race with rivals, hull, boost, shield and heat indicators.",
+      "zh-CN": "Crayon 平台上的 3D 无人机赛车游戏。Grand Circuit 可进入计时多圈竞赛，画面显示对手、机体、加速、护盾与热量。"
+    },
+    "creator": "Tushar",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Choose a drone race, steer through the city circuit, boost, fire and defend while keeping heat under control.",
+      "zh-CN": "选择无人机赛道，在城市赛道中转向、加速、开火和防御，同时控制机体热量。"
+    },
+    "play_url": "https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda",
+    "source_url": "https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda",
+    "x_post_url": "https://x.com/aniketjart/status/2107973550300856334",
+    "cover_alt": {
+      "en": "Drone in the Grand Circuit tunnel with race, hull and heat HUD",
+      "zh-CN": "无人机行驶在 Grand Circuit 隧道，画面显示名次、机体和热量"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/heatsink.jpg",
+    "cover_source_url": "https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-08",
+    "verified_at": "2026-10-08"
+  },
+  {
+    "id": "ripple-pool",
+    "title": {
+      "en": "Ripple Pool",
+      "zh-CN": "涟漪球池"
+    },
+    "summary": {
+      "en": "Merge matching colored balls in a calm daily physics puzzle.",
+      "zh-CN": "在每日物理解谜中让同色小球碰撞合并。"
+    },
+    "description": {
+      "en": "A browser physics puzzle with a playable home demo and a direct daily pool. The daily game gives a shot limit and par target for clearing matching colors.",
+      "zh-CN": "网页物理解谜游戏，首页有可玩演示，并提供每日关卡直达页。每日关卡设有发射次数限制与标准杆目标。"
+    },
+    "creator": "michaelirizarry",
+    "genre": "puzzle",
+    "gameplay": {
+      "en": "Place a ball, pull back to aim and release so matching colors collide and merge within the shot limit.",
+      "zh-CN": "放置小球，向后拖动瞄准并松开发射，让同色小球在限定次数内碰撞合并。"
+    },
+    "play_url": "https://ripplepool.app/daily/",
+    "source_url": "https://ripplepool.app/",
+    "x_post_url": "https://x.com/michaelirizarry/status/2107950053323378957",
+    "cover_alt": {
+      "en": "Daily Ripple Pool puzzle with colored balls, ten shots and par seven",
+      "zh-CN": "Ripple Pool 每日关卡中的彩色小球、十次发射与标准杆七次"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/ripple-pool.jpg",
+    "cover_source_url": "https://ripplepool.app/daily/",
+    "ai_use": {
+      "en": "The public materials reviewed do not verify a specific AI development role or model.",
+      "zh-CN": "已核查的公开资料未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-08",
+    "verified_at": "2026-10-08"
+  },
+  {
+    "id": "meteor-mayhem",
+    "title": {
+      "en": "Meteor Mayhem",
+      "zh-CN": "陨石狂潮"
+    },
+    "summary": {
+      "en": "Dodge rocks and shoot drones in a three-wave Game Boy Color arcade shooter.",
+      "zh-CN": "在三波 Game Boy Color 街机射击关卡中躲陨石、击落无人机。"
+    },
+    "description": {
+      "en": "One of Nirmal Utwani’s original Game Boy Color games, available as a browser ROM and downloadable for compatible handheld hardware. The creator repository documents three waves and a boss.",
+      "zh-CN": "Nirmal Utwani 的原创 Game Boy Color 游戏之一，可在浏览器运行 ROM，也能下载到兼容掌机。作者仓库介绍了三波敌人与最终首领。"
+    },
+    "creator": "Nirmal Utwani",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Move with arrow keys, fire with Z, dash with X, survive three waves and defeat the boss.",
+      "zh-CN": "用方向键移动、Z 键开火、X 键冲刺，闯过三波攻击并击败首领。"
+    },
+    "play_url": "https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html",
+    "source_url": "https://github.com/nirmal91/chromatic-modretro-games",
+    "x_post_url": "https://x.com/Nirmal_Utwani/status/2107979679408001316",
+    "cover_alt": {
+      "en": "Meteor Mayhem running in a browser emulator with score and wave HUD",
+      "zh-CN": "Meteor Mayhem 在网页模拟器中运行，画面显示得分与波次"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/meteor-mayhem.png",
+    "cover_source_url": "https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html",
+    "ai_use": {
+      "en": "The creator explicitly credits Codex in the public game index and repository. A specific underlying model is not named.",
+      "zh-CN": "作者在公开游戏目录和仓库中明确注明使用 Codex，但未说明底层具体模型。"
+    },
+    "added_at": "2026-10-08",
+    "verified_at": "2026-10-08"
+  },
+  {
+    "id": "midnight-courier",
+    "title": {
+      "en": "Midnight Courier",
+      "zh-CN": "午夜信使"
+    },
+    "summary": {
+      "en": "Steal three cores and escape in a short neon Game Boy Color heist.",
+      "zh-CN": "在霓虹 Game Boy Color 潜入游戏中夺取三枚核心并逃离。"
+    },
+    "description": {
+      "en": "An original Game Boy Color heist by Nirmal Utwani, directly playable in a browser emulator and available as a ROM. The creator documents four sectors, three cores, a cipher and a timed getaway.",
+      "zh-CN": "Nirmal Utwani 的原创 Game Boy Color 潜入游戏，可在网页模拟器直接玩，也提供 ROM。作者记录了四个区域、三枚核心、密码与限时撤离。"
+    },
+    "creator": "Nirmal Utwani",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Move with arrow keys, advance with Z, check the mission with X, collect three cores and escape.",
+      "zh-CN": "用方向键移动、Z 键推进、X 键查看任务，收集三枚核心后撤离。"
+    },
+    "play_url": "https://www.nirmalutwani.com/games/play/midnight-courier/index.html",
+    "source_url": "https://github.com/nirmal91/chromatic-modretro-games",
+    "x_post_url": null,
+    "cover_alt": {
+      "en": "Midnight Courier running in a browser emulator with three core objective",
+      "zh-CN": "Midnight Courier 在网页模拟器中运行，显示收集三枚核心的目标"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/midnight-courier.png",
+    "cover_source_url": "https://www.nirmalutwani.com/games/play/midnight-courier/index.html",
+    "ai_use": {
+      "en": "The creator explicitly credits Codex in the public game index and repository. A specific underlying model is not named.",
+      "zh-CN": "作者在公开游戏目录和仓库中明确注明使用 Codex，但未说明底层具体模型。"
+    },
+    "added_at": "2026-10-08",
+    "verified_at": "2026-10-08"
   }
 ]

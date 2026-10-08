@@ -138,6 +138,13 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Merge Conflict: Clawd vs Codex](https://merge-conflict-delta.vercel.app/) | Action | AI workflow awaits creator confirmation | [Play](https://merge-conflict-delta.vercel.app/) | [X post](https://x.com/LexnLin/status/2107502672907506162) |
 | [Rose & Blade](https://rose-and-blade.ai2070.net/) | Action | AI workflow awaits creator confirmation | [Play](https://rose-and-blade.ai2070.net/) | [X post](https://x.com/danielv8698/status/2107578963581440111) |
 | [Aquarius](https://playaquarius.com/) | Simulation | AI workflow awaits creator confirmation | [Play](https://playaquarius.com/) | [X post](https://x.com/giannismoll7/status/2107492523149049976) |
+| [Rakugaki Fighter](https://x282665.com/games/rakugaki-fighter/) | Action | AI workflow awaits creator confirmation | [Play](https://x282665.com/games/rakugaki-fighter/) | [X post](https://x.com/x282665/status/2107751232748273735) |
+| [Snowball](https://genex.games/snowball) | Action | AI workflow awaits creator confirmation | [Play](https://genex.games/snowball) | [X post](https://x.com/boozyoddbear/status/2107478487418196129) |
+| [Destructovibe](https://destructovibe-mobile.asputinkaiser.chatgpt.site/) | Action | AI workflow awaits creator confirmation | [Play](https://destructovibe-mobile.asputinkaiser.chatgpt.site/) | [X post](https://x.com/RasputinKaiser/status/2106956155792564344) |
+| [HEATSINK](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda) | Racing | AI workflow awaits creator confirmation | [Play](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda) | [X post](https://x.com/aniketjart/status/2107973550300856334) |
+| [Ripple Pool](https://ripplepool.app/daily/) | Puzzle | AI workflow awaits creator confirmation | [Play](https://ripplepool.app/daily/) | [X post](https://x.com/michaelirizarry/status/2107950053323378957) |
+| [Meteor Mayhem](https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html) | Shooter | Codex-assisted development | [Play](https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html) | [GitHub](https://github.com/nirmal91/chromatic-modretro-games) |
+| [Midnight Courier](https://www.nirmalutwani.com/games/play/midnight-courier/index.html) | Adventure | Codex-assisted development | [Play](https://www.nirmalutwani.com/games/play/midnight-courier/index.html) | [GitHub](https://github.com/nirmal91/chromatic-modretro-games) |
 
 ## X showcase
 

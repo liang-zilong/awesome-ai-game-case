@@ -138,6 +138,13 @@
 | [合并冲突：Clawd 对决 Codex](https://merge-conflict-delta.vercel.app/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://merge-conflict-delta.vercel.app/) | [X 原帖](https://x.com/LexnLin/status/2107502672907506162) |
 | [玫瑰与利刃](https://rose-and-blade.ai2070.net/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://rose-and-blade.ai2070.net/) | [X 原帖](https://x.com/danielv8698/status/2107578963581440111) |
 | [水族箱物语](https://playaquarius.com/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://playaquarius.com/) | [X 原帖](https://x.com/giannismoll7/status/2107492523149049976) |
+| [涂鸦格斗家](https://x282665.com/games/rakugaki-fighter/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://x282665.com/games/rakugaki-fighter/) | [X 原帖](https://x.com/x282665/status/2107751232748273735) |
+| [雪球大作战](https://genex.games/snowball) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://genex.games/snowball) | [X 原帖](https://x.com/boozyoddbear/status/2107478487418196129) |
+| [拆迁节奏](https://destructovibe-mobile.asputinkaiser.chatgpt.site/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://destructovibe-mobile.asputinkaiser.chatgpt.site/) | [X 原帖](https://x.com/RasputinKaiser/status/2106956155792564344) |
+| [热沉竞速](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda) | 赛车 | AI 工作流程等待作者确认 | [打开游戏](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda) | [X 原帖](https://x.com/aniketjart/status/2107973550300856334) |
+| [涟漪球池](https://ripplepool.app/daily/) | 益智 | AI 工作流程等待作者确认 | [打开游戏](https://ripplepool.app/daily/) | [X 原帖](https://x.com/michaelirizarry/status/2107950053323378957) |
+| [陨石狂潮](https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html) | 射击 | Codex 辅助开发 | [打开游戏](https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html) | [GitHub](https://github.com/nirmal91/chromatic-modretro-games) |
+| [午夜信使](https://www.nirmalutwani.com/games/play/midnight-courier/index.html) | 冒险 | Codex 辅助开发 | [打开游戏](https://www.nirmalutwani.com/games/play/midnight-courier/index.html) | [GitHub](https://github.com/nirmal91/chromatic-modretro-games) |
 
 ## X 展示案例
 
