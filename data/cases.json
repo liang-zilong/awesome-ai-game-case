@@ -6237,5 +6237,51 @@
     },
     "added_at": "2026-10-10",
     "verified_at": "2026-10-10"
+  },
+  {
+    "id": "after-hours-room-214",
+    "title": {
+      "en": "After Hours: The Call from Room 214",
+      "zh-CN": "After Hours：214 房间的来电"
+    },
+    "summary": {
+      "en": "Room 214 has no phone. Two players compare different clues to trace an impossible call.",
+      "zh-CN": "214 房间没有电话，却有人从那里打来电话。两位玩家交换各自看到的线索，追查来电来源。"
+    },
+    "description": {
+      "en": "An English-language browser mystery for exactly two players: one reads the night-desk records while the other studies the workshop wiring sheet. Chapter 1 is free. The optional full 10-chapter case costs US$12.99 per pair for one room, with 90 days of access after payment; tax may apply. Use two devices or separate browser profiles and your own voice call when apart. No download is required.",
+      "zh-CN": "这是一款英文双人网页推理游戏：一人查看夜班前台记录，另一人研究工作间线路图。第一章免费；可选完整案件共 10 章，每对玩家 12.99 美元，限一个房间，付款后可使用 90 天，可能另计税费。请使用两台设备或独立浏览器配置文件；异地游玩时自行建立语音通话。无需下载。"
+    },
+    "creator": "Tandem Casebook",
+    "platforms": [
+      "web"
+    ],
+    "genre": "puzzle",
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://tandemcasebook.itch.io/after-hours-room-214",
+    "source_url": "https://tandemcasebook.itch.io/after-hours-room-214",
+    "x_post_url": "https://x.com/hghj75/status/2108816689999892724",
+    "cover_url": "/cases/after-hours-room-214.png",
+    "cover_source_url": "https://img.itch.zone/aW1hZ2UvNTEyNTU5Mi8zMDY4NTg2Ny5wbmc=/original/lJULQt.png",
+    "cover_alt": {
+      "en": "After Hours night-desk gameplay screen with the Room 214 call and investigation clues",
+      "zh-CN": "After Hours 夜班前台实机画面，展示 214 房间来电与调查线索"
+    },
+    "gameplay": {
+      "en": "Share observations across the night-desk and workshop roles; neither player has all the clues. Start the free opening chapter together in the browser.",
+      "zh-CN": "夜班前台与工作间两种角色掌握不同线索，需要相互描述与交流；两人均无法独自看到全部信息。可在浏览器中一起开始免费的第一章。"
+    },
+    "ai_use": {
+      "en": "The creator discloses AI-generated text, images and code. Codex wrote most of the code. The underlying model version is not specified; no claim of live AI gameplay is made.",
+      "zh-CN": "作者披露文字、图像与代码使用了 AI 生成，其中多数代码由 Codex 编写。未披露具体底层模型版本，也未声称游戏运行时使用实时 AI。"
+    },
+    "preview_mode": "none",
+    "added_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   }
 ]
