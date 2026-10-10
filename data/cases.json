@@ -5697,5 +5697,500 @@
     },
     "added_at": "2026-10-08",
     "verified_at": "2026-10-08"
+  },
+  {
+    "id": "tailgrab",
+    "title": {
+      "en": "Tailgrab",
+      "zh-CN": "滑板派对"
+    },
+    "summary": {
+      "en": "A free multiplayer skateboard park with animal riders and buildable parks.",
+      "zh-CN": "与动物滑手一起在免费多人滑板公园玩，还能搭建自己的公园。"
+    },
+    "description": {
+      "en": "Roll through a shared skate hub, learn the controls, perform tricks and shape custom parks.",
+      "zh-CN": "进入共享滑板场，学习操控、完成特技，并搭建自定义公园。"
+    },
+    "creator": "endel",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Use movement and tricks to skate with other players and explore ramps.",
+      "zh-CN": "操控滑板在坡道间穿行，与其他玩家一起练习特技。"
+    },
+    "play_url": "https://tailgrab.io/",
+    "source_url": "https://tailgrab.io/",
+    "x_post_url": "https://x.com/endel/status/2107300909915242769",
+    "cover_alt": {
+      "en": "An animal skater in Tailgrab’s multiplayer skate park",
+      "zh-CN": "Tailgrab 多人滑板场中的动物滑手"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/tailgrab.jpg",
+    "cover_source_url": "https://tailgrab.io/",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-09",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "jumper-lab",
+    "title": {
+      "en": "Jumper Lab",
+      "zh-CN": "螃蟹机器人实验室"
+    },
+    "summary": {
+      "en": "Guide a robot crab through a snack heist in an interactive 3D lab.",
+      "zh-CN": "在可互动的 3D 实验室操纵螃蟹机器人完成零食盗取任务。"
+    },
+    "description": {
+      "en": "An independent playable lab based on the open Jumper robot. Play, build and inspect modes let visitors explore movement and machine structure.",
+      "zh-CN": "基于开源 Jumper 机器人的独立可玩实验室。游玩、组装与检视模式展示其运动和内部结构。"
+    },
+    "creator": "21nemus",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Walk with WASD, turn with Q/E, grab the oat cube and drop it in the dish.",
+      "zh-CN": "用 WASD 行走、Q/E 转向，抓起燕麦块并放进盘中。"
+    },
+    "play_url": "https://21nemus.github.io/jumper-lab/",
+    "source_url": "https://21nemus.github.io/jumper-lab/",
+    "x_post_url": "https://x.com/21nemus/status/2107806566489665853",
+    "cover_alt": {
+      "en": "Red crab robot beside the snack heist objective in Jumper Lab",
+      "zh-CN": "Jumper Lab 的红色螃蟹机器人与零食任务"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/jumper-lab.jpg",
+    "cover_source_url": "https://21nemus.github.io/jumper-lab/",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-09",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "flappening",
+    "title": {
+      "en": "FLAPPENING",
+      "zh-CN": "飞行梗大乱斗"
+    },
+    "summary": {
+      "en": "A meme filled Flappy Bird parody with selectable flyers, worlds and obstacles.",
+      "zh-CN": "可选角色、场景和障碍物的网络梗版 Flappy Bird。"
+    },
+    "description": {
+      "en": "The creator’s open repository documents sixteen flyers, eleven worlds, eight pipe styles, Fever mode and a leaderboard.",
+      "zh-CN": "作者的开源仓库介绍了 16 名飞行角色、11 个世界、8 种管道样式、狂热模式与排行榜。"
+    },
+    "creator": "MyWestLord",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Press Space, click or tap to flap through obstacles and collect points.",
+      "zh-CN": "按空格、点击或轻触，让角色飞过障碍并取得分数。"
+    },
+    "play_url": "https://mywestlord.github.io/flappening/",
+    "source_url": "https://github.com/MyWestLord/flappening",
+    "x_post_url": "https://x.com/MyWestLord/status/2108234444091847052",
+    "cover_alt": {
+      "en": "Sausage riding bird on the FLAPPENING Cloud Nine start screen",
+      "zh-CN": "FLAPPENING 云端关卡里骑香肠的鸟"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/flappening.jpg",
+    "cover_source_url": "https://mywestlord.github.io/flappening/",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-09",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "plane-sailing",
+    "title": {
+      "en": "Plane Sailing",
+      "zh-CN": "纸飞机远航"
+    },
+    "summary": {
+      "en": "Launch a paper plane across hills and collect coins for distance.",
+      "zh-CN": "发射纸飞机越过山丘，收集金币并挑战飞行距离。"
+    },
+    "description": {
+      "en": "A browser distance game with a drag back launch gesture, hangar and daily wind controls.",
+      "zh-CN": "使用向后拖拽手势发射纸飞机的网页距离挑战游戏，提供机库与每日风况。"
+    },
+    "creator": "paalsoberg",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Drag back and release to throw the plane, then fly through coins and extend the run.",
+      "zh-CN": "向后拖动再松开发射纸飞机，穿过金币并延长飞行距离。"
+    },
+    "play_url": "https://www.playplanesailing.com/",
+    "source_url": "https://www.playplanesailing.com/",
+    "x_post_url": "https://x.com/paalsoberg/status/2108308525604626571",
+    "cover_alt": {
+      "en": "Paper plane flying above the hills in Plane Sailing",
+      "zh-CN": "Plane Sailing 中飞越山丘的纸飞机"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/plane-sailing.jpg",
+    "cover_source_url": "https://www.playplanesailing.com/",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-09",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "bay-ride",
+    "title": {
+      "en": "Bay Ride",
+      "zh-CN": "海湾泛舟"
+    },
+    "summary": {
+      "en": "Walk a painted pier and take a small boat around a day and night seaside.",
+      "zh-CN": "漫步画风柔和的码头，驾小船游览昼夜变化的海湾。"
+    },
+    "description": {
+      "en": "A browser boating scene with on foot and boat controls, camera choices and adjustable time of day.",
+      "zh-CN": "这款网页泛舟游戏提供步行、驾船、切换视角与调整昼夜的操作。"
+    },
+    "creator": "prasenx",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Walk to the boat, press F to board, then use W/S for throttle and A/D to steer.",
+      "zh-CN": "走到小船边按 F 登船，再用 W/S 控制动力、A/D 转向。"
+    },
+    "play_url": "https://starknightt.github.io/bay-ride/card/?v=3",
+    "source_url": "https://starknightt.github.io/bay-ride/card/?v=3",
+    "x_post_url": "https://x.com/prasenx/status/2108282068308517050",
+    "cover_alt": {
+      "en": "Painted pier and moored boat in Bay Ride",
+      "zh-CN": "Bay Ride 的彩绘码头与停泊小船"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/bay-ride.jpg",
+    "cover_source_url": "https://starknightt.github.io/bay-ride/card/?v=3",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-09",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "pinterm",
+    "title": {
+      "en": "pinterm",
+      "zh-CN": "终端弹球"
+    },
+    "summary": {
+      "en": "A neon pinball table rendered in a terminal style.",
+      "zh-CN": "以终端风格呈现霓虹弹球桌。"
+    },
+    "description": {
+      "en": "A browser pinball game with a Roc WebAssembly core and ghostty-web rendering, with keyboard and touch controls.",
+      "zh-CN": "使用 Roc WebAssembly 核心及 ghostty-web 渲染的网页弹球游戏，支持键盘和触屏。"
+    },
+    "creator": "pmarreck",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Launch with Space, flip with Z and slash or arrow keys, and keep the ball alive.",
+      "zh-CN": "按空格发球，用 Z 与斜杠键或方向键控制挡板，尽量延长球的存活时间。"
+    },
+    "play_url": "https://pmarreck.github.io/pinterm/",
+    "source_url": "https://github.com/pmarreck/pinterm",
+    "x_post_url": "https://x.com/pmarreck/status/2108002628894650725",
+    "cover_alt": {
+      "en": "Neon terminal pinball table with score panel",
+      "zh-CN": "带分数面板的霓虹终端弹球桌"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/pinterm.jpg",
+    "cover_source_url": "https://pmarreck.github.io/pinterm/",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-09",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "kids-g-train",
+    "title": {
+      "en": "Kids G Train",
+      "zh-CN": "儿童电车司机"
+    },
+    "summary": {
+      "en": "A child friendly Japanese train driving simulator with station stops.",
+      "zh-CN": "面向儿童的日语电车驾驶模拟游戏，目标是在车站准确停靠。"
+    },
+    "description": {
+      "en": "AMIX GAMES KIDS lets players choose a train, time of day and driving difficulty before operating doors and speed in a 3D cab.",
+      "zh-CN": "AMIX GAMES KIDS 允许玩家选车、时间和难度，在 3D 驾驶室操作车门与速度。"
+    },
+    "creator": "AMIX GAMES KIDS",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Choose a train, complete the safety check, open and close doors, then drive to the next station.",
+      "zh-CN": "选择电车、完成发车检查、开关车门，然后驶向下一站。"
+    },
+    "play_url": "https://amix-design.com/tl/kids-g-train/",
+    "source_url": "https://amix-design.com/tl/kids-g-train/",
+    "x_post_url": "https://x.com/asobodesign/status/2107338626061525187",
+    "cover_alt": {
+      "en": "Driver cab and door controls in Kids G Train",
+      "zh-CN": "儿童电车司机中的驾驶室与车门操作"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/kids-g-train.jpg",
+    "cover_source_url": "https://amix-design.com/tl/kids-g-train/",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-10",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "coin-collector-3d",
+    "title": {
+      "en": "Coin Collector 3D",
+      "zh-CN": "金币大收集 3D"
+    },
+    "summary": {
+      "en": "A colorful 3D arena where players collect coins and battle slimes.",
+      "zh-CN": "在鲜艳的 3D 竞技场收集金币并击败史莱姆。"
+    },
+    "description": {
+      "en": "The live page offers a solo game without sign in, plus an optional multiplayer arena. The solo objective is to gather all 27 coins.",
+      "zh-CN": "在线页面提供免登录单人模式和可选多人竞技场；单人目标是收集全部 27 枚金币。"
+    },
+    "creator": "notef_fn",
+    "genre": "action",
+    "gameplay": {
+      "en": "Move, jump, punch or kick slimes, and collect all coins in the level.",
+      "zh-CN": "移动、跳跃、攻击史莱姆，收集关卡里的全部金币。"
+    },
+    "play_url": "https://notef.dreamcore.gg/coin-collector-3d/",
+    "source_url": "https://notef.dreamcore.gg/coin-collector-3d/",
+    "x_post_url": "https://x.com/notef_fn/status/2108693622346633716",
+    "cover_alt": {
+      "en": "Coin filled arena in Coin Collector 3D solo mode",
+      "zh-CN": "金币大收集 3D 单人模式中的金币竞技场"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/coin-collector-3d.jpg",
+    "cover_source_url": "https://notef.dreamcore.gg/coin-collector-3d/",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-10",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "dino-souls",
+    "title": {
+      "en": "Dino Souls",
+      "zh-CN": "恐龙之魂"
+    },
+    "summary": {
+      "en": "The offline dinosaur turns into a browser boss rush.",
+      "zh-CN": "断网小恐龙变成网页 Boss 连战游戏。"
+    },
+    "description": {
+      "en": "The direct single player mode offers jumping, biting, dodging and flasks against successive bosses; the site also has optional multiplayer.",
+      "zh-CN": "直接可玩的单人模式让玩家跳跃、撕咬、翻滚躲避并使用药瓶挑战连续首领；网站还提供可选多人模式。"
+    },
+    "creator": "whoimmorttal",
+    "genre": "action",
+    "gameplay": {
+      "en": "Run and jump with A/D and Space, bite with J, roll with K or Shift, and defeat bosses.",
+      "zh-CN": "用 A/D 与空格移动跳跃，按 J 撕咬、K 或 Shift 翻滚，击败首领。"
+    },
+    "play_url": "https://updateddino.xyz/solo",
+    "source_url": "https://updateddino.xyz/solo",
+    "x_post_url": "https://x.com/whoimmorttal/status/2108666187953693056",
+    "cover_alt": {
+      "en": "Dinosaur running toward a cactus in Dino Souls",
+      "zh-CN": "Dino Souls 中向仙人掌奔跑的小恐龙"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/dino-souls.jpg",
+    "cover_source_url": "https://updateddino.xyz/solo",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-10",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "duel-in-the-great-hall",
+    "title": {
+      "en": "Duel in the Great Hall",
+      "zh-CN": "礼堂魔法对决"
+    },
+    "summary": {
+      "en": "A keyboard driven two dimensional duel between a headmaster and a house elf.",
+      "zh-CN": "校长与家养小精灵之间的键盘操作 2D 对决。"
+    },
+    "description": {
+      "en": "This Claude Artifact opens a direct best of three fighting match with seven hit points per character and melee, ranged and special attacks.",
+      "zh-CN": "这个 Claude Artifact 可直接进入三局两胜格斗战，每名角色有七格生命，能进行近战、远程和特殊攻击。"
+    },
+    "creator": "XT0F0R0S_v2",
+    "genre": "action",
+    "gameplay": {
+      "en": "Move with A/D, jump with W, block with S, and attack with the arrow keys.",
+      "zh-CN": "用 A/D 移动、W 跳跃、S 格挡，方向键发动攻击。"
+    },
+    "play_url": "https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu",
+    "source_url": "https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu",
+    "x_post_url": "https://x.com/XT0F0R0S_v2/status/2108686675467554898",
+    "cover_alt": {
+      "en": "Headmaster and house elf facing off in round one",
+      "zh-CN": "第一回合对峙的校长与家养小精灵"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/duel-in-the-great-hall.jpg",
+    "cover_source_url": "https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-10",
+    "verified_at": "2026-10-10"
+  },
+  {
+    "id": "crew-run",
+    "title": {
+      "en": "Crew Run",
+      "zh-CN": "片场狂欢"
+    },
+    "summary": {
+      "en": "Lead three friends across a festival, reach the sets and dance on the beat.",
+      "zh-CN": "带三位朋友穿过音乐节片场，赶到演出并跟节拍跳舞。"
+    },
+    "description": {
+      "en": "A directly playable Claude Artifact with several difficulty levels, scheduled sets, crew mood, movement and dance challenges.",
+      "zh-CN": "这款可直接玩的 Claude Artifact 提供多个难度、演出日程、伙伴情绪、移动及节奏挑战。"
+    },
+    "creator": "Nicolas68610783",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Guide the crew with WASD, reach each stage together and hit dance moves to keep friends happy.",
+      "zh-CN": "用 WASD 带领伙伴一起到达舞台，按节拍完成舞步并维持他们的心情。"
+    },
+    "play_url": "https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p",
+    "source_url": "https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p",
+    "x_post_url": "https://x.com/Nicolas68610783/status/2108661366420549660",
+    "cover_alt": {
+      "en": "Crew Run festival map with three companions and stage objective",
+      "zh-CN": "Crew Run 的音乐节地图、三名伙伴及舞台目标"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/crew-run.jpg",
+    "cover_source_url": "https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p",
+    "ai_use": {
+      "en": "The public game page and available creator material do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面及可查作者资料未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   }
 ]

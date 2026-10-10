@@ -145,6 +145,17 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Ripple Pool](https://ripplepool.app/daily/) | Puzzle | AI workflow awaits creator confirmation | [Play](https://ripplepool.app/daily/) | [X post](https://x.com/michaelirizarry/status/2107950053323378957) |
 | [Meteor Mayhem](https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html) | Shooter | Codex-assisted development | [Play](https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html) | [GitHub](https://github.com/nirmal91/chromatic-modretro-games) |
 | [Midnight Courier](https://www.nirmalutwani.com/games/play/midnight-courier/index.html) | Adventure | Codex-assisted development | [Play](https://www.nirmalutwani.com/games/play/midnight-courier/index.html) | [GitHub](https://github.com/nirmal91/chromatic-modretro-games) |
+| [Tailgrab](https://tailgrab.io/) | Sports | AI workflow awaits creator confirmation | [Play](https://tailgrab.io/) | [X post](https://x.com/endel/status/2107300909915242769) |
+| [Jumper Lab](https://21nemus.github.io/jumper-lab/) | Simulation | AI workflow awaits creator confirmation | [Play](https://21nemus.github.io/jumper-lab/) | [X post](https://x.com/21nemus/status/2107806566489665853) |
+| [FLAPPENING](https://mywestlord.github.io/flappening/) | Casual | AI workflow awaits creator confirmation | [Play](https://mywestlord.github.io/flappening/) | [X post](https://x.com/MyWestLord/status/2108234444091847052) |
+| [Plane Sailing](https://www.playplanesailing.com/) | Casual | AI workflow awaits creator confirmation | [Play](https://www.playplanesailing.com/) | [X post](https://x.com/paalsoberg/status/2108308525604626571) |
+| [Bay Ride](https://starknightt.github.io/bay-ride/card/?v=3) | Simulation | AI workflow awaits creator confirmation | [Play](https://starknightt.github.io/bay-ride/card/?v=3) | [X post](https://x.com/prasenx/status/2108282068308517050) |
+| [pinterm](https://pmarreck.github.io/pinterm/) | Casual | AI workflow awaits creator confirmation | [Play](https://pmarreck.github.io/pinterm/) | [X post](https://x.com/pmarreck/status/2108002628894650725) |
+| [Kids G Train](https://amix-design.com/tl/kids-g-train/) | Simulation | AI workflow awaits creator confirmation | [Play](https://amix-design.com/tl/kids-g-train/) | [X post](https://x.com/asobodesign/status/2107338626061525187) |
+| [Coin Collector 3D](https://notef.dreamcore.gg/coin-collector-3d/) | Action | AI workflow awaits creator confirmation | [Play](https://notef.dreamcore.gg/coin-collector-3d/) | [X post](https://x.com/notef_fn/status/2108693622346633716) |
+| [Dino Souls](https://updateddino.xyz/solo) | Action | AI workflow awaits creator confirmation | [Play](https://updateddino.xyz/solo) | [X post](https://x.com/whoimmorttal/status/2108666187953693056) |
+| [Duel in the Great Hall](https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu) | Action | AI workflow awaits creator confirmation | [Play](https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu) | [X post](https://x.com/XT0F0R0S_v2/status/2108686675467554898) |
+| [Crew Run](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | Casual | AI workflow awaits creator confirmation | [Play](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | [X post](https://x.com/Nicolas68610783/status/2108661366420549660) |
 
 ## X showcase
 

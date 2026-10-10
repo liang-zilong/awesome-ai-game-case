@@ -145,6 +145,17 @@
 | [涟漪球池](https://ripplepool.app/daily/) | 益智 | AI 工作流程等待作者确认 | [打开游戏](https://ripplepool.app/daily/) | [X 原帖](https://x.com/michaelirizarry/status/2107950053323378957) |
 | [陨石狂潮](https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html) | 射击 | Codex 辅助开发 | [打开游戏](https://www.nirmalutwani.com/games/play/meteor-mayhem/index.html) | [GitHub](https://github.com/nirmal91/chromatic-modretro-games) |
 | [午夜信使](https://www.nirmalutwani.com/games/play/midnight-courier/index.html) | 冒险 | Codex 辅助开发 | [打开游戏](https://www.nirmalutwani.com/games/play/midnight-courier/index.html) | [GitHub](https://github.com/nirmal91/chromatic-modretro-games) |
+| [滑板派对](https://tailgrab.io/) | 体育 | AI 工作流程等待作者确认 | [打开游戏](https://tailgrab.io/) | [X 原帖](https://x.com/endel/status/2107300909915242769) |
+| [螃蟹机器人实验室](https://21nemus.github.io/jumper-lab/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://21nemus.github.io/jumper-lab/) | [X 原帖](https://x.com/21nemus/status/2107806566489665853) |
+| [飞行梗大乱斗](https://mywestlord.github.io/flappening/) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://mywestlord.github.io/flappening/) | [X 原帖](https://x.com/MyWestLord/status/2108234444091847052) |
+| [纸飞机远航](https://www.playplanesailing.com/) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://www.playplanesailing.com/) | [X 原帖](https://x.com/paalsoberg/status/2108308525604626571) |
+| [海湾泛舟](https://starknightt.github.io/bay-ride/card/?v=3) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://starknightt.github.io/bay-ride/card/?v=3) | [X 原帖](https://x.com/prasenx/status/2108282068308517050) |
+| [终端弹球](https://pmarreck.github.io/pinterm/) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://pmarreck.github.io/pinterm/) | [X 原帖](https://x.com/pmarreck/status/2108002628894650725) |
+| [儿童电车司机](https://amix-design.com/tl/kids-g-train/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://amix-design.com/tl/kids-g-train/) | [X 原帖](https://x.com/asobodesign/status/2107338626061525187) |
+| [金币大收集 3D](https://notef.dreamcore.gg/coin-collector-3d/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://notef.dreamcore.gg/coin-collector-3d/) | [X 原帖](https://x.com/notef_fn/status/2108693622346633716) |
+| [恐龙之魂](https://updateddino.xyz/solo) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://updateddino.xyz/solo) | [X 原帖](https://x.com/whoimmorttal/status/2108666187953693056) |
+| [礼堂魔法对决](https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu) | [X 原帖](https://x.com/XT0F0R0S_v2/status/2108686675467554898) |
+| [片场狂欢](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | [X 原帖](https://x.com/Nicolas68610783/status/2108661366420549660) |
 
 ## X 展示案例
 
