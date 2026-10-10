@@ -5697,5 +5697,51 @@
     },
     "added_at": "2026-10-08",
     "verified_at": "2026-10-08"
+  },
+  {
+    "id": "sixth-sigil-cross-current",
+    "title": {
+      "en": "Cross Current — Sixth Sigil",
+      "zh-CN": "Cross Current — Sixth Sigil"
+    },
+    "summary": {
+      "en": "One final turn, six energy, three losing lanes. Move allies and order card effects to win two lanes.",
+      "zh-CN": "最后一回合，六点能量，三条战线都落后。移动友方卡牌并安排效果顺序，赢下其中两条。"
+    },
+    "description": {
+      "en": "A fixed final-turn card puzzle from Sixth Sigil. Drag cards from your hand onto a lane; their effects resolve in play order. Free desktop browser play, no account or download, with retries on the same board.",
+      "zh-CN": "Sixth Sigil 中的一道固定残局卡牌谜题。将手牌拖到战线上，卡牌效果按出牌顺序结算。可在桌面浏览器中免费游玩，无需账号或下载，并可反复尝试同一局面。"
+    },
+    "creator": "Eric Crook / TheReddestWizard",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://sixthsigil.com/aethervanguard/?puzzle=cross-current",
+    "source_url": "https://thereddestwizard.itch.io/aether-vanguard",
+    "x_post_url": null,
+    "cover_url": "/cases/sixth-sigil-cross-current.png",
+    "preview_mode": "none",
+    "added_at": "2026-10-09",
+    "verified_at": "2026-10-09",
+    "genre": "puzzle",
+    "cover_source_url": "https://sixthsigil.com/aethervanguard/cross-current-preview-v1.png",
+    "cover_alt": {
+      "en": "Cross Current starting board: six energy, three lanes, and four cards in hand.",
+      "zh-CN": "Cross Current 的初始局面：六点能量、三条战线和四张手牌。"
+    },
+    "gameplay": {
+      "en": "Win two of three lanes in one final turn. Movement changes lane power; reveal order matters. Retry to compare possible sequences.",
+      "zh-CN": "在最后一回合赢下三条战线中的两条。移动会改变战线战力，揭示效果的顺序也很重要。可重试并比较不同的出牌顺序。"
+    },
+    "ai_use": {
+      "en": "The creator discloses AI-assisted code and AI-generated graphics and narrative text. No particular model is claimed for this entry.",
+      "zh-CN": "作者披露代码由 AI 辅助编写，图像及叙事文本由 AI 生成。本条目不声明使用了某个特定模型。"
+    }
   }
 ]
