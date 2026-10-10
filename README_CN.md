@@ -156,6 +156,7 @@
 | [恐龙之魂](https://updateddino.xyz/solo) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://updateddino.xyz/solo) | [X 原帖](https://x.com/whoimmorttal/status/2108666187953693056) |
 | [礼堂魔法对决](https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu) | [X 原帖](https://x.com/XT0F0R0S_v2/status/2108686675467554898) |
 | [片场狂欢](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | [X 原帖](https://x.com/Nicolas68610783/status/2108661366420549660) |
+| [静滞池塘](https://algaepond.metalturtle.net/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://algaepond.metalturtle.net/) | [X 原帖](https://x.com/metalturtle297/status/2106791097251078354) |
 
 ## X 展示案例
 

@@ -6192,5 +6192,50 @@
     },
     "added_at": "2026-10-10",
     "verified_at": "2026-10-10"
+  },
+  {
+    "id": "stagnant-pond",
+    "title": {
+      "en": "Stagnant Pond",
+      "zh-CN": "静滞池塘"
+    },
+    "summary": {
+      "en": "Become a pond creature and hunt, graze or hide across a living ecosystem.",
+      "zh-CN": "化身池塘生物，在动态生态系统中捕食、觅食或躲藏。"
+    },
+    "description": {
+      "en": "A layered browser ecosystem from a jungle pool down to microorganisms. The playable creature mode offers predators and prey at multiple scales, including a poison dart frog with an insect counter.",
+      "zh-CN": "从丛林水池延伸至微生物的多层网页生态系统。可玩生物模式提供不同尺度的捕食者和猎物，包括带捕虫计数的箭毒蛙。"
+    },
+    "creator": "metalturtle297",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Choose a creature, then use WASD to move; as the frog, jump and catch insects with its tongue.",
+      "zh-CN": "选择生物后用 WASD 移动；化身青蛙时跳跃并用舌头捕捉昆虫。"
+    },
+    "play_url": "https://algaepond.metalturtle.net/",
+    "source_url": "https://algaepond.metalturtle.net/",
+    "x_post_url": "https://x.com/metalturtle297/status/2106791097251078354",
+    "cover_alt": {
+      "en": "Poison dart frog mode with an insect counter above the pond",
+      "zh-CN": "池塘中的箭毒蛙模式，显示捕虫计数"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/stagnant-pond.jpg",
+    "cover_source_url": "https://algaepond.metalturtle.net/",
+    "ai_use": {
+      "en": "The accessible game page does not verify a specific AI development role or model.",
+      "zh-CN": "可访问的游戏页面未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   }
 ]

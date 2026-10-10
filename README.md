@@ -156,6 +156,7 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Dino Souls](https://updateddino.xyz/solo) | Action | AI workflow awaits creator confirmation | [Play](https://updateddino.xyz/solo) | [X post](https://x.com/whoimmorttal/status/2108666187953693056) |
 | [Duel in the Great Hall](https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu) | Action | AI workflow awaits creator confirmation | [Play](https://claude.ai/artifact/PBxLGdivoetPfPiukZjJHu) | [X post](https://x.com/XT0F0R0S_v2/status/2108686675467554898) |
 | [Crew Run](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | Casual | AI workflow awaits creator confirmation | [Play](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | [X post](https://x.com/Nicolas68610783/status/2108661366420549660) |
+| [Stagnant Pond](https://algaepond.metalturtle.net/) | Simulation | AI workflow awaits creator confirmation | [Play](https://algaepond.metalturtle.net/) | [X post](https://x.com/metalturtle297/status/2106791097251078354) |
 
 ## X showcase
 
