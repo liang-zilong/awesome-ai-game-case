@@ -158,6 +158,17 @@
 | [片场狂欢](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | [X 原帖](https://x.com/Nicolas68610783/status/2108661366420549660) |
 | [静滞池塘](https://algaepond.metalturtle.net/) | 模拟 | AI 工作流程等待作者确认 | [打开游戏](https://algaepond.metalturtle.net/) | [X 原帖](https://x.com/metalturtle297/status/2106791097251078354) |
 
+| [潜在对决](https://latent-clash.vercel.app/) | 策略 | AI 工作流程等待作者确认 | [打开游戏](https://latent-clash.vercel.app/) | [X 原帖](https://x.com/LexnLin/status/2108941556019314977) |
+| [相位漂移](https://phase-drift.vercel.app/) | 竞速 | AI 辅助开发（模型未指明） | [打开游戏](https://phase-drift.vercel.app/) | [X 原帖](https://x.com/SatvikShrivast7/status/2108890431966883960) |
+| [薯条大盗](https://wefav.com/chip-thief/) | 休闲 | Claude Opus 5.5 | [打开游戏](https://wefav.com/chip-thief/) | [X 原帖](https://x.com/comster/status/2108944897407377578) |
+| [尘土与荣耀](https://dustandglory.world/play.html) | 射击 | AI 工作流程等待作者确认 | [打开游戏](https://dustandglory.world/play.html) | [X 原帖](https://x.com/GetStreamProof/status/2109055091822972955) |
+| [狂飙骑士](https://riderashonline.vercel.app/) | 竞速 | AI 辅助开发（模型未指明） | [打开游戏](https://riderashonline.vercel.app/) | [X 原帖](https://x.com/riderashgame/status/2109010363786428913) |
+| [走廊之怒](https://darths-rage.netlify.app/) | 动作 | Claude Opus 5.5 | [打开游戏](https://darths-rage.netlify.app/) | [X 原帖](https://x.com/MajorTomNFT/status/2109006199438131439) |
+| [拾起碎片](https://byminyona.com/pick-up-the-pieces/play/) | 冒险 | AI 工作流程等待作者确认 | [打开游戏](https://byminyona.com/pick-up-the-pieces/play/) | [X 原帖](https://x.com/freedomwillwork/status/2108921338815517083) |
+| [长戟飞行靶场](https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4) | 模拟 | AI 辅助开发（模型未指明） | [打开游戏](https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4) | [X 原帖](https://x.com/BigIron_Enjoyer/status/2108757890563752112) |
+| [异地行动](https://operationelsewhere.com/play/) | 射击 | Claude Opus 5.5, Grok 4.7 | [打开游戏](https://operationelsewhere.com/play/) | [X 原帖](https://x.com/willstrk/status/2108793548954845313) |
+| [午夜巅峰](https://genex.games/midnight-apex) | 竞速 | Claude Opus 5.5 | [打开游戏](https://genex.games/midnight-apex) | [X 原帖](https://x.com/buzzybats/status/2108195714081738990) |
+
 ## X 展示案例
 
 | 游戏 | 类型 | 当前可用内容 | 原始帖子 |

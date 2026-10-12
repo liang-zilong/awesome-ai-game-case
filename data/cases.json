@@ -6237,5 +6237,466 @@
     },
     "added_at": "2026-10-10",
     "verified_at": "2026-10-10"
+  },
+  {
+    "id": "latent-clash",
+    "title": {
+      "en": "Latent Clash",
+      "zh-CN": "潜在对决"
+    },
+    "summary": {
+      "en": "A collectible card battler where AI labs duel with model themed cards.",
+      "zh-CN": "以 AI 实验室和模型卡牌为主题的集换式卡牌对战游戏。"
+    },
+    "description": {
+      "en": "Choose a lab, build a deck, open model drops and challenge an AI opponent in a browser match.",
+      "zh-CN": "选择实验室、组建牌组、开启模型卡包，并在浏览器中挑战 AI 对手。"
+    },
+    "creator": "Leon Lin",
+    "genre": "strategy",
+    "gameplay": {
+      "en": "Pick a lab and starter deck, then play cards and attack the rival lab in turn based matches.",
+      "zh-CN": "选实验室和初始牌组，在回合制对战中出牌并攻击对手实验室。"
+    },
+    "play_url": "https://latent-clash.vercel.app/",
+    "source_url": "https://latent-clash.vercel.app/",
+    "x_post_url": "https://x.com/LexnLin/status/2108941556019314977",
+    "cover_alt": {
+      "en": "Latent Clash title screen with a glowing portal and Start button",
+      "zh-CN": "潜在对决首页的发光传送门与开始按钮"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/latent-clash.jpg",
+    "cover_source_url": "https://latent-clash.vercel.app/",
+    "ai_use": {
+      "en": "The public game page and creator post do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面与作者帖子未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
+  },
+  {
+    "id": "phase-drift",
+    "title": {
+      "en": "Phase Drift",
+      "zh-CN": "相位漂移"
+    },
+    "summary": {
+      "en": "Race through shifting realities while five rivals pursue you.",
+      "zh-CN": "在不断变化的现实场景中竞速，躲开五名追逐者。"
+    },
+    "description": {
+      "en": "This browser racer links thirteen themed realities through rifts, including dinosaur, underwater and lava worlds.",
+      "zh-CN": "这款网页竞速游戏用裂隙连接十三个主题世界，包括恐龙丛林、水下与熔岩场景。"
+    },
+    "creator": "Satvik Shrivastava",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Steer with WASD, use nitro with Space, and enter rifts to change reality during a run.",
+      "zh-CN": "用 WASD 转向、空格加速，在竞速中穿过裂隙切换世界。"
+    },
+    "play_url": "https://phase-drift.vercel.app/",
+    "source_url": "https://phase-drift.vercel.app/",
+    "x_post_url": "https://x.com/SatvikShrivast7/status/2108890431966883960",
+    "cover_alt": {
+      "en": "Phase Drift ship waiting on a neon launch track",
+      "zh-CN": "相位漂移的飞船停在霓虹起跑赛道上"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/phase-drift.jpg",
+    "cover_source_url": "https://phase-drift.vercel.app/",
+    "ai_use": {
+      "en": "The creator says the racer was made with Claude and Three.js; the exact Claude model is not specified.",
+      "zh-CN": "作者称这款竞速游戏由 Claude 与 Three.js 制作，未说明具体 Claude 型号。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
+  },
+  {
+    "id": "chip-thief",
+    "title": {
+      "en": "Chip Thief",
+      "zh-CN": "薯条大盗"
+    },
+    "summary": {
+      "en": "Glide as a gull, steal beach snacks and return them to your lamp post.",
+      "zh-CN": "化身海鸥滑翔偷走海滩零食，再带回灯柱。"
+    },
+    "description": {
+      "en": "A short daily beach run mixes gliding, diving, stealth and risk as people guard food and rival gulls arrive.",
+      "zh-CN": "每天更新的短局海滩游戏结合滑翔、俯冲和潜行；游客会护住食物，其他海鸥也会来争抢。"
+    },
+    "creator": "Jeff Pelton",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Hold and move the mouse to glide, release to dive, then carry stolen food back to the pier lamp post.",
+      "zh-CN": "按住并移动鼠标滑翔，松开俯冲，偷到食物后送回码头灯柱。"
+    },
+    "play_url": "https://wefav.com/chip-thief/",
+    "source_url": "https://wefav.com/chip-thief/",
+    "x_post_url": "https://x.com/comster/status/2108944897407377578",
+    "cover_alt": {
+      "en": "Seagull flying above beachgoers and their snacks in Chip Thief",
+      "zh-CN": "薯条大盗中飞越游客和零食的海鸥"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/chip-thief.jpg",
+    "cover_source_url": "https://wefav.com/chip-thief/",
+    "ai_use": {
+      "en": "The creator says Claude Opus 5.5 built the game in three prompts; a Meshy model supplies the gull.",
+      "zh-CN": "作者称用 Claude Opus 5.5 经三轮提示完成游戏，并用 Meshy 模型制作海鸥。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
+  },
+  {
+    "id": "dust-and-glory",
+    "title": {
+      "en": "Dust & Glory",
+      "zh-CN": "尘土与荣耀"
+    },
+    "summary": {
+      "en": "Survive outlaw gangs in a charcoal styled Western first person shooter.",
+      "zh-CN": "在炭笔风格的西部第一人称射击游戏中抵御亡命徒。"
+    },
+    "description": {
+      "en": "The free browser survival run places you on a town street with a revolver, other weapons, a bounty and successive gangs.",
+      "zh-CN": "免费浏览器生存模式让玩家在小镇街道上持左轮和其他武器，对抗一波波匪徒并积累悬赏。"
+    },
+    "creator": "Tetraspace",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Enter Survive mode, aim and fire at outlaws, switch weapons and stay alive through each gang.",
+      "zh-CN": "进入生存模式，瞄准射击匪徒、切换武器并撑过每一波进攻。"
+    },
+    "play_url": "https://dustandglory.world/play.html",
+    "source_url": "https://dustandglory.world/",
+    "x_post_url": "https://x.com/GetStreamProof/status/2109055091822972955",
+    "cover_alt": {
+      "en": "Dust & Glory first person view of a Western town street and survival HUD",
+      "zh-CN": "尘土与荣耀的西部小镇街景和生存模式界面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/dust-and-glory.jpg",
+    "cover_source_url": "https://dustandglory.world/play.html",
+    "ai_use": {
+      "en": "The public game page and creator post do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面与作者帖子未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
+  },
+  {
+    "id": "riderash",
+    "title": {
+      "en": "RIDERASH",
+      "zh-CN": "狂飙骑士"
+    },
+    "summary": {
+      "en": "Race motorcycles and brawl with rivals across varied road courses.",
+      "zh-CN": "骑摩托车在多条公路赛道竞速，并与对手近身混战。"
+    },
+    "description": {
+      "en": "A browser combat racing game with a career, several bikes and courses, plus a free ride mode that starts without an account.",
+      "zh-CN": "这款网页摩托混战竞速游戏提供生涯、多种车辆与赛道，以及无需账号即可进入的自由骑行。"
+    },
+    "creator": "riderashgame",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Choose a bike and course, ride against five rivals, and use punches, kicks or a chain during the race.",
+      "zh-CN": "选择摩托和赛道，与五名对手竞速，并在行驶中使用拳脚或铁链攻击。"
+    },
+    "play_url": "https://riderashonline.vercel.app/",
+    "source_url": "https://riderashonline.vercel.app/",
+    "x_post_url": "https://x.com/riderashgame/status/2109010363786428913",
+    "cover_alt": {
+      "en": "RIDERASH race begins on a mountain road with a rider and speedometer",
+      "zh-CN": "狂飙骑士的山路比赛起点、车手与速度表"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/riderash.jpg",
+    "cover_source_url": "https://riderashonline.vercel.app/",
+    "ai_use": {
+      "en": "The creator says the game was made from scratch with Opus tokens; no exact model version is named.",
+      "zh-CN": "作者称使用 Opus 从零制作游戏，但未说明具体模型版本。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
+  },
+  {
+    "id": "rage-darth-corridor",
+    "title": {
+      "en": "Rage",
+      "zh-CN": "走廊之怒"
+    },
+    "summary": {
+      "en": "Use a blade and force like powers in a cinematic corridor encounter.",
+      "zh-CN": "在电影感走廊战斗中使用光刃与隔空抓取能力。"
+    },
+    "description": {
+      "en": "Inspired by a Darth Vader corridor scene, this browser action game has guards, throwable objects, health and a target deeper in the ship.",
+      "zh-CN": "这款受维达走廊场景启发的网页动作游戏有守卫、可投掷物件、生命值和飞船深处的目标。"
+    },
+    "creator": "MajorTom",
+    "genre": "action",
+    "gameplay": {
+      "en": "Walk and turn with arrow keys, block with A, swing with S, throw the blade with D and grip objects with F.",
+      "zh-CN": "方向键行走和转向，A 格挡、S 挥砍、D 掷出光刃、F 抓取物件。"
+    },
+    "play_url": "https://darths-rage.netlify.app/",
+    "source_url": "https://darths-rage.netlify.app/",
+    "x_post_url": "https://x.com/MajorTomNFT/status/2109006199438131439",
+    "cover_alt": {
+      "en": "Rage first person corridor with blade combat controls and health HUD",
+      "zh-CN": "走廊之怒的第一人称走廊、战斗操作与生命值界面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/rage-darth-corridor.jpg",
+    "cover_source_url": "https://darths-rage.netlify.app/",
+    "ai_use": {
+      "en": "The creator says the game was made with Opus 5.5, MeshyAI and Three.js.",
+      "zh-CN": "作者称使用 Opus 5.5、MeshyAI 和 Three.js 制作该游戏。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
+  },
+  {
+    "id": "pick-up-the-pieces",
+    "title": {
+      "en": "Pick Up the Pieces",
+      "zh-CN": "拾起碎片"
+    },
+    "summary": {
+      "en": "Play a free Game Boy Color story about the history of SpaceX.",
+      "zh-CN": "在浏览器中玩一款讲述 SpaceX 历史的免费 Game Boy Color 游戏。"
+    },
+    "description": {
+      "en": "A twelve chapter retro game runs directly in a browser emulator, with a downloadable ROM also offered by its creator.",
+      "zh-CN": "这款十二章节复古游戏可直接在浏览器模拟器中运行，作者也提供可下载的 ROM。"
+    },
+    "creator": "Michael Mignogna",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Start the in browser emulator and use arrows to move, X and Z for buttons, and Enter to start.",
+      "zh-CN": "启动网页模拟器，用方向键移动、X 和 Z 操作，按 Enter 开始。"
+    },
+    "play_url": "https://byminyona.com/pick-up-the-pieces/play/",
+    "source_url": "https://byminyona.com/pick-up-the-pieces/",
+    "x_post_url": "https://x.com/freedomwillwork/status/2108921338815517083",
+    "cover_alt": {
+      "en": "Pick Up the Pieces title screen running inside the browser Game Boy emulator",
+      "zh-CN": "网页 Game Boy 模拟器中运行的拾起碎片标题画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web",
+      "pc"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/pick-up-the-pieces.jpg",
+    "cover_source_url": "https://byminyona.com/pick-up-the-pieces/play/",
+    "ai_use": {
+      "en": "The public game page and creator post do not verify a specific AI development role or model.",
+      "zh-CN": "公开游戏页面与作者帖子未证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
+  },
+  {
+    "id": "halberd-flight-range",
+    "title": {
+      "en": "Halberd Flight Range",
+      "zh-CN": "长戟飞行靶场"
+    },
+    "summary": {
+      "en": "Fly an attack helicopter and engage targets across a three dimensional range.",
+      "zh-CN": "驾驶攻击直升机在 3D 靶场中搜索并攻击目标。"
+    },
+    "description": {
+      "en": "The browser flight model offers mouse, keyboard and gamepad controls, several weapons, enemy defenses and a repair pad.",
+      "zh-CN": "这款网页飞行模型提供鼠标、键盘和手柄操作，多种武器、敌方防御设施及维修平台。"
+    },
+    "creator": "Big Iron Enjoyer",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Raise collective to take off, pitch forward to accelerate, select targets and fire the cannon, rockets or missiles.",
+      "zh-CN": "提高总距起飞，前倾加速，选择目标并使用机炮、火箭或导弹射击。"
+    },
+    "play_url": "https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4",
+    "source_url": "https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4",
+    "x_post_url": "https://x.com/BigIron_Enjoyer/status/2108757890563752112",
+    "cover_alt": {
+      "en": "Halberd helicopter on a helipad with targeting HUD and minimap",
+      "zh-CN": "长戟飞行靶场中停在直升机坪上的直升机、瞄准界面与小地图"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/halberd-flight-range.jpg",
+    "cover_source_url": "https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4",
+    "ai_use": {
+      "en": "The creator says the flight range was started in Claude; no exact model is identified.",
+      "zh-CN": "作者称在 Claude 中制作这座飞行靶场，但未指明具体模型。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
+  },
+  {
+    "id": "operation-elsewhere",
+    "title": {
+      "en": "Operation Elsewhere",
+      "zh-CN": "异地行动"
+    },
+    "summary": {
+      "en": "Hold an arena against endless waves with a friend or bot partner.",
+      "zh-CN": "与朋友或机器人搭档守住竞技场，抵御不断袭来的敌人。"
+    },
+    "description": {
+      "en": "This playable prototype supports local two player co-op or a solo run with a bot partner; ammo pads and cover shape each wave.",
+      "zh-CN": "这款可玩原型支持本地双人合作或与机器人搭档单人游玩；弹药补给点和掩体影响每波战斗。"
+    },
+    "creator": "Will Stark",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Pick solo or couch co-op, then move with WASD, aim with the mouse, shoot and refill ammo on marked pads.",
+      "zh-CN": "选择单人或同屏双人，用 WASD 移动、鼠标瞄准射击，并在标记区域补充弹药。"
+    },
+    "play_url": "https://operationelsewhere.com/play/",
+    "source_url": "https://operationelsewhere.com/",
+    "x_post_url": "https://x.com/willstrk/status/2108793548954845313",
+    "cover_alt": {
+      "en": "Operation Elsewhere wave one arena with two fighters and ammo pads",
+      "zh-CN": "异地行动第一波竞技场中的两名队员与弹药补给点"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5",
+      "Grok 4.7"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/operation-elsewhere.jpg",
+    "cover_source_url": "https://operationelsewhere.com/play/",
+    "ai_use": {
+      "en": "The creator says the prototype was built quickly with Opus 5.5, Grok 4.7 and Three.js.",
+      "zh-CN": "作者称使用 Opus 5.5、Grok 4.7 与 Three.js 快速制作了原型。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
+  },
+  {
+    "id": "midnight-apex",
+    "title": {
+      "en": "Midnight Apex",
+      "zh-CN": "午夜巅峰"
+    },
+    "summary": {
+      "en": "Drift through a rain soaked neon city against four racing rivals.",
+      "zh-CN": "在雨夜霓虹城市中漂移竞速，对抗四名车手。"
+    },
+    "description": {
+      "en": "A three lap browser circuit race features wet roads, nitrous, slipstream and a code generated city and soundtrack.",
+      "zh-CN": "这场三圈网页赛道竞速包含湿滑道路、氮气、尾流，以及由代码生成的城市和音效。"
+    },
+    "creator": "Slava Volkov",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Start the race, use WASD or arrows to drive, Space to handbrake and Shift or N for nitrous.",
+      "zh-CN": "开始比赛后用 WASD 或方向键驾驶、空格拉手刹，按 Shift 或 N 使用氮气。"
+    },
+    "play_url": "https://genex.games/midnight-apex",
+    "source_url": "https://genex.games/midnight-apex",
+    "x_post_url": "https://x.com/buzzybats/status/2108195714081738990",
+    "cover_alt": {
+      "en": "Midnight Apex starting grid with neon cars on a rainy street",
+      "zh-CN": "午夜巅峰中雨夜霓虹街道上的赛车起跑阵列"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/midnight-apex.jpg",
+    "cover_source_url": "https://genex.games/midnight-apex",
+    "ai_use": {
+      "en": "The creator says one prompt to Claude Opus 5.5 produced this Three.js browser racer.",
+      "zh-CN": "作者称用一条提示词让 Claude Opus 5.5 制作了这款 Three.js 网页竞速游戏。"
+    },
+    "added_at": "2026-10-12",
+    "verified_at": "2026-10-12"
   }
 ]

@@ -158,6 +158,17 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Crew Run](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | Casual | AI workflow awaits creator confirmation | [Play](https://claude.ai/artifact/WSVMA7xecUuBPL5wKkx62p) | [X post](https://x.com/Nicolas68610783/status/2108661366420549660) |
 | [Stagnant Pond](https://algaepond.metalturtle.net/) | Simulation | AI workflow awaits creator confirmation | [Play](https://algaepond.metalturtle.net/) | [X post](https://x.com/metalturtle297/status/2106791097251078354) |
 
+| [Latent Clash](https://latent-clash.vercel.app/) | Strategy | AI workflow awaits creator confirmation | [Play](https://latent-clash.vercel.app/) | [X post](https://x.com/LexnLin/status/2108941556019314977) |
+| [Phase Drift](https://phase-drift.vercel.app/) | Racing | AI-assisted development (model unspecified) | [Play](https://phase-drift.vercel.app/) | [X post](https://x.com/SatvikShrivast7/status/2108890431966883960) |
+| [Chip Thief](https://wefav.com/chip-thief/) | Casual | Claude Opus 5.5 | [Play](https://wefav.com/chip-thief/) | [X post](https://x.com/comster/status/2108944897407377578) |
+| [Dust & Glory](https://dustandglory.world/play.html) | Shooter | AI workflow awaits creator confirmation | [Play](https://dustandglory.world/play.html) | [X post](https://x.com/GetStreamProof/status/2109055091822972955) |
+| [RIDERASH](https://riderashonline.vercel.app/) | Racing | AI-assisted development (model unspecified) | [Play](https://riderashonline.vercel.app/) | [X post](https://x.com/riderashgame/status/2109010363786428913) |
+| [Rage](https://darths-rage.netlify.app/) | Action | Claude Opus 5.5 | [Play](https://darths-rage.netlify.app/) | [X post](https://x.com/MajorTomNFT/status/2109006199438131439) |
+| [Pick Up the Pieces](https://byminyona.com/pick-up-the-pieces/play/) | Adventure | AI workflow awaits creator confirmation | [Play](https://byminyona.com/pick-up-the-pieces/play/) | [X post](https://x.com/freedomwillwork/status/2108921338815517083) |
+| [Halberd Flight Range](https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4) | Simulation | AI-assisted development (model unspecified) | [Play](https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4) | [X post](https://x.com/BigIron_Enjoyer/status/2108757890563752112) |
+| [Operation Elsewhere](https://operationelsewhere.com/play/) | Shooter | Claude Opus 5.5, Grok 4.7 | [Play](https://operationelsewhere.com/play/) | [X post](https://x.com/willstrk/status/2108793548954845313) |
+| [Midnight Apex](https://genex.games/midnight-apex) | Racing | Claude Opus 5.5 | [Play](https://genex.games/midnight-apex) | [X post](https://x.com/buzzybats/status/2108195714081738990) |
+
 ## X showcase
 
 | Game | Genre | What is available | Original post |
