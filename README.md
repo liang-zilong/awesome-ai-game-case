@@ -168,6 +168,19 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Halberd Flight Range](https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4) | Simulation | AI-assisted development (model unspecified) | [Play](https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4) | [X post](https://x.com/BigIron_Enjoyer/status/2108757890563752112) |
 | [Operation Elsewhere](https://operationelsewhere.com/play/) | Shooter | Claude Opus 5.5, Grok 4.7 | [Play](https://operationelsewhere.com/play/) | [X post](https://x.com/willstrk/status/2108793548954845313) |
 | [Midnight Apex](https://genex.games/midnight-apex) | Racing | Claude Opus 5.5 | [Play](https://genex.games/midnight-apex) | [X post](https://x.com/buzzybats/status/2108195714081738990) |
+| [Diamond Miner](https://claude.ai/artifact/E18HdNaYioz2CRXDuiZKs2) | Puzzle | Claude Opus 5.5 | [Play](https://claude.ai/artifact/E18HdNaYioz2CRXDuiZKs2) | [X post](https://x.com/faridmovsumov/status/2105376491580412019) |
+| [Roadster: The Flying Car](https://roadster-the-flying-car-gamev28.vercel.app/) | Racing | Claude Opus 5.5 | [Play](https://roadster-the-flying-car-gamev28.vercel.app/) | [X post](https://x.com/k_millionaire_/status/2108490551385624581) |
+| [Tidebreaker](https://tidebreaker.vercel.app/) | Adventure | Claude Opus 5.5, GPT Images 2.5 | [Play](https://tidebreaker.vercel.app/) | [X post](https://x.com/chongdashu/status/2109452512160039063) |
+| [Mini Moto](https://claude.ai/artifact/DWgW9u2RW7Qn9LRrBcYh3W) | Racing | AI workflow awaits creator confirmation | [Play](https://claude.ai/artifact/DWgW9u2RW7Qn9LRrBcYh3W) | [X post](https://x.com/chrisjdimarco/status/2109498131255808422) |
+| [Custom Robo: Rainy Night](https://customrobo.vercel.app/) | Adventure | AI-assisted development (model unspecified) | [Play](https://customrobo.vercel.app/) | [X post](https://x.com/roberottt/status/2109315073814737337) |
+| [Clash Karts](https://clashkarts.com/) | Racing | Claude Opus 5.5 | [Play](https://clashkarts.com/) | [X post](https://x.com/cyclingfounder/status/2109548332481933327) |
+| [Junkyard King](https://junkyardking.io/) | Action | AI workflow awaits creator confirmation | [Play](https://junkyardking.io/) | [X post](https://x.com/henrydaubrez/status/2109690823575236834) |
+| [No Time To Waste](https://arcadia-17122591106.us-west1.run.app/retro-bike/) | Racing | AI workflow awaits creator confirmation | [Play](https://arcadia-17122591106.us-west1.run.app/retro-bike/) | [X post](https://x.com/sebastia_me/status/2109382454997897302) |
+| [Duo Swat](https://erayyavuz.github.io/duo-swat/) | Casual | AI workflow awaits creator confirmation | [Play](https://erayyavuz.github.io/duo-swat/) | [X post](https://x.com/erayavu/status/2109680476629950476) |
+| [The Little Prince: Among the Stars](https://littleprince.dev/) | Adventure | Claude Opus 5.5 | [Play](https://littleprince.dev/) | [X post](https://x.com/Saccc_c/status/2109962425512734739) |
+| [Odyssey: Voyage of the Aegean](https://odyssey-navy-seven.vercel.app/) | Simulation | Claude Opus 5.5 | [Play](https://odyssey-navy-seven.vercel.app/) | [X post](https://x.com/tanu_hehe/status/2109918640300802093) |
+| [Risk 3D: Cute Edition](https://cuddle-empires.vercel.app/) | Strategy | Claude Opus 5.5 | [Play](https://cuddle-empires.vercel.app/) | [X post](https://x.com/netgfx/status/2110092406255481220) |
+| [Myanmar Run](https://myanmar-run.vibeblueprints.dev/) | Casual | Claude Opus 5.5 | [Play](https://myanmar-run.vibeblueprints.dev/) | [X post](https://x.com/dopenclean/status/2110177179892138227) |
 
 ## X showcase
 

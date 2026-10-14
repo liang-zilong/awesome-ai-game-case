@@ -168,6 +168,19 @@
 | [长戟飞行靶场](https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4) | 模拟 | AI 辅助开发（模型未指明） | [打开游戏](https://claude.ai/artifact/KsDAsLriC91Yc3SiSSNUU4) | [X 原帖](https://x.com/BigIron_Enjoyer/status/2108757890563752112) |
 | [异地行动](https://operationelsewhere.com/play/) | 射击 | Claude Opus 5.5, Grok 4.7 | [打开游戏](https://operationelsewhere.com/play/) | [X 原帖](https://x.com/willstrk/status/2108793548954845313) |
 | [午夜巅峰](https://genex.games/midnight-apex) | 竞速 | Claude Opus 5.5 | [打开游戏](https://genex.games/midnight-apex) | [X 原帖](https://x.com/buzzybats/status/2108195714081738990) |
+| [钻石矿工](https://claude.ai/artifact/E18HdNaYioz2CRXDuiZKs2) | 益智 | Claude Opus 5.5 | [打开游戏](https://claude.ai/artifact/E18HdNaYioz2CRXDuiZKs2) | [X 原帖](https://x.com/faridmovsumov/status/2105376491580412019) |
+| [Roadster：飞行汽车](https://roadster-the-flying-car-gamev28.vercel.app/) | 竞速 | Claude Opus 5.5 | [打开游戏](https://roadster-the-flying-car-gamev28.vercel.app/) | [X 原帖](https://x.com/k_millionaire_/status/2108490551385624581) |
+| [破潮者](https://tidebreaker.vercel.app/) | 冒险 | Claude Opus 5.5、GPT Images 2.5 | [打开游戏](https://tidebreaker.vercel.app/) | [X 原帖](https://x.com/chongdashu/status/2109452512160039063) |
+| [迷你摩托](https://claude.ai/artifact/DWgW9u2RW7Qn9LRrBcYh3W) | 竞速 | AI 工作流程等待作者确认 | [打开游戏](https://claude.ai/artifact/DWgW9u2RW7Qn9LRrBcYh3W) | [X 原帖](https://x.com/chrisjdimarco/status/2109498131255808422) |
+| [自定义机甲：雨夜](https://customrobo.vercel.app/) | 冒险 | AI 辅助开发（模型未指明） | [打开游戏](https://customrobo.vercel.app/) | [X 原帖](https://x.com/roberottt/status/2109315073814737337) |
+| [卡丁车大乱斗](https://clashkarts.com/) | 竞速 | Claude Opus 5.5 | [打开游戏](https://clashkarts.com/) | [X 原帖](https://x.com/cyclingfounder/status/2109548332481933327) |
+| [废土之王](https://junkyardking.io/) | 动作 | AI 工作流程等待作者确认 | [打开游戏](https://junkyardking.io/) | [X 原帖](https://x.com/henrydaubrez/status/2109690823575236834) |
+| [分秒必争](https://arcadia-17122591106.us-west1.run.app/retro-bike/) | 竞速 | AI 工作流程等待作者确认 | [打开游戏](https://arcadia-17122591106.us-west1.run.app/retro-bike/) | [X 原帖](https://x.com/sebastia_me/status/2109382454997897302) |
+| [折叠拍蝇](https://erayyavuz.github.io/duo-swat/) | 休闲 | AI 工作流程等待作者确认 | [打开游戏](https://erayyavuz.github.io/duo-swat/) | [X 原帖](https://x.com/erayavu/status/2109680476629950476) |
+| [小王子：星辰之旅](https://littleprince.dev/) | 冒险 | Claude Opus 5.5 | [打开游戏](https://littleprince.dev/) | [X 原帖](https://x.com/Saccc_c/status/2109962425512734739) |
+| [奥德赛：爱琴海之旅](https://odyssey-navy-seven.vercel.app/) | 模拟 | Claude Opus 5.5 | [打开游戏](https://odyssey-navy-seven.vercel.app/) | [X 原帖](https://x.com/tanu_hehe/status/2109918640300802093) |
+| [萌系帝国](https://cuddle-empires.vercel.app/) | 策略 | Claude Opus 5.5 | [打开游戏](https://cuddle-empires.vercel.app/) | [X 原帖](https://x.com/netgfx/status/2110092406255481220) |
+| [缅甸跑酷](https://myanmar-run.vibeblueprints.dev/) | 休闲 | Claude Opus 5.5 | [打开游戏](https://myanmar-run.vibeblueprints.dev/) | [X 原帖](https://x.com/dopenclean/status/2110177179892138227) |
 
 ## X 展示案例
 

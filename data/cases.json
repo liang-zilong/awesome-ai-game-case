@@ -6698,5 +6698,610 @@
     },
     "added_at": "2026-10-12",
     "verified_at": "2026-10-12"
+  },
+  {
+    "id": "diamond-miner",
+    "title": {
+      "en": "Diamond Miner",
+      "zh-CN": "钻石矿工"
+    },
+    "summary": {
+      "en": "Remember hidden diamonds and dig them up before the clock expires.",
+      "zh-CN": "记住钻石埋藏位置，在倒计时结束前挖出它们。"
+    },
+    "description": {
+      "en": "A timed memory and digging game inspired by the “so close” miner meme, with three diamonds per level and limited peeks.",
+      "zh-CN": "这款限时记忆挖矿游戏受“差一点”矿工迷因启发，每关要寻找三颗钻石，可用有限次数再次查看。"
+    },
+    "creator": "Farid Movsumov",
+    "genre": "puzzle",
+    "gameplay": {
+      "en": "Study the diamond locations, then use the arrow keys to walk and dig; press Space to peek again twice.",
+      "zh-CN": "记住钻石位置后，用方向键移动并挖掘；按空格可再查看两次。"
+    },
+    "play_url": "https://claude.ai/artifact/E18HdNaYioz2CRXDuiZKs2",
+    "source_url": "https://x.com/faridmovsumov/status/2105376491580412019",
+    "x_post_url": "https://x.com/faridmovsumov/status/2105376491580412019",
+    "cover_alt": {
+      "en": "Diamond Miner mine with hidden gems and a countdown",
+      "zh-CN": "《钻石矿工》的矿层、钻石与倒计时"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/diamond-miner.jpg",
+    "cover_source_url": "https://claude.ai/artifact/E18HdNaYioz2CRXDuiZKs2",
+    "ai_use": {
+      "en": "The creator says they built this small game with their child using Claude Code and Opus 5.5.",
+      "zh-CN": "作者称与孩子一起使用 Claude Code 和 Opus 5.5 制作了这款小游戏。"
+    },
+    "added_at": "2026-10-14",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "roadster-flying-car",
+    "title": {
+      "en": "Roadster: The Flying Car",
+      "zh-CN": "Roadster：飞行汽车"
+    },
+    "summary": {
+      "en": "Drive and fly a transforming car through story missions in a city.",
+      "zh-CN": "驾驶可变形飞行汽车，在城市中完成剧情任务。"
+    },
+    "description": {
+      "en": "A browser driving and flight game with a first-drive tutorial, free roam, later street races, stunts and challenges.",
+      "zh-CN": "这款网页驾驶与飞行游戏提供新手驾驶教程、自由漫游，以及后续的街头竞速、特技和挑战。"
+    },
+    "creator": "K Millionaire (@k_millionaire_)",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Start the story, hold W to accelerate and steer with A and D through the tutorial gates before unlocking more missions.",
+      "zh-CN": "开始剧情后按住 W 加速，用 A、D 转向穿过教学关卡，逐步解锁更多任务。"
+    },
+    "play_url": "https://roadster-the-flying-car-gamev28.vercel.app/",
+    "source_url": "https://x.com/k_millionaire_/status/2108490551385624581",
+    "x_post_url": "https://x.com/k_millionaire_/status/2108490551385624581",
+    "cover_alt": {
+      "en": "Roadster flying car on the first-drive city tutorial",
+      "zh-CN": "《Roadster》在城市新手驾驶关卡中的飞行汽车"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/roadster-flying-car.jpg",
+    "cover_source_url": "https://roadster-the-flying-car-gamev28.vercel.app/",
+    "ai_use": {
+      "en": "The creator says they worked for several weeks on the game using a bot and Claude Opus 5.5.",
+      "zh-CN": "作者称用 bot 与 Claude Opus 5.5 花费数周制作了这款游戏。"
+    },
+    "added_at": "2026-10-14",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "tidebreaker",
+    "title": {
+      "en": "Tidebreaker",
+      "zh-CN": "破潮者"
+    },
+    "summary": {
+      "en": "Cross a stormy harbour and reach the lighthouse while a giant wakes behind you.",
+      "zh-CN": "穿越暴风雨中的港口，赶在巨兽追上前抵达灯塔。"
+    },
+    "description": {
+      "en": "A side-scrolling platform adventure on a rain swept dock, with a giant pursuit, lantern checkpoints and a speed leaderboard.",
+      "zh-CN": "这款横向平台冒险发生在暴雨中的码头，包含巨兽追逐、灯笼检查点与通关计时榜。"
+    },
+    "creator": "Chong-U (@chongdashu)",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Move with A and D, jump with Space, light lanterns and race toward the lighthouse.",
+      "zh-CN": "用 A、D 移动、空格跳跃，点亮灯笼并冲向灯塔。"
+    },
+    "play_url": "https://tidebreaker.vercel.app/",
+    "source_url": "https://x.com/chongdashu/status/2109452512160039063",
+    "x_post_url": "https://x.com/chongdashu/status/2109452512160039063",
+    "cover_alt": {
+      "en": "Tidebreaker stormy harbour platform scene with a giant in the water",
+      "zh-CN": "《破潮者》暴雨港口平台场景与水中的巨兽"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [
+      "Claude Opus 5.5",
+      "GPT Images 2.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/tidebreaker.jpg",
+    "cover_source_url": "https://tidebreaker.vercel.app/",
+    "ai_use": {
+      "en": "The creator says Opus 5.5 wrote the game; GPT Images 2.5 supported concepts, Tripo and Blender made 3D assets, Spriterrific made sprites, and ElevenLabs made audio.",
+      "zh-CN": "作者称 Opus 5.5 编写游戏；GPT Images 2.5 用于概念，Tripo 与 Blender 制作 3D 素材，Spriterrific 制作精灵图，ElevenLabs 制作音频。"
+    },
+    "added_at": "2026-10-13",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "mini-moto",
+    "title": {
+      "en": "Mini Moto",
+      "zh-CN": "迷你摩托"
+    },
+    "summary": {
+      "en": "Watch and tune a miniature motocross race across a modular 3D park.",
+      "zh-CN": "在可扩展的迷你 3D 公园中观看并调整摩托竞赛。"
+    },
+    "description": {
+      "en": "A browser-based toy-scale race sim with bikes or karts, rider standings, camera modes and connected map tiles.",
+      "zh-CN": "这款玩具比例的网页竞赛模拟器提供摩托或卡丁车、车手排名、镜头模式和拼接地图。"
+    },
+    "creator": "Christopher J. DiMarco",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Choose bikes, karts or mixed vehicles, switch cameras and watch eight laps; add map tiles or adjust race settings.",
+      "zh-CN": "选择摩托、卡丁车或混合车辆，切换镜头观看八圈比赛，也可拼接地图、调整比赛设置。"
+    },
+    "play_url": "https://claude.ai/artifact/DWgW9u2RW7Qn9LRrBcYh3W",
+    "source_url": "https://x.com/chrisjdimarco/status/2109498131255808422",
+    "x_post_url": "https://x.com/chrisjdimarco/status/2109498131255808422",
+    "cover_alt": {
+      "en": "Mini Moto live race park overview with standings and track",
+      "zh-CN": "Mini Moto 实时竞赛的赛道俯瞰与排名面板"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/mini-moto.jpg",
+    "cover_source_url": "https://claude.ai/artifact/DWgW9u2RW7Qn9LRrBcYh3W",
+    "ai_use": {
+      "en": "AI use and specific model have not been verified from the creator’s accessible public material.",
+      "zh-CN": "尚未从可访问的作者公开资料核实 AI 用途及具体模型。"
+    },
+    "added_at": "2026-10-13",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "custom-robo-rainy-night",
+    "title": {
+      "en": "Custom Robo: Rainy Night",
+      "zh-CN": "自定义机甲：雨夜"
+    },
+    "summary": {
+      "en": "Walk a rainy Japanese street toward a robot duel inspired by Custom Robo.",
+      "zh-CN": "漫步雨夜日本街道，走向受《自定义机甲》启发的机器人对战。"
+    },
+    "description": {
+      "en": "This Three.js fan demo starts in an explorable rain soaked street and invites players to meet a rival for a holographic tabletop duel.",
+      "zh-CN": "这款 Three.js 同人试玩从可探索的雨夜街道开始，玩家可寻找对手并进入全息桌面决斗。"
+    },
+    "creator": "@roberottt",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Click to start, move with WASD, run with Shift, orbit the camera with the mouse and use E to interact.",
+      "zh-CN": "点击开始，用 WASD 移动、Shift 奔跑、鼠标调整视角，并按 E 互动。"
+    },
+    "play_url": "https://customrobo.vercel.app/",
+    "source_url": "https://x.com/roberottt/status/2109315073814737337",
+    "x_post_url": "https://x.com/roberottt/status/2109315073814737337",
+    "cover_alt": {
+      "en": "Custom Robo title over a rain soaked Japanese street",
+      "zh-CN": "《自定义机甲》雨夜日本街道上的标题画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/custom-robo-rainy-night.jpg",
+    "cover_source_url": "https://customrobo.vercel.app/",
+    "ai_use": {
+      "en": "The creator says a single prompt to Claude generated the Three.js street and robot duel demo; no specific Claude model was named.",
+      "zh-CN": "作者称用一条提示词让 Claude 生成了 Three.js 街道与机器人对战试玩，未指明具体 Claude 模型。"
+    },
+    "added_at": "2026-10-13",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "clash-karts",
+    "title": {
+      "en": "Clash Karts",
+      "zh-CN": "卡丁车大乱斗"
+    },
+    "summary": {
+      "en": "Battle other karts on a beach with wild items and short multiplayer rounds.",
+      "zh-CN": "在沙滩赛场用各式道具与其他卡丁车展开短局对战。"
+    },
+    "description": {
+      "en": "A free browser kart battle with public or private rooms, bot opponents, six racers, four modes and destructible beach props.",
+      "zh-CN": "这款免费网页卡丁车对战提供公开或私人房间、机器人对手、六名车手、四种模式和可破坏的沙滩物件。"
+    },
+    "creator": "pawan (@cyclingfounder)",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Enter Quick Play, drive around Big Wave Beach, collect item boxes and score knockouts before the three minute round ends.",
+      "zh-CN": "点击快速开始，在沙滩赛场驾驶、拾取道具箱，并在三分钟回合结束前争取击倒对手。"
+    },
+    "play_url": "https://clashkarts.com/",
+    "source_url": "https://x.com/cyclingfounder/status/2109548332481933327",
+    "x_post_url": "https://x.com/cyclingfounder/status/2109548332481933327",
+    "cover_alt": {
+      "en": "Clash Karts live beach battle with the player kart and timer",
+      "zh-CN": "《卡丁车大乱斗》沙滩对战中的玩家车辆与计时器"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/clash-karts.jpg",
+    "cover_source_url": "https://clashkarts.com/",
+    "ai_use": {
+      "en": "The creator says Claude Opus 5.5 built the playable Three.js multiplayer kart battle over six days.",
+      "zh-CN": "作者称 Claude Opus 5.5 在六天内制作了这款可玩的 Three.js 多人卡丁车对战。"
+    },
+    "added_at": "2026-10-13",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "junkyard-king",
+    "title": {
+      "en": "Junkyard King",
+      "zh-CN": "废土之王"
+    },
+    "summary": {
+      "en": "Fight waves of Hollows with drawn attacks in a neon junkyard arena.",
+      "zh-CN": "在霓虹废土竞技场用手势出招，迎战一波波敌人。"
+    },
+    "description": {
+      "en": "A browser arena brawler with movement, slashes, guarding, dodges, a partner call, a finisher and score streaks.",
+      "zh-CN": "这款网页竞技场动作游戏包含移动、斩击、防御、闪避、呼叫伙伴、终结技与连击计分。"
+    },
+    "creator": "Henry Daubrez",
+    "genre": "action",
+    "gameplay": {
+      "en": "Start a chapter, skip or watch the opening scene, move with WASD and draw or use buttons to attack enemies.",
+      "zh-CN": "进入章节后可观看或跳过开场，用 WASD 移动，并画招式或点按钮攻击敌人。"
+    },
+    "play_url": "https://junkyardking.io/",
+    "source_url": "https://x.com/henrydaubrez/status/2109690823575236834",
+    "x_post_url": "https://x.com/henrydaubrez/status/2109690823575236834",
+    "cover_alt": {
+      "en": "Junkyard King arena battle with Artie and combat controls",
+      "zh-CN": "《废土之王》竞技场中 Artie 与战斗操作界面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/junkyard-king.jpg",
+    "cover_source_url": "https://junkyardking.io/",
+    "ai_use": {
+      "en": "AI use and specific model have not been verified from the creator’s accessible public material.",
+      "zh-CN": "尚未从可访问的作者公开资料核实 AI 用途及具体模型。"
+    },
+    "added_at": "2026-10-13",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "no-time-to-waste",
+    "title": {
+      "en": "No Time To Waste",
+      "zh-CN": "分秒必争"
+    },
+    "summary": {
+      "en": "Deliver a package to the lighthouse before the countdown runs out.",
+      "zh-CN": "在倒计时结束前将包裹送到灯塔。"
+    },
+    "description": {
+      "en": "A fast 3D courier run through a seaside city with traffic, roadwork hazards, jumps, boosts and combo scoring.",
+      "zh-CN": "这款 3D 快递竞速穿过海滨城市，包含车流、施工障碍、跳跃、加速与连击计分。"
+    },
+    "creator": "@sebastia_me",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Press Enter, steer with A and D, sprint with W, boost with Shift and jump with Space to reach the lighthouse.",
+      "zh-CN": "按 Enter 开始，用 A、D 转向、W 冲刺、Shift 加速、空格跳跃，赶往灯塔。"
+    },
+    "play_url": "https://arcadia-17122591106.us-west1.run.app/retro-bike/",
+    "source_url": "https://x.com/sebastia_me/status/2109382454997897302",
+    "x_post_url": "https://x.com/sebastia_me/status/2109382454997897302",
+    "cover_alt": {
+      "en": "No Time To Waste seaside road and delivery countdown",
+      "zh-CN": "《分秒必争》海滨道路与快递倒计时"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/no-time-to-waste.jpg",
+    "cover_source_url": "https://arcadia-17122591106.us-west1.run.app/retro-bike/",
+    "ai_use": {
+      "en": "AI use and specific model have not been verified from the creator’s accessible public material.",
+      "zh-CN": "尚未从可访问的作者公开资料核实 AI 用途及具体模型。"
+    },
+    "added_at": "2026-10-13",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "duo-swat",
+    "title": {
+      "en": "Duo Swat",
+      "zh-CN": "折叠拍蝇"
+    },
+    "summary": {
+      "en": "Aim a foldable phone and snap it shut to catch a fly.",
+      "zh-CN": "瞄准苍蝇并合上折叠手机，看看能否将它拍中。"
+    },
+    "description": {
+      "en": "A tiny 3D reflex game that counts caught and missed flies while the phone folds in your hand.",
+      "zh-CN": "这款 3D 反应小游戏让玩家用手中的折叠手机拍苍蝇，并记录命中与失手次数。"
+    },
+    "creator": "Eray Yavuz (@erayavu)",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Move to line up the fly, click to snap the phone shut and improve the caught count.",
+      "zh-CN": "移动视角对准苍蝇，点击合上手机，争取提高命中次数。"
+    },
+    "play_url": "https://erayyavuz.github.io/duo-swat/",
+    "source_url": "https://x.com/erayavu/status/2109680476629950476",
+    "x_post_url": "https://x.com/erayavu/status/2109680476629950476",
+    "cover_alt": {
+      "en": "Duo Swat foldable phone with a fly and caught counter",
+      "zh-CN": "Duo Swat 折叠手机、苍蝇与命中计数"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/duo-swat.jpg",
+    "cover_source_url": "https://erayyavuz.github.io/duo-swat/",
+    "ai_use": {
+      "en": "AI use and specific model have not been verified from the creator’s accessible public material.",
+      "zh-CN": "尚未从可访问的作者公开资料核实 AI 用途及具体模型。"
+    },
+    "added_at": "2026-10-13",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "the-little-prince-among-the-stars",
+    "title": {
+      "en": "The Little Prince: Among the Stars",
+      "zh-CN": "小王子：星辰之旅"
+    },
+    "summary": {
+      "en": "Explore the Little Prince’s tiny worlds in an interactive 3D story.",
+      "zh-CN": "在互动 3D 故事中探索小王子的微小星球。"
+    },
+    "description": {
+      "en": "A chapter-based browser adventure begins on B-612, where the Little Prince walks among volcanoes, a rose and other storybook places.",
+      "zh-CN": "这款分章节网页冒险从 B-612 开始，玩家陪小王子在火山、玫瑰和童话场景间行走。"
+    },
+    "creator": "Sac (@Saccc_c)",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Begin the journey, choose B-612 on the chapter map and move with WASD to explore the planet and story prompts.",
+      "zh-CN": "开启旅程，在章节地图选择 B-612，再用 WASD 行走，探索星球与剧情提示。"
+    },
+    "play_url": "https://littleprince.dev/",
+    "source_url": "https://x.com/Saccc_c/status/2109962425512734739",
+    "x_post_url": "https://x.com/Saccc_c/status/2109962425512734739",
+    "cover_alt": {
+      "en": "The Little Prince walking toward a well on B-612",
+      "zh-CN": "小王子在 B-612 星球上走向水井"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/the-little-prince-among-the-stars.jpg",
+    "cover_source_url": "https://littleprince.dev/",
+    "ai_use": {
+      "en": "The creator says Claude Opus 5.5 made the 3D story game over 16 days, with Tripo and Blender used for the planetary scenes.",
+      "zh-CN": "作者称用 Claude Opus 5.5 花 16 天制作 3D 剧情游戏，并结合 Tripo 与 Blender 制作星球场景。"
+    },
+    "added_at": "2026-10-14",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "odyssey-voyage-aegean",
+    "title": {
+      "en": "Odyssey: Voyage of the Aegean",
+      "zh-CN": "奥德赛：爱琴海之旅"
+    },
+    "summary": {
+      "en": "Sail a Greek vessel among Aegean islands and discover landmarks.",
+      "zh-CN": "驾驶希腊帆船穿行爱琴海岛屿，寻找沿途地标。"
+    },
+    "description": {
+      "en": "A 3D sailing experience with wind and sail readouts, camera modes, autopilot, changing environments and a landmark counter.",
+      "zh-CN": "这款 3D 航海体验提供风向与船帆读数、镜头模式、自动驾驶、环境切换和地标计数。"
+    },
+    "creator": "Tanu (@tanu_hehe)",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Start the voyage, steer the boat through the islands, trim the sail and discover landmarks.",
+      "zh-CN": "开始航程，在岛屿间掌舵、调整船帆并发现地标。"
+    },
+    "play_url": "https://odyssey-navy-seven.vercel.app/",
+    "source_url": "https://x.com/tanu_hehe/status/2109918640300802093",
+    "x_post_url": "https://x.com/tanu_hehe/status/2109918640300802093",
+    "cover_alt": {
+      "en": "Odyssey sailboat crossing the blue Aegean toward a Greek island",
+      "zh-CN": "《奥德赛》帆船驶向希腊岛屿的爱琴海画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/odyssey-voyage-aegean.jpg",
+    "cover_source_url": "https://odyssey-navy-seven.vercel.app/",
+    "ai_use": {
+      "en": "The creator says they built this 3D voyage game with Claude Opus 5.5.",
+      "zh-CN": "作者称使用 Claude Opus 5.5 制作了这款 3D 航海游戏。"
+    },
+    "added_at": "2026-10-14",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "cuddle-empires",
+    "title": {
+      "en": "Risk 3D: Cute Edition",
+      "zh-CN": "萌系帝国"
+    },
+    "summary": {
+      "en": "Conquer a tabletop world with cute dogs, ponies and pandas.",
+      "zh-CN": "派出可爱的狗狗、小马和熊猫，在桌面地图上争夺世界。"
+    },
+    "description": {
+      "en": "A playful browser adaptation of Risk with local or beta online games, bot opponents, territories, cards and turn-based battles.",
+      "zh-CN": "这款轻松风格的网页版《大战役》支持本地或测试版在线对局、机器人对手、领地、卡牌和回合制战斗。"
+    },
+    "creator": "Michael Dobekidis (@netgfx)",
+    "genre": "strategy",
+    "gameplay": {
+      "en": "Set players and rules, start a local match, reinforce territories, attack neighbours and fortify positions.",
+      "zh-CN": "设定玩家与规则后开始本地对局，增兵领地、进攻邻区并巩固防线。"
+    },
+    "play_url": "https://cuddle-empires.vercel.app/",
+    "source_url": "https://x.com/netgfx/status/2110092406255481220",
+    "x_post_url": "https://x.com/netgfx/status/2110092406255481220",
+    "cover_alt": {
+      "en": "Risk Cute Edition tabletop map with players and army tokens",
+      "zh-CN": "《萌系帝国》桌面地图、玩家与军队棋子"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/cuddle-empires.jpg",
+    "cover_source_url": "https://cuddle-empires.vercel.app/",
+    "ai_use": {
+      "en": "The creator says Claude Opus 5.5, Blender, Three.js and a game asset generator produced the tabletop game in about 70 minutes.",
+      "zh-CN": "作者称使用 Claude Opus 5.5、Blender、Three.js 和游戏素材生成器，约 70 分钟制作了这款桌面游戏。"
+    },
+    "added_at": "2026-10-14",
+    "verified_at": "2026-10-14"
+  },
+  {
+    "id": "myanmar-run",
+    "title": {
+      "en": "Myanmar Run",
+      "zh-CN": "缅甸跑酷"
+    },
+    "summary": {
+      "en": "Run through Myanmar landmarks, gather coins and stay ahead of BeLuu.",
+      "zh-CN": "穿越缅甸地标、收集金币，并甩开身后的 BeLuu。"
+    },
+    "description": {
+      "en": "A 3D cultural endless runner set around Bagan, U Bein and Yangon, with obstacle dodging, treats, upgrades and distance scores.",
+      "zh-CN": "这款 3D 文化主题无尽跑酷穿过蒲甘、乌本桥和仰光，包含障碍闪避、点心、升级与距离计分。"
+    },
+    "creator": "dope & clean (@dopenclean)",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Start a run, change lanes and slide around obstacles, collect treats and coins, and improve your best distance.",
+      "zh-CN": "开始奔跑后变道、滑行躲避障碍，收集点心和金币，并刷新最佳距离。"
+    },
+    "play_url": "https://myanmar-run.vibeblueprints.dev/",
+    "source_url": "https://x.com/dopenclean/status/2110177179892138227",
+    "x_post_url": "https://x.com/dopenclean/status/2110177179892138227",
+    "cover_alt": {
+      "en": "Myanmar Run title screen with runner and Myanmar setting",
+      "zh-CN": "《缅甸跑酷》展示跑者与缅甸场景的标题画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/myanmar-run.jpg",
+    "cover_source_url": "https://myanmar-run.vibeblueprints.dev/",
+    "ai_use": {
+      "en": "The creator says the Three.js running game was built with Anthropic Claude Opus 5.5.",
+      "zh-CN": "作者称这款 Three.js 跑酷游戏使用 Anthropic Claude Opus 5.5 制作。"
+    },
+    "added_at": "2026-10-14",
+    "verified_at": "2026-10-14"
   }
 ]
