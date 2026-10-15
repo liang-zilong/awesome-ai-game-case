@@ -182,6 +182,14 @@
 | [萌系帝国](https://cuddle-empires.vercel.app/) | 策略 | Claude Opus 5.5 | [打开游戏](https://cuddle-empires.vercel.app/) | [X 原帖](https://x.com/netgfx/status/2110092406255481220) |
 | [缅甸跑酷](https://myanmar-run.vibeblueprints.dev/) | 休闲 | Claude Opus 5.5 | [打开游戏](https://myanmar-run.vibeblueprints.dev/) | [X 原帖](https://x.com/dopenclean/status/2110177179892138227) |
 
+| [蓝线冰球](https://playblueline.pages.dev/) | 体育 | Claude Opus 5.5 | [打开游戏](https://playblueline.pages.dev/) | [来源](https://x.com/AlexStLouis10/status/2110021265453191508) |
+| [行星保卫者：核爆版](https://www.gamefoundry.net/creations/cmuvwvz6f0001cv4p4kuausdt) | 射击 | Claude Opus 5.5 | [打开游戏](https://www.gamefoundry.net/creations/cmuvwvz6f0001cv4p4kuausdt) | [来源](https://www.gamefoundry.net/creations/cmuvwvz6f0001cv4p4kuausdt) |
+| [奥佐马特利](https://www.gamefoundry.net/creations/cmujs9oli000112bctlv030i3) | 冒险 | Claude Opus 5.5 | [打开游戏](https://www.gamefoundry.net/creations/cmujs9oli000112bctlv030i3) | [来源](https://www.gamefoundry.net/creations/cmujs9oli000112bctlv030i3) |
+| [红隼之夜](https://hasib-kestrel-nights.netlify.app/) | 动作 | Claude Opus | [打开游戏](https://hasib-kestrel-nights.netlify.app/) | [来源](https://x.com/hasibdreamer35/status/2110421049544491500) |
+| [无人永生（网页版）](https://playnolf.com/play/) | 射击 | Claude Opus, Claude Sonnet | [打开游戏](https://playnolf.com/play/) | [来源](https://playnolf.com/making-of/) |
+| [乘船游孟加拉](https://csagnik09.github.io/Nouka-Yatra/) | 休闲 | AI 模型未核实 | [打开游戏](https://csagnik09.github.io/Nouka-Yatra/) | [来源](https://x.com/csagnik09/status/2110399014843929086) |
+| [轨道切换](https://www.toolglade.com/play/orbit-switch) | 休闲 | Claude Opus 5.5 | [打开游戏](https://www.toolglade.com/play/orbit-switch) | [来源](https://www.toolglade.com/learn/ship-a-browser-game-opus) |
+
 ## X 展示案例
 
 | 游戏 | 类型 | 当前可用内容 | 原始帖子 |

@@ -7303,5 +7303,333 @@
     },
     "added_at": "2026-10-14",
     "verified_at": "2026-10-14"
+  },
+  {
+    "id": "blueline",
+    "title": {
+      "en": "Blueline",
+      "zh-CN": "蓝线冰球"
+    },
+    "summary": {
+      "en": "A 5-on-5 arcade hockey match against the CPU, ready to play in a browser.",
+      "zh-CN": "在浏览器里与电脑对手进行 5 对 5 街机冰球赛。"
+    },
+    "description": {
+      "en": "Choose clubs, period length and difficulty, then take the ice in a WebGPU hockey game with passing, shooting, checking and offside rules.",
+      "zh-CN": "选择球队、每节时长与难度，进入支持传球、射门、身体对抗及越位规则的 WebGPU 冰球比赛。"
+    },
+    "creator": "Alex St. Louis (@AlexStLouis10)",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Drop the puck, skate with WASD, pass with right click, shoot or poke with left click, and outscore the CPU.",
+      "zh-CN": "开球后用 WASD 滑行、右键传球、左键射门或抢断，在比赛中击败电脑对手。"
+    },
+    "play_url": "https://playblueline.pages.dev/",
+    "source_url": "https://x.com/AlexStLouis10/status/2110021265453191508",
+    "x_post_url": "https://x.com/AlexStLouis10/status/2109890243243721135",
+    "cover_alt": {
+      "en": "Blueline faceoff at center ice with score and player indicators",
+      "zh-CN": "《蓝线冰球》的中圈争球画面、比分与球员标记"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/blueline.jpg",
+    "cover_source_url": "https://playblueline.pages.dev/",
+    "ai_use": {
+      "en": "The creator says he built the hockey game from scratch with Claude Opus 5.5 and refined its play systems over several weeks.",
+      "zh-CN": "作者表示使用 Claude Opus 5.5 从零制作冰球游戏，并在数周内打磨玩法系统。"
+    },
+    "added_at": "2026-10-15",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "planetary-defender-nuke-edition",
+    "title": {
+      "en": "Planetary Defender: Nuke Edition",
+      "zh-CN": "行星保卫者：核爆版"
+    },
+    "summary": {
+      "en": "Defend six cities from alien fighters and missiles with one turret.",
+      "zh-CN": "用一座炮塔抵御外星战机与导弹，守护六座城市。"
+    },
+    "description": {
+      "en": "A 3D arcade defense game with escalating waves, a limited bomb supply, gun overheating and a mothership that can destroy the cities.",
+      "zh-CN": "这款 3D 街机防守游戏包含逐渐增强的敌人波次、有限炸弹、炮塔过热与威胁城市的母舰。"
+    },
+    "creator": "IronDome (GameFoundry)",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Aim and fire at descending fighters, spend bombs on dense attacks, and keep at least one city standing.",
+      "zh-CN": "瞄准并击落来袭战机，在密集攻势时投放炸弹，尽力保住至少一座城市。"
+    },
+    "play_url": "https://www.gamefoundry.net/creations/cmuvwvz6f0001cv4p4kuausdt",
+    "source_url": "https://www.gamefoundry.net/creations/cmuvwvz6f0001cv4p4kuausdt",
+    "x_post_url": "https://x.com/GameFoundryNet/status/2110102301948146154",
+    "cover_alt": {
+      "en": "Turret overlooking San Francisco as the alien mothership arrives in wave one",
+      "zh-CN": "第一波来袭时炮塔俯瞰旧金山与外星母舰"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/planetary-defender-nuke-edition.jpg",
+    "cover_source_url": "https://www.gamefoundry.net/creations/cmuvwvz6f0001cv4p4kuausdt",
+    "ai_use": {
+      "en": "The GameFoundry creation is labeled Prompt to Browser Game, and the creator post credits Claude Opus 5.5 for skyline improvements.",
+      "zh-CN": "GameFoundry 将作品标为“提示词生成网页游戏”，作者原帖称使用 Claude Opus 5.5 改进城市天际线。"
+    },
+    "added_at": "2026-10-15",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "ozomatli",
+    "title": {
+      "en": "Ozomatli",
+      "zh-CN": "奥佐马特利"
+    },
+    "summary": {
+      "en": "Swing, climb and jump through a jungle as a gibbon seeking eight golden glyphs.",
+      "zh-CN": "化身长臂猿，在丛林中摆荡、攀爬和跳跃，寻找八枚金色符文。"
+    },
+    "description": {
+      "en": "A browser 3D platform game demo set in jungle ruins and the Temple of Quetzalcoatl, with vines, towers, enemies and collectibles.",
+      "zh-CN": "这款网页 3D 平台游戏试玩版以丛林遗迹和羽蛇神神庙为背景，包含藤蔓、塔楼、敌人和收集物。"
+    },
+    "creator": "Quetzalcoatl (GameFoundry)",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Explore with WASD and mouse, jump across ruins, collect eight glyphs, and unlock the temple.",
+      "zh-CN": "用 WASD 和鼠标探索、跳过遗迹、收集八枚符文并打开神庙。"
+    },
+    "play_url": "https://www.gamefoundry.net/creations/cmujs9oli000112bctlv030i3",
+    "source_url": "https://www.gamefoundry.net/creations/cmujs9oli000112bctlv030i3",
+    "x_post_url": "https://x.com/GameFoundryNet/status/2110500058420461667",
+    "cover_alt": {
+      "en": "Ozomatli gibbon in a dense jungle with glyph tracker and movement hints",
+      "zh-CN": "《奥佐马特利》中的长臂猿站在丛林里，画面显示符文进度与操作提示"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/ozomatli.jpg",
+    "cover_source_url": "https://www.gamefoundry.net/creations/cmujs9oli000112bctlv030i3",
+    "ai_use": {
+      "en": "The publisher says the free demo was made with Opus 5.5 and Three.js.",
+      "zh-CN": "发布方称这款免费试玩版使用 Opus 5.5 与 Three.js 制作。"
+    },
+    "added_at": "2026-10-15",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "kestrel-nights",
+    "title": {
+      "en": "Kestrel Nights",
+      "zh-CN": "红隼之夜"
+    },
+    "summary": {
+      "en": "Tether swing and glide across a dusk city, chasing beacon rings for points.",
+      "zh-CN": "在黄昏城市中甩出绳索摆荡、展开翼披风滑翔，穿过光环得分。"
+    },
+    "description": {
+      "en": "A browser 3D city flight game with rooftop movement, tethers, gliding, speed and height readouts, and a ring combo score.",
+      "zh-CN": "这款网页 3D 城市飞行游戏包含屋顶移动、绳索摆荡、滑翔、速度与高度显示，以及光环连击计分。"
+    },
+    "creator": "Hasibul Hasan (@hasibdreamer35)",
+    "genre": "action",
+    "gameplay": {
+      "en": "Take flight, run and jump between rooftops, tether to towers, glide across the river, and chain amber rings.",
+      "zh-CN": "起飞后在屋顶间奔跑跳跃、抓住高楼摆荡、滑过河面并连续穿过琥珀色光环。"
+    },
+    "play_url": "https://hasib-kestrel-nights.netlify.app/",
+    "source_url": "https://x.com/hasibdreamer35/status/2110421049544491500",
+    "x_post_url": "https://x.com/hasibdreamer35/status/2110421049544491500",
+    "cover_alt": {
+      "en": "Kestrel Nights character on a rooftop at sunset with flight HUD",
+      "zh-CN": "《红隼之夜》的角色站在日落屋顶，画面显示飞行界面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/kestrel-nights.jpg",
+    "cover_source_url": "https://hasib-kestrel-nights.netlify.app/",
+    "ai_use": {
+      "en": "The creator says the playable Three.js city game was built with Claude Opus in about five hours.",
+      "zh-CN": "作者称使用 Claude Opus 与 Three.js，约五小时制作了这款可玩的城市游戏。"
+    },
+    "added_at": "2026-10-15",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "no-one-lives-forever-browser",
+    "title": {
+      "en": "No One Lives Forever (Browser)",
+      "zh-CN": "无人永生（网页版）"
+    },
+    "summary": {
+      "en": "Play the classic 1960s spy shooter campaign directly in a browser.",
+      "zh-CN": "在浏览器中直接游玩这款经典的 20 世纪 60 年代间谍射击游戏战役。"
+    },
+    "description": {
+      "en": "Brightwork Digital rebuilt a compatible engine in WebAssembly for the original game files, including the single-player missions and Game of the Year content.",
+      "zh-CN": "Brightwork Digital 以 WebAssembly 重建兼容引擎，运行原版游戏文件，包含单人任务和年度版内容。"
+    },
+    "creator": "Brightwork Digital (browser port); Monolith Productions (original game)",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Enter the single-player campaign, choose a mission and difficulty, then explore, sneak and fight as Cate Archer.",
+      "zh-CN": "进入单人战役，选择任务与难度，扮演凯特·阿彻探索、潜行和战斗。"
+    },
+    "play_url": "https://playnolf.com/play/",
+    "source_url": "https://playnolf.com/making-of/",
+    "x_post_url": "https://x.com/dpeyton86/status/2110430900353998892",
+    "cover_alt": {
+      "en": "In-engine snowy opening scene from the browser port of No One Lives Forever",
+      "zh-CN": "《无人永生》网页版引擎渲染的雪地开场场景"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus",
+      "Claude Sonnet"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/no-one-lives-forever-browser.jpg",
+    "cover_source_url": "https://playnolf.com/play/",
+    "ai_use": {
+      "en": "The studio documents a new browser engine written and tested by Claude agents under human direction; it names an Opus supervisor and Sonnet helpers.",
+      "zh-CN": "工作室记录了在人工指导下由 Claude 智能体编写和测试的新网页引擎，并指明使用 Opus 监督与 Sonnet 辅助智能体。"
+    },
+    "added_at": "2026-10-15",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "nouka-yatra",
+    "title": {
+      "en": "Nouka Yatra",
+      "zh-CN": "乘船游孟加拉"
+    },
+    "summary": {
+      "en": "A journey through Bengal with seven cultural mini-games and souvenirs to collect.",
+      "zh-CN": "沿孟加拉河道旅行，体验七个文化主题小游戏并收集纪念品。"
+    },
+    "description": {
+      "en": "The river map links mini-games about sweets, the Sundarbans, alpona painting, kites and Durga Pujo, with a bag to track completed stops.",
+      "zh-CN": "河道地图串联甜品、孙德尔本斯、阿尔波娜彩绘、风筝与杜尔迦节等小游戏，并以背包记录完成的站点。"
+    },
+    "creator": "Sagnik Chakraborty (@csagnik09)",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Start the journey, choose a river stop, complete its timed task and collect a souvenir before moving on.",
+      "zh-CN": "开始旅程后选择河岸站点，完成限时任务，收集纪念品再前往下一站。"
+    },
+    "play_url": "https://csagnik09.github.io/Nouka-Yatra/",
+    "source_url": "https://x.com/csagnik09/status/2110399014843929086",
+    "x_post_url": "https://x.com/csagnik09/status/2110399014843929086",
+    "cover_alt": {
+      "en": "Nouka Yatra sweet shop mini-game with customer order and dessert choices",
+      "zh-CN": "《乘船游孟加拉》的甜品店小游戏，画面显示顾客订单与甜品选项"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/nouka-yatra.jpg",
+    "cover_source_url": "https://csagnik09.github.io/Nouka-Yatra/",
+    "ai_use": {
+      "en": "The creator describes the browser collection as fully vibe coded; no specific model is named.",
+      "zh-CN": "作者称这款网页小游戏合集完全以 vibe coding 制作，但没有指明具体模型。"
+    },
+    "added_at": "2026-10-15",
+    "verified_at": "2026-10-15"
+  },
+  {
+    "id": "orbit-switch",
+    "title": {
+      "en": "Orbit Switch",
+      "zh-CN": "轨道切换"
+    },
+    "summary": {
+      "en": "Flip a comet between two stars to weave through gates and collect stardust.",
+      "zh-CN": "切换彗星受哪颗恒星吸引，穿过障碍门并收集星尘。"
+    },
+    "description": {
+      "en": "A one-button arcade game with a shared daily layout and leaderboard; short taps change gravity while collisions end the run.",
+      "zh-CN": "这款一键街机游戏提供每日统一关卡与排行榜，轻点即可切换引力，撞上障碍则结束本局。"
+    },
+    "creator": "Toolglade",
+    "genre": "casual",
+    "gameplay": {
+      "en": "Tap, click or press Space to flip gravity, pass through asteroid gates, gather stardust and chase a daily score.",
+      "zh-CN": "轻点、点击或按空格切换引力，穿越小行星障碍门、收集星尘并冲击每日高分。"
+    },
+    "play_url": "https://www.toolglade.com/play/orbit-switch",
+    "source_url": "https://www.toolglade.com/learn/ship-a-browser-game-opus",
+    "x_post_url": "https://x.com/Toolglade/status/2110341760585023934",
+    "cover_alt": {
+      "en": "Orbit Switch comet between two glowing stars at the start of a run",
+      "zh-CN": "《轨道切换》开局时，彗星在两颗发光恒星之间穿行"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/orbit-switch.jpg",
+    "cover_source_url": "https://www.toolglade.com/play/orbit-switch",
+    "ai_use": {
+      "en": "Toolglade uses Orbit Switch as its worked example for building a browser game with Claude Code and Opus 5.5.",
+      "zh-CN": "Toolglade 以《轨道切换》作为使用 Claude Code 和 Opus 5.5 制作网页游戏的课程实例。"
+    },
+    "added_at": "2026-10-15",
+    "verified_at": "2026-10-15"
   }
 ]
