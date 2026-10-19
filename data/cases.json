@@ -7631,5 +7631,968 @@
     },
     "added_at": "2026-10-15",
     "verified_at": "2026-10-15"
+  },
+  {
+    "id": "bolt-pit",
+    "title": {
+      "en": "Bolt Pit",
+      "zh-CN": "螺栓深坑"
+    },
+    "summary": {
+      "en": "Fight waves of enemies in a compact 3D arena.",
+      "zh-CN": "在紧凑的 3D 竞技场中迎战一波波敌人。"
+    },
+    "description": {
+      "en": "A browser arena shooter released on CrazyGames, with escalating combat and short runs.",
+      "zh-CN": "这款浏览器竞技场射击游戏已在 CrazyGames 发布，提供逐步升级的战斗与短局挑战。"
+    },
+    "creator": "frederik",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Move, aim and shoot through successive enemy waves.",
+      "zh-CN": "移动、瞄准并射击，撑过连续来袭的敌人。"
+    },
+    "play_url": "https://www.crazygames.com/game/bolt-pit",
+    "source_url": "https://x.com/froessell/status/2110671824279179694",
+    "x_post_url": "https://x.com/froessell/status/2110671824279179694",
+    "cover_alt": {
+      "en": "Bolt Pit playable browser game screen",
+      "zh-CN": "《螺栓深坑》浏览器游戏实景画面"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/bolt-pit.jpg",
+    "cover_source_url": "https://www.crazygames.com/game/bolt-pit",
+    "ai_use": {
+      "en": "The creator says Bolt Pit was built with Claude Code and Three.js; no model version is named.",
+      "zh-CN": "作者称用 Claude Code 与 Three.js 制作，未公布具体模型版本。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "voxeldrop",
+    "title": {
+      "en": "VoxelDrop",
+      "zh-CN": "立体方块坠落"
+    },
+    "summary": {
+      "en": "Rotate a 3D well and clear lines with falling blocks.",
+      "zh-CN": "旋转立体井筒，摆放下落方块并消行。"
+    },
+    "description": {
+      "en": "A challenging browser puzzle that turns the falling-block formula into a three-dimensional well.",
+      "zh-CN": "这款高难度网页解谜游戏把经典下落方块玩法放进三维井筒。"
+    },
+    "creator": "Cubetris",
+    "genre": "puzzle",
+    "gameplay": {
+      "en": "Rotate the well, position falling pieces and complete rows for points.",
+      "zh-CN": "旋转井筒、调整落块位置，拼满整行得分。"
+    },
+    "play_url": "https://www.gamefoundry.net/creations/cmva5sqrn0001a2qhicisvt8g",
+    "source_url": "https://x.com/GameFoundryNet/status/2110878043619418324",
+    "x_post_url": "https://x.com/GameFoundryNet/status/2110878043619418324",
+    "cover_alt": {
+      "en": "VoxelDrop playable browser game screen",
+      "zh-CN": "《立体方块坠落》浏览器游戏实景画面"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/voxeldrop.jpg",
+    "cover_source_url": "https://www.gamefoundry.net/creations/cmva5sqrn0001a2qhicisvt8g",
+    "ai_use": {
+      "en": "GameFoundry publicly describes the game as written with Claude Opus and Three.js.",
+      "zh-CN": "GameFoundry 公开称本作用 Claude Opus 与 Three.js 编写。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "ashen-sanctum",
+    "title": {
+      "en": "Ashen Sanctum",
+      "zh-CN": "灰烬圣殿"
+    },
+    "summary": {
+      "en": "Explore ruined halls and fight as an Ember mage.",
+      "zh-CN": "扮演余烬法师探索废墟，在实时战斗中求生。"
+    },
+    "description": {
+      "en": "A dark isometric action RPG with a hand-built 3D world, enemies and a branching skill tree.",
+      "zh-CN": "这是一款暗黑等距视角动作 RPG，包含手工打造的 3D 世界、敌人与分支技能树。"
+    },
+    "creator": "Pavel",
+    "genre": "role_playing",
+    "gameplay": {
+      "en": "Click to move or attack, hold Shift to stand ground and develop the mage.",
+      "zh-CN": "点击移动或攻击，按住 Shift 原地作战，并培养法师技能。"
+    },
+    "play_url": "https://www.taply.games/games/ashen-sanctum",
+    "source_url": "https://x.com/PashaIGooD/status/2110621288666366358",
+    "x_post_url": "https://x.com/PashaIGooD/status/2110621288666366358",
+    "cover_alt": {
+      "en": "Ashen Sanctum playable browser game screen",
+      "zh-CN": "《灰烬圣殿》浏览器游戏实景画面"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/ashen-sanctum.jpg",
+    "cover_source_url": "https://www.taply.games/games/ashen-sanctum",
+    "ai_use": {
+      "en": "The creator says AI was used to build the game but does not verify a specific model.",
+      "zh-CN": "作者称使用 AI 制作游戏，但未证实具体模型。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "robotaxi-veridia",
+    "title": {
+      "en": "Robotaxi: Veridia",
+      "zh-CN": "维里迪亚无人出租车"
+    },
+    "summary": {
+      "en": "Drive an island city, accept fares and upgrade a robotaxi.",
+      "zh-CN": "驾驶无人出租车穿梭岛城，接单载客并升级车辆。"
+    },
+    "description": {
+      "en": "An open-city taxi game with timed pickups, drop-offs and a garage for vehicle upgrades.",
+      "zh-CN": "这款开放城市出租车游戏包含限时接客、送达乘客和车库升级。"
+    },
+    "creator": "August",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Drive with WASD, accept rides using number keys and follow pickup and drop-off pins.",
+      "zh-CN": "用 WASD 驾驶、数字键接单，驶向接客和送达标记。"
+    },
+    "play_url": "https://robotaxi-veridia.vercel.app/",
+    "source_url": "https://x.com/AugustCastilIo/status/2110743775584899438",
+    "x_post_url": "https://x.com/AugustCastilIo/status/2110743775584899438",
+    "cover_alt": {
+      "en": "Robotaxi: Veridia playable browser game screen",
+      "zh-CN": "《维里迪亚无人出租车》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built",
+      "art_audio"
+    ],
+    "models": [
+      "Claude Opus 5.5",
+      "ElevenLabs v4",
+      "GPT Image 2.5",
+      "Tripo H3.1"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/robotaxi-veridia.jpg",
+    "cover_source_url": "https://robotaxi-veridia.vercel.app/",
+    "ai_use": {
+      "en": "The creator lists Opus 5.5, ElevenLabs v4, GPT Image 2.5 and Tripo H3.1 as tools used for the game.",
+      "zh-CN": "作者明确列出 Opus 5.5、ElevenLabs v4、GPT Image 2.5 与 Tripo H3.1。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "mob-control-swarm-arena",
+    "title": {
+      "en": "Mob Control: Swarm Arena",
+      "zh-CN": "人群控制：蜂群竞技场"
+    },
+    "summary": {
+      "en": "Send units through multiplier gates to overwhelm an enemy citadel.",
+      "zh-CN": "让部队穿过倍增门，压倒敌军并摧毁城堡。"
+    },
+    "description": {
+      "en": "A browser swarm battle inspired by Mob Control, with solo runs, missions and selectable weapons.",
+      "zh-CN": "这款受《Mob Control》启发的网页蜂群对战游戏提供单人关卡、任务与可选武器。"
+    },
+    "creator": "James Harrison",
+    "genre": "strategy",
+    "gameplay": {
+      "en": "Aim the cannon, choose gates and build a larger swarm than the enemy.",
+      "zh-CN": "瞄准炮台、选择增益门，组建比敌军更大的部队。"
+    },
+    "play_url": "https://mob-control-swarm.ai.studio/",
+    "source_url": "https://x.com/0xkodesage/status/2110732361004667242",
+    "x_post_url": "https://x.com/0xkodesage/status/2110732361004667242",
+    "cover_alt": {
+      "en": "Mob Control: Swarm Arena playable browser game screen",
+      "zh-CN": "《人群控制：蜂群竞技场》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/mob-control-swarm-arena.jpg",
+    "cover_source_url": "https://mob-control-swarm.ai.studio/",
+    "ai_use": {
+      "en": "The public game page and original post do not verify a specific AI development role or model.",
+      "zh-CN": "游戏官网与原帖未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "turbo-drifters",
+    "title": {
+      "en": "Turbo Drifters",
+      "zh-CN": "极速漂移手"
+    },
+    "summary": {
+      "en": "Race colorful kart circuits with drifts, items and shortcuts.",
+      "zh-CN": "在彩色卡丁车赛道上漂移、用道具、抄捷径。"
+    },
+    "description": {
+      "en": "A procedural 3D Grand Prix racer with selectable drivers, circuits and difficulty levels.",
+      "zh-CN": "这款程序化 3D 大奖赛竞速游戏可选择车手、赛道与难度。"
+    },
+    "creator": "CrazPlay",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Choose a driver and circuit, then race through corners and use items.",
+      "zh-CN": "选择车手与赛道，过弯漂移并使用道具争取名次。"
+    },
+    "play_url": "https://turbo-drifters.pages.dev/",
+    "source_url": "https://x.com/crazplaydotcom/status/2110725032385409106",
+    "x_post_url": "https://x.com/crazplaydotcom/status/2110725032385409106",
+    "cover_alt": {
+      "en": "Turbo Drifters playable browser game screen",
+      "zh-CN": "《极速漂移手》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/turbo-drifters.jpg",
+    "cover_source_url": "https://turbo-drifters.pages.dev/",
+    "ai_use": {
+      "en": "The creator says Turbo Drifters was made with Gauntlet Loop and Claude, without naming a Claude model.",
+      "zh-CN": "作者称用 Gauntlet Loop 和 Claude 制作，未注明 Claude 的具体型号。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "violent-checkers-nes-edition",
+    "title": {
+      "en": "Violent Checkers: NES Edition",
+      "zh-CN": "暴力跳棋：NES 版"
+    },
+    "summary": {
+      "en": "Play an animated NES-style checkers match against a computer or friend.",
+      "zh-CN": "在 NES 风画面中与电脑或朋友对弈跳棋。"
+    },
+    "description": {
+      "en": "A browser-run NES port of Violent Checkers with music, animation and shared online sessions.",
+      "zh-CN": "这是在浏览器运行的《Violent Checkers》NES 移植版，带有音乐、动画和在线对局。"
+    },
+    "creator": "Benj Edwards",
+    "genre": "strategy",
+    "gameplay": {
+      "en": "Take the red seat, choose one or two players and move pieces to win.",
+      "zh-CN": "坐上红方席位，选择单人或双人模式，移动棋子争胜。"
+    },
+    "play_url": "https://bxfoundry.com/violentcheckersnes/",
+    "source_url": "https://x.com/benjedwards/status/2111101710303150411",
+    "x_post_url": "https://x.com/benjedwards/status/2111101710303150411",
+    "cover_alt": {
+      "en": "Violent Checkers: NES Edition playable browser game screen",
+      "zh-CN": "《暴力跳棋：NES 版》浏览器游戏实景画面"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/violent-checkers-nes-edition.jpg",
+    "cover_source_url": "https://bxfoundry.com/violentcheckersnes/",
+    "ai_use": {
+      "en": "The creator says Claude Opus 5.5 generated the NES port from the original web game.",
+      "zh-CN": "作者称 Claude Opus 5.5 基于原网页游戏生成了 NES 移植版。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "frost-train",
+    "title": {
+      "en": "FROST TRAIN",
+      "zh-CN": "霜冻列车"
+    },
+    "summary": {
+      "en": "Keep a boiler train alive while a tethered mech salvages supplies.",
+      "zh-CN": "派出缆线机甲搜集物资，维持冰原列车的锅炉运转。"
+    },
+    "description": {
+      "en": "A cold-weather survival game about balancing heat, battery charge and a 45-meter tether.",
+      "zh-CN": "这款冰原生存游戏要求玩家管理热量、电池与 45 米缆线。"
+    },
+    "creator": "Alex Vainshtein",
+    "genre": "survival",
+    "gameplay": {
+      "en": "Launch the crab mech for crates, return before power runs out and keep the train warm.",
+      "zh-CN": "放出蟹形机甲拾取补给，在电量耗尽前返回并维持列车温度。"
+    },
+    "play_url": "https://frosttrain.freesoul.games",
+    "source_url": "https://x.com/Alex_Vainshtein/status/2111189651474239733",
+    "x_post_url": "https://x.com/Alex_Vainshtein/status/2111189651474239733",
+    "cover_alt": {
+      "en": "FROST TRAIN playable browser game screen",
+      "zh-CN": "《霜冻列车》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/frost-train.jpg",
+    "cover_source_url": "https://frosttrain.freesoul.games",
+    "ai_use": {
+      "en": "The creator says the browser survival game was built with Claude Opus 5.5.",
+      "zh-CN": "作者称这款网页生存游戏由 Claude Opus 5.5 制作。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "hippo-heist",
+    "title": {
+      "en": "Hippo Heist",
+      "zh-CN": "河马大盗"
+    },
+    "summary": {
+      "en": "Steal bananas, feed a captive leopard and escape the farm.",
+      "zh-CN": "偷香蕉喂食被困的豹子，避开农夫逃离农场。"
+    },
+    "description": {
+      "en": "A 3D stealth game with selectable missions, hazards, health and escape objectives.",
+      "zh-CN": "这款 3D 潜行游戏有多项任务、危险、生命值与撤离目标。"
+    },
+    "creator": "Brian Wagner",
+    "genre": "adventure",
+    "gameplay": {
+      "en": "Sneak through the farm, gather bananas and reach the river after feeding the leopard.",
+      "zh-CN": "潜行穿过农场，收集香蕉、喂饱豹子，再抵达河边撤离。"
+    },
+    "play_url": "https://wickedhardflip.github.io/hippo-heist/",
+    "source_url": "https://x.com/loneherd/status/2111253569802506746",
+    "x_post_url": "https://x.com/loneherd/status/2111253569802506746",
+    "cover_alt": {
+      "en": "Hippo Heist playable browser game screen",
+      "zh-CN": "《河马大盗》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/hippo-heist.jpg",
+    "cover_source_url": "https://wickedhardflip.github.io/hippo-heist/",
+    "ai_use": {
+      "en": "The creator says the game was rebuilt in Claude Code GUI using Opus 5.5.",
+      "zh-CN": "作者称使用 Claude Code GUI 与 Opus 5.5 从头重做本作。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "queryblocks",
+    "title": {
+      "en": "QueryBlocks",
+      "zh-CN": "查询方块"
+    },
+    "summary": {
+      "en": "Solve bakery-themed SQL puzzles by arranging clauses and running queries.",
+      "zh-CN": "排列 SQL 子句并执行查询，完成烘焙主题解谜关卡。"
+    },
+    "description": {
+      "en": "A 36-level learning puzzle with block controls, a real SQL editor and a free introductory tier.",
+      "zh-CN": "这款 36 关学习型解谜游戏提供方块操作、真实 SQL 编辑器和免费的入门关卡。"
+    },
+    "creator": "Vxt",
+    "genre": "puzzle",
+    "gameplay": {
+      "en": "Select fields, filter and sort data, then run a query matching the order slip.",
+      "zh-CN": "选择字段、筛选并排序数据，运行查询以匹配订单要求。"
+    },
+    "play_url": "https://queryblocks.app/",
+    "source_url": "https://x.com/vxty123/status/2111192274986000788",
+    "x_post_url": "https://x.com/vxty123/status/2111192274986000788",
+    "cover_alt": {
+      "en": "QueryBlocks playable browser game screen",
+      "zh-CN": "《查询方块》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/queryblocks.jpg",
+    "cover_source_url": "https://queryblocks.app/",
+    "ai_use": {
+      "en": "The creator says the game was made completely with Claude; no model version is given.",
+      "zh-CN": "作者称游戏完全由 Claude 制作，但未给出具体模型版本。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "rocket-roadster",
+    "title": {
+      "en": "Rocket Roadster",
+      "zh-CN": "火箭跑车"
+    },
+    "summary": {
+      "en": "Launch a Roadster through loops, flips and a row of parked cars.",
+      "zh-CN": "驾驶跑车冲过回环、翻转并越过一排停着的车。"
+    },
+    "description": {
+      "en": "A one-finger stunt game with stages, a leaderboard and landing challenges.",
+      "zh-CN": "这款单指特技游戏包含关卡、排行榜和落地挑战。"
+    },
+    "creator": "Sara Chen",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Hold to accelerate, flip in midair and land without crashing.",
+      "zh-CN": "长按加速，在空中翻转，并争取平稳落地。"
+    },
+    "play_url": "https://rocketroadster.kumodeck.app/",
+    "source_url": "https://x.com/sara_kumodeck/status/2111247723601264831",
+    "x_post_url": "https://x.com/sara_kumodeck/status/2111247723601264831",
+    "cover_alt": {
+      "en": "Rocket Roadster playable browser game screen",
+      "zh-CN": "《火箭跑车》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/rocket-roadster.jpg",
+    "cover_source_url": "https://rocketroadster.kumodeck.app/",
+    "ai_use": {
+      "en": "The creator says she made Rocket Roadster with Opus 5.5.",
+      "zh-CN": "作者明确称使用 Opus 5.5 制作《Rocket Roadster》。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "hoverslam",
+    "title": {
+      "en": "HoverSlam",
+      "zh-CN": "悬浮着陆"
+    },
+    "summary": {
+      "en": "Drive up a curved wall and use cold-gas thrusters to land on a pad.",
+      "zh-CN": "冲上弧形墙壁，利用冷气推进器落到指定平台。"
+    },
+    "description": {
+      "en": "A physics stunt challenge with several landing pads, flight modes and limited compressed air.",
+      "zh-CN": "这款物理特技挑战提供多个着陆平台、飞行模式和有限压缩空气。"
+    },
+    "creator": "Milind S",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Build speed on the wall, release upside down, right the car and manage thrust to land.",
+      "zh-CN": "沿墙加速、倒悬起飞、翻正车身，并控制推力着陆。"
+    },
+    "play_url": "https://hoverslam.xyz",
+    "source_url": "https://x.com/milindlabs/status/2111201458708504760",
+    "x_post_url": "https://x.com/milindlabs/status/2111201458708504760",
+    "cover_alt": {
+      "en": "HoverSlam playable browser game screen",
+      "zh-CN": "《悬浮着陆》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [
+      "Claude Opus 5.5"
+    ],
+    "status": "playable",
+    "cover_url": "/cases/hoverslam.jpg",
+    "cover_source_url": "https://hoverslam.xyz",
+    "ai_use": {
+      "en": "The creator says Opus 5.5 turned a Roadster ramp demo into this game.",
+      "zh-CN": "作者称 Opus 5.5 将 Roadster 坡道演示改造成这款游戏。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "ramp-and-jump",
+    "title": {
+      "en": "Ramp & Jump",
+      "zh-CN": "坡道飞跃"
+    },
+    "summary": {
+      "en": "Climb an inverted ramp and jump traffic with limited compressed air.",
+      "zh-CN": "爬上倒挂坡道，用有限的压缩空气跳过车流。"
+    },
+    "description": {
+      "en": "A physics-driven Roadster challenge that simulates grip, thrust, air reserves and impacts.",
+      "zh-CN": "这款物理驱动的跑车挑战模拟抓地力、推力、气罐余量与碰撞。"
+    },
+    "creator": "Mamadaliyev Abbos",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Hold the throttle up the ramp, land on the road and time each thruster jump.",
+      "zh-CN": "按住油门冲上坡道，落到公路后把握每次推进跳跃的时机。"
+    },
+    "play_url": "https://ramp-and-jump.go-mi.uz/",
+    "source_url": "https://x.com/mamadaliyev202/status/2111176534018900444",
+    "x_post_url": "https://x.com/mamadaliyev202/status/2111176534018900444",
+    "cover_alt": {
+      "en": "Ramp & Jump playable browser game screen",
+      "zh-CN": "《坡道飞跃》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/ramp-and-jump.jpg",
+    "cover_source_url": "https://ramp-and-jump.go-mi.uz/",
+    "ai_use": {
+      "en": "The creator says he built the game with Claude but does not name a model version.",
+      "zh-CN": "作者称用 Claude 制作游戏，但未说明具体型号。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "roadster-launch",
+    "title": {
+      "en": "Roadster Launch",
+      "zh-CN": "跑车发射"
+    },
+    "summary": {
+      "en": "Launch a rocket-powered car, flip it and land past obstacles.",
+      "zh-CN": "发射火箭跑车、空中翻转并越过障碍着陆。"
+    },
+    "description": {
+      "en": "A browser stunt game with launch missions, solo play and a garage.",
+      "zh-CN": "这款网页特技游戏提供发射任务、单人模式与车库。"
+    },
+    "creator": "Nathan",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Start a run, control the launch and thrusters, then land beyond the parked cars.",
+      "zh-CN": "开始挑战，控制发射与推进器，越过停车区后落地。"
+    },
+    "play_url": "https://nathan6609.github.io/roadster-launch/",
+    "source_url": "https://x.com/nathangu76/status/2111216805985370613",
+    "x_post_url": "https://x.com/nathangu76/status/2111216805985370613",
+    "cover_alt": {
+      "en": "Roadster Launch playable browser game screen",
+      "zh-CN": "《跑车发射》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/roadster-launch.jpg",
+    "cover_source_url": "https://nathan6609.github.io/roadster-launch/",
+    "ai_use": {
+      "en": "The public game page and original post do not verify a specific AI development role or model.",
+      "zh-CN": "游戏官网与原帖未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "sky-roadster-thruster-run",
+    "title": {
+      "en": "Sky Roadster: Thruster Run",
+      "zh-CN": "天空跑车：推进挑战"
+    },
+    "summary": {
+      "en": "Fly a Roadster through rings while dodging drones and landing flips.",
+      "zh-CN": "驾驶飞行跑车穿环、躲避无人机并翻转落地。"
+    },
+    "description": {
+      "en": "A free browser flying stunt game hosted on itch.io, with boost, flip and hop controls.",
+      "zh-CN": "这款 itch.io 上的免费网页飞行特技游戏提供加速、翻转和跳跃操作。"
+    },
+    "creator": "Chrono Games",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Steer through rings, boost past drones, flip in the air and keep the run alive.",
+      "zh-CN": "操控方向穿过圆环，加速避开无人机，在空中翻转并尽量延长挑战。"
+    },
+    "play_url": "https://chronogames99.itch.io/sky-roadster",
+    "source_url": "https://x.com/ChronoStagsGame/status/2111234666086949367",
+    "x_post_url": "https://x.com/ChronoStagsGame/status/2111234666086949367",
+    "cover_alt": {
+      "en": "Sky Roadster: Thruster Run playable browser game screen",
+      "zh-CN": "《天空跑车：推进挑战》浏览器游戏实景画面"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/sky-roadster-thruster-run.jpg",
+    "cover_source_url": "https://html-classic.itch.zone/html/19828683/index.html?v=1792261591",
+    "ai_use": {
+      "en": "The public game page and original post do not verify a specific AI development role or model.",
+      "zh-CN": "游戏官网与原帖未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "roadster-thrust",
+    "title": {
+      "en": "Roadster: Thrust",
+      "zh-CN": "跑车：推进"
+    },
+    "summary": {
+      "en": "Clear traffic in a one-button rocket Roadster runner.",
+      "zh-CN": "用单键操控火箭跑车，跃过不断出现的车流。"
+    },
+    "description": {
+      "en": "An endless browser car runner with boost management and a score leaderboard.",
+      "zh-CN": "这款网页无尽跑酷赛车游戏要求管理推进能量并冲击排行榜。"
+    },
+    "creator": "Ibrohim Xasanov",
+    "genre": "racing",
+    "gameplay": {
+      "en": "Press Space or tap to drive, jump over cars and avoid crashes.",
+      "zh-CN": "按空格或轻点驾驶，跳过车辆并避免撞车。"
+    },
+    "play_url": "https://roadster-game-eight.vercel.app/",
+    "source_url": "https://x.com/i_xasanov/status/2111189184874750329",
+    "x_post_url": "https://x.com/i_xasanov/status/2111189184874750329",
+    "cover_alt": {
+      "en": "Roadster: Thrust playable browser game screen",
+      "zh-CN": "《跑车：推进》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/roadster-thrust.jpg",
+    "cover_source_url": "https://roadster-game-eight.vercel.app/",
+    "ai_use": {
+      "en": "The creator describes the game as vibe coded, without naming a model.",
+      "zh-CN": "作者称游戏以 vibe coding 制作，未说明模型。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "riposte-frontline",
+    "title": {
+      "en": "Riposte: Frontline",
+      "zh-CN": "还击：前线"
+    },
+    "summary": {
+      "en": "Fight bots or friends in a browser first-person shooter.",
+      "zh-CN": "在浏览器第一人称射击游戏中对抗机器人或好友。"
+    },
+    "description": {
+      "en": "A multiplayer FPS with solo deathmatch, classes, weapons and mobile controls.",
+      "zh-CN": "这款多人 FPS 包含单人死斗、职业、武器和手机操作。"
+    },
+    "creator": "Aman",
+    "genre": "shooter",
+    "gameplay": {
+      "en": "Choose a solo or multiplayer match, pick a class, aim and shoot.",
+      "zh-CN": "选择单人或多人战局、挑选职业，瞄准并射击。"
+    },
+    "play_url": "https://www.playriposte.com/",
+    "source_url": "https://x.com/mdaman010/status/2111034267572838495",
+    "x_post_url": "https://x.com/mdaman010/status/2111034267572838495",
+    "cover_alt": {
+      "en": "Riposte: Frontline playable browser game screen",
+      "zh-CN": "《还击：前线》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/riposte-frontline.jpg",
+    "cover_source_url": "https://www.playriposte.com/",
+    "ai_use": {
+      "en": "The creator says the game was built almost entirely with AI using Claude Code and Three.js; no model version is named.",
+      "zh-CN": "作者称几乎完全用 AI、Claude Code 与 Three.js 制作，未注明具体模型。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "laser-league-reloaded",
+    "title": {
+      "en": "Laser League: Reloaded",
+      "zh-CN": "激光联盟：重装上阵"
+    },
+    "summary": {
+      "en": "Compete in neon laser arenas against AI or online opponents.",
+      "zh-CN": "在霓虹激光竞技场与 AI 或在线对手对战。"
+    },
+    "description": {
+      "en": "A fan-made browser revival of the laser arena sport, with 2v2 matches and downloadable game data.",
+      "zh-CN": "这款粉丝制作的浏览器激光竞技游戏支持 2v2 对局，首次游玩需下载游戏资源。"
+    },
+    "creator": "Krakovia",
+    "genre": "sports",
+    "gameplay": {
+      "en": "Enter the arena, avoid active laser walls and outlast the opposing team.",
+      "zh-CN": "进入竞技场，避开激活的激光墙，并击败对方队伍。"
+    },
+    "play_url": "https://laserleague.projectzerogame.com",
+    "source_url": "https://x.com/krakovia_evm/status/2111595513569312899",
+    "x_post_url": "https://x.com/krakovia_evm/status/2111595513569312899",
+    "cover_alt": {
+      "en": "Laser League: Reloaded playable browser game screen",
+      "zh-CN": "《激光联盟：重装上阵》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/laser-league-reloaded.jpg",
+    "cover_source_url": "https://laserleague.projectzerogame.com",
+    "ai_use": {
+      "en": "The public game page and original post do not verify a specific AI development role or model.",
+      "zh-CN": "游戏官网与原帖未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "hide-from-chickens",
+    "title": {
+      "en": "Hide From Chickens",
+      "zh-CN": "躲开小鸡"
+    },
+    "summary": {
+      "en": "Collect diamonds as a ladybug while escaping hungry chickens.",
+      "zh-CN": "扮演瓢虫收集钻石，躲开追来的鸡群。"
+    },
+    "description": {
+      "en": "A 3D farm survival game on CrazyGames where chickens hunt the tiny player.",
+      "zh-CN": "这款 CrazyGames 上的 3D 农场生存游戏让玩家化身被鸡群追捕的小瓢虫。"
+    },
+    "creator": "Sval Games",
+    "genre": "survival",
+    "gameplay": {
+      "en": "Move through grass, gather gems and survive the pursuing birds.",
+      "zh-CN": "穿过草丛、拾取宝石，并躲避追逐的鸡。"
+    },
+    "play_url": "https://www.crazygames.com/game/hide-from-chickens-afj",
+    "source_url": "https://x.com/SvalGames/status/2111343676550938688",
+    "x_post_url": "https://x.com/SvalGames/status/2111343676550938688",
+    "cover_alt": {
+      "en": "Hide From Chickens playable browser game screen",
+      "zh-CN": "《躲开小鸡》浏览器游戏实景画面"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/hide-from-chickens.jpg",
+    "cover_source_url": "https://www.crazygames.com/game/hide-from-chickens-afj",
+    "ai_use": {
+      "en": "The public game page and original post do not verify a specific AI development role or model.",
+      "zh-CN": "游戏官网与原帖未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "cupo-cero",
+    "title": {
+      "en": "Cupo Cero",
+      "zh-CN": "零配额"
+    },
+    "summary": {
+      "en": "Fight through Lima streets as a bus driver in a run-and-gun fan game.",
+      "zh-CN": "扮演巴士司机，在利马街头的横版射击战中突围。"
+    },
+    "description": {
+      "en": "A Metal Slug-style browser fan game inspired by extortion and corruption in Lima.",
+      "zh-CN": "这款受利马敲诈与腐败问题启发的网页同人游戏采用《合金弹头》风格。"
+    },
+    "creator": "Ronald Ernesto",
+    "genre": "action",
+    "gameplay": {
+      "en": "Choose a player mode, move, jump and shoot through hostile streets.",
+      "zh-CN": "选择模式后移动、跳跃并射击，闯过危机四伏的街道。"
+    },
+    "play_url": "https://r0n4ldernest0.github.io/cupo-cero-fan-game/",
+    "source_url": "https://x.com/RonaldNicoll/status/2110596133001019773",
+    "x_post_url": "https://x.com/RonaldNicoll/status/2110596133001019773",
+    "cover_alt": {
+      "en": "Cupo Cero playable browser game screen",
+      "zh-CN": "《零配额》浏览器游戏实景画面"
+    },
+    "preview_mode": "iframe",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/cupo-cero.jpg",
+    "cover_source_url": "https://r0n4ldernest0.github.io/cupo-cero-fan-game/",
+    "ai_use": {
+      "en": "The creator explicitly says the game was made with Claude Code; no model version is named.",
+      "zh-CN": "作者明确称用 Claude Code 制作，未注明模型版本。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
+  },
+  {
+    "id": "rocket-yard",
+    "title": {
+      "en": "Rocket Yard",
+      "zh-CN": "火箭工坊"
+    },
+    "summary": {
+      "en": "Build rockets from parts and fly missions from Earth to space.",
+      "zh-CN": "用零件组装火箭，从地球发射并完成太空任务。"
+    },
+    "description": {
+      "en": "A browser rocket builder with historical and imagined vehicles, launch controls and mission goals.",
+      "zh-CN": "这款网页火箭工坊包含历史与虚构载具、发射操作和任务目标。"
+    },
+    "creator": "bobler512",
+    "genre": "simulation",
+    "gameplay": {
+      "en": "Choose a starter rocket or assemble one, launch it and complete flight milestones.",
+      "zh-CN": "选择初始火箭或自行组装，发射并完成飞行里程碑。"
+    },
+    "play_url": "https://bobler512.itch.io/rocket-yard",
+    "source_url": "https://x.com/NaingRichard/status/2111562220715102430",
+    "x_post_url": "https://x.com/NaingRichard/status/2111562220715102430",
+    "cover_alt": {
+      "en": "Rocket Yard playable browser game screen",
+      "zh-CN": "《火箭工坊》浏览器游戏实景画面"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web"
+    ],
+    "ai_roles": [
+      "unverified"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/rocket-yard.jpg",
+    "cover_source_url": "https://bobler512.itch.io/rocket-yard",
+    "ai_use": {
+      "en": "The public game page and original post do not verify a specific AI development role or model.",
+      "zh-CN": "游戏官网与原帖未能证实具体 AI 开发用途或模型。"
+    },
+    "added_at": "2026-10-19",
+    "verified_at": "2026-10-19"
   }
 ]

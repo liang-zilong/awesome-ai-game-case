@@ -190,6 +190,28 @@ Store-only pages, generic platform landing pages, unsupported AI claims, and abs
 | [Nouka Yatra](https://csagnik09.github.io/Nouka-Yatra/) | Casual | AI model unverified | [Play](https://csagnik09.github.io/Nouka-Yatra/) | [Source](https://x.com/csagnik09/status/2110399014843929086) |
 | [Orbit Switch](https://www.toolglade.com/play/orbit-switch) | Casual | Claude Opus 5.5 | [Play](https://www.toolglade.com/play/orbit-switch) | [Source](https://www.toolglade.com/learn/ship-a-browser-game-opus) |
 
+| [Bolt Pit](https://www.crazygames.com/game/bolt-pit) | Shooter | AI model unverified | [Play](https://www.crazygames.com/game/bolt-pit) | [X post](https://x.com/froessell/status/2110671824279179694) |
+| [VoxelDrop](https://www.gamefoundry.net/creations/cmva5sqrn0001a2qhicisvt8g) | Puzzle | Claude Opus | [Play](https://www.gamefoundry.net/creations/cmva5sqrn0001a2qhicisvt8g) | [X post](https://x.com/GameFoundryNet/status/2110878043619418324) |
+| [Ashen Sanctum](https://www.taply.games/games/ashen-sanctum) | Role Playing | AI model unverified | [Play](https://www.taply.games/games/ashen-sanctum) | [X post](https://x.com/PashaIGooD/status/2110621288666366358) |
+| [Robotaxi: Veridia](https://robotaxi-veridia.vercel.app/) | Simulation | Claude Opus 5.5, ElevenLabs v4, GPT Image 2.5, Tripo H3.1 | [Play](https://robotaxi-veridia.vercel.app/) | [X post](https://x.com/AugustCastilIo/status/2110743775584899438) |
+| [Mob Control: Swarm Arena](https://mob-control-swarm.ai.studio/) | Strategy | AI workflow awaits creator confirmation | [Play](https://mob-control-swarm.ai.studio/) | [X post](https://x.com/0xkodesage/status/2110732361004667242) |
+| [Turbo Drifters](https://turbo-drifters.pages.dev/) | Racing | AI model unverified | [Play](https://turbo-drifters.pages.dev/) | [X post](https://x.com/crazplaydotcom/status/2110725032385409106) |
+| [Violent Checkers: NES Edition](https://bxfoundry.com/violentcheckersnes/) | Strategy | Claude Opus 5.5 | [Play](https://bxfoundry.com/violentcheckersnes/) | [X post](https://x.com/benjedwards/status/2111101710303150411) |
+| [FROST TRAIN](https://frosttrain.freesoul.games) | Survival | Claude Opus 5.5 | [Play](https://frosttrain.freesoul.games) | [X post](https://x.com/Alex_Vainshtein/status/2111189651474239733) |
+| [Hippo Heist](https://wickedhardflip.github.io/hippo-heist/) | Adventure | Claude Opus 5.5 | [Play](https://wickedhardflip.github.io/hippo-heist/) | [X post](https://x.com/loneherd/status/2111253569802506746) |
+| [QueryBlocks](https://queryblocks.app/) | Puzzle | AI model unverified | [Play](https://queryblocks.app/) | [X post](https://x.com/vxty123/status/2111192274986000788) |
+| [Rocket Roadster](https://rocketroadster.kumodeck.app/) | Racing | Claude Opus 5.5 | [Play](https://rocketroadster.kumodeck.app/) | [X post](https://x.com/sara_kumodeck/status/2111247723601264831) |
+| [HoverSlam](https://hoverslam.xyz) | Simulation | Claude Opus 5.5 | [Play](https://hoverslam.xyz) | [X post](https://x.com/milindlabs/status/2111201458708504760) |
+| [Ramp & Jump](https://ramp-and-jump.go-mi.uz/) | Racing | AI model unverified | [Play](https://ramp-and-jump.go-mi.uz/) | [X post](https://x.com/mamadaliyev202/status/2111176534018900444) |
+| [Roadster Launch](https://nathan6609.github.io/roadster-launch/) | Racing | AI workflow awaits creator confirmation | [Play](https://nathan6609.github.io/roadster-launch/) | [X post](https://x.com/nathangu76/status/2111216805985370613) |
+| [Sky Roadster: Thruster Run](https://chronogames99.itch.io/sky-roadster) | Racing | AI workflow awaits creator confirmation | [Play](https://chronogames99.itch.io/sky-roadster) | [X post](https://x.com/ChronoStagsGame/status/2111234666086949367) |
+| [Roadster: Thrust](https://roadster-game-eight.vercel.app/) | Racing | AI model unverified | [Play](https://roadster-game-eight.vercel.app/) | [X post](https://x.com/i_xasanov/status/2111189184874750329) |
+| [Riposte: Frontline](https://www.playriposte.com/) | Shooter | AI model unverified | [Play](https://www.playriposte.com/) | [X post](https://x.com/mdaman010/status/2111034267572838495) |
+| [Laser League: Reloaded](https://laserleague.projectzerogame.com) | Sports | AI workflow awaits creator confirmation | [Play](https://laserleague.projectzerogame.com) | [X post](https://x.com/krakovia_evm/status/2111595513569312899) |
+| [Hide From Chickens](https://www.crazygames.com/game/hide-from-chickens-afj) | Survival | AI workflow awaits creator confirmation | [Play](https://www.crazygames.com/game/hide-from-chickens-afj) | [X post](https://x.com/SvalGames/status/2111343676550938688) |
+| [Cupo Cero](https://r0n4ldernest0.github.io/cupo-cero-fan-game/) | Action | AI model unverified | [Play](https://r0n4ldernest0.github.io/cupo-cero-fan-game/) | [X post](https://x.com/RonaldNicoll/status/2110596133001019773) |
+| [Rocket Yard](https://bobler512.itch.io/rocket-yard) | Simulation | AI workflow awaits creator confirmation | [Play](https://bobler512.itch.io/rocket-yard) | [X post](https://x.com/NaingRichard/status/2111562220715102430) |
+
 ## X showcase
 
 | Game | Genre | What is available | Original post |

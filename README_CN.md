@@ -190,6 +190,28 @@
 | [乘船游孟加拉](https://csagnik09.github.io/Nouka-Yatra/) | 休闲 | AI 模型未核实 | [打开游戏](https://csagnik09.github.io/Nouka-Yatra/) | [来源](https://x.com/csagnik09/status/2110399014843929086) |
 | [轨道切换](https://www.toolglade.com/play/orbit-switch) | 休闲 | Claude Opus 5.5 | [打开游戏](https://www.toolglade.com/play/orbit-switch) | [来源](https://www.toolglade.com/learn/ship-a-browser-game-opus) |
 
+| [螺栓深坑](https://www.crazygames.com/game/bolt-pit) | Shooter | AI 模型待核实 | [试玩](https://www.crazygames.com/game/bolt-pit) | [X 原帖](https://x.com/froessell/status/2110671824279179694) |
+| [立体方块坠落](https://www.gamefoundry.net/creations/cmva5sqrn0001a2qhicisvt8g) | Puzzle | Claude Opus | [试玩](https://www.gamefoundry.net/creations/cmva5sqrn0001a2qhicisvt8g) | [X 原帖](https://x.com/GameFoundryNet/status/2110878043619418324) |
+| [灰烬圣殿](https://www.taply.games/games/ashen-sanctum) | Role Playing | AI 模型待核实 | [试玩](https://www.taply.games/games/ashen-sanctum) | [X 原帖](https://x.com/PashaIGooD/status/2110621288666366358) |
+| [维里迪亚无人出租车](https://robotaxi-veridia.vercel.app/) | Simulation | Claude Opus 5.5, ElevenLabs v4, GPT Image 2.5, Tripo H3.1 | [试玩](https://robotaxi-veridia.vercel.app/) | [X 原帖](https://x.com/AugustCastilIo/status/2110743775584899438) |
+| [人群控制：蜂群竞技场](https://mob-control-swarm.ai.studio/) | Strategy | AI 用途待核实 | [试玩](https://mob-control-swarm.ai.studio/) | [X 原帖](https://x.com/0xkodesage/status/2110732361004667242) |
+| [极速漂移手](https://turbo-drifters.pages.dev/) | Racing | AI 模型待核实 | [试玩](https://turbo-drifters.pages.dev/) | [X 原帖](https://x.com/crazplaydotcom/status/2110725032385409106) |
+| [暴力跳棋：NES 版](https://bxfoundry.com/violentcheckersnes/) | Strategy | Claude Opus 5.5 | [试玩](https://bxfoundry.com/violentcheckersnes/) | [X 原帖](https://x.com/benjedwards/status/2111101710303150411) |
+| [霜冻列车](https://frosttrain.freesoul.games) | Survival | Claude Opus 5.5 | [试玩](https://frosttrain.freesoul.games) | [X 原帖](https://x.com/Alex_Vainshtein/status/2111189651474239733) |
+| [河马大盗](https://wickedhardflip.github.io/hippo-heist/) | Adventure | Claude Opus 5.5 | [试玩](https://wickedhardflip.github.io/hippo-heist/) | [X 原帖](https://x.com/loneherd/status/2111253569802506746) |
+| [查询方块](https://queryblocks.app/) | Puzzle | AI 模型待核实 | [试玩](https://queryblocks.app/) | [X 原帖](https://x.com/vxty123/status/2111192274986000788) |
+| [火箭跑车](https://rocketroadster.kumodeck.app/) | Racing | Claude Opus 5.5 | [试玩](https://rocketroadster.kumodeck.app/) | [X 原帖](https://x.com/sara_kumodeck/status/2111247723601264831) |
+| [悬浮着陆](https://hoverslam.xyz) | Simulation | Claude Opus 5.5 | [试玩](https://hoverslam.xyz) | [X 原帖](https://x.com/milindlabs/status/2111201458708504760) |
+| [坡道飞跃](https://ramp-and-jump.go-mi.uz/) | Racing | AI 模型待核实 | [试玩](https://ramp-and-jump.go-mi.uz/) | [X 原帖](https://x.com/mamadaliyev202/status/2111176534018900444) |
+| [跑车发射](https://nathan6609.github.io/roadster-launch/) | Racing | AI 用途待核实 | [试玩](https://nathan6609.github.io/roadster-launch/) | [X 原帖](https://x.com/nathangu76/status/2111216805985370613) |
+| [天空跑车：推进挑战](https://chronogames99.itch.io/sky-roadster) | Racing | AI 用途待核实 | [试玩](https://chronogames99.itch.io/sky-roadster) | [X 原帖](https://x.com/ChronoStagsGame/status/2111234666086949367) |
+| [跑车：推进](https://roadster-game-eight.vercel.app/) | Racing | AI 模型待核实 | [试玩](https://roadster-game-eight.vercel.app/) | [X 原帖](https://x.com/i_xasanov/status/2111189184874750329) |
+| [还击：前线](https://www.playriposte.com/) | Shooter | AI 模型待核实 | [试玩](https://www.playriposte.com/) | [X 原帖](https://x.com/mdaman010/status/2111034267572838495) |
+| [激光联盟：重装上阵](https://laserleague.projectzerogame.com) | Sports | AI 用途待核实 | [试玩](https://laserleague.projectzerogame.com) | [X 原帖](https://x.com/krakovia_evm/status/2111595513569312899) |
+| [躲开小鸡](https://www.crazygames.com/game/hide-from-chickens-afj) | Survival | AI 用途待核实 | [试玩](https://www.crazygames.com/game/hide-from-chickens-afj) | [X 原帖](https://x.com/SvalGames/status/2111343676550938688) |
+| [零配额](https://r0n4ldernest0.github.io/cupo-cero-fan-game/) | Action | AI 模型待核实 | [试玩](https://r0n4ldernest0.github.io/cupo-cero-fan-game/) | [X 原帖](https://x.com/RonaldNicoll/status/2110596133001019773) |
+| [火箭工坊](https://bobler512.itch.io/rocket-yard) | Simulation | AI 用途待核实 | [试玩](https://bobler512.itch.io/rocket-yard) | [X 原帖](https://x.com/NaingRichard/status/2111562220715102430) |
+
 ## X 展示案例
 
 | 游戏 | 类型 | 当前可用内容 | 原始帖子 |
