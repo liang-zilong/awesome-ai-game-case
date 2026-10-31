@@ -8594,5 +8594,50 @@
     },
     "added_at": "2026-10-19",
     "verified_at": "2026-10-19"
+  },
+  {
+    "id": "price-check-dailyplay",
+    "title": {
+      "en": "Price Check by DailyPlay",
+      "zh-CN": "Price Check by DailyPlay 商品价格竞猜"
+    },
+    "summary": {
+      "en": "Estimate historical grocery pack prices with higher/lower clues in daily and unlimited modes.",
+      "zh-CN": "根据高低提示猜历史商品整包价格，支持每日挑战和无限练习。"
+    },
+    "description": {
+      "en": "A free browser estimation game with up to six guesses per round. The shared daily item resets at midnight in America/New_York; unlimited practice is also available. This is DailyPlay's independent implementation, unaffiliated with Costco or the original Costcodle publisher. Prices are attributed historical records, not live store quotes.",
+      "zh-CN": "免费的网页估价游戏，每轮最多猜六次。每日挑战于纽约时间午夜更新，也可无限练习。这是 DailyPlay 的独立实现，与 Costco 或原版 Costcodle 发布者无关联。价格来自注明出处的历史记录，并非实时商店报价。"
+    },
+    "creator": "DailyPlay",
+    "platforms": [
+      "web"
+    ],
+    "genre": "puzzle",
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://dailyplay.org/costcodle/",
+    "source_url": "https://github.com/MaydayV/vibegaming/pull/23",
+    "x_post_url": null,
+    "cover_url": "/cases/price-check-dailyplay.png",
+    "cover_source_url": "https://dailyplay.org/previews/costcodle.png",
+    "cover_alt": {
+      "en": "Price Check unlimited mode showing a grocery pack, price input, and higher/lower guess history.",
+      "zh-CN": "Price Check 无限模式，展示商品包装规格、价格输入框和高低提示记录。"
+    },
+    "gameplay": {
+      "en": "Guess the whole pack price in US dollars. Higher/lower feedback narrows the range; within 5% wins. Six distinct valid guesses per round.",
+      "zh-CN": "输入整包商品的美元价格，根据高低提示缩小范围；误差在 5% 内获胜。每轮最多六次有效且不同的猜测。"
+    },
+    "ai_use": {
+      "en": "DailyPlay's authorized representative confirms OpenAI Codex-assisted implementation and gameplay tests. Conventional JavaScript gameplay; no runtime generative AI or verified model version.",
+      "zh-CN": "DailyPlay 授权代表确认使用 OpenAI Codex 辅助实现及玩法测试。游戏采用常规 JavaScript，没有运行时生成式 AI，未声明具体模型版本。"
+    },
+    "preview_mode": "none",
+    "added_at": "2026-10-31",
+    "verified_at": "2026-10-31"
   }
 ]
