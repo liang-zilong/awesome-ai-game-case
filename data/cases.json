@@ -8594,5 +8594,50 @@
     },
     "added_at": "2026-10-19",
     "verified_at": "2026-10-19"
+  },
+  {
+    "id": "crowd-pick",
+    "title": {
+      "en": "Crowd Pick",
+      "zh-CN": "Crowd Pick 人气答案竞猜"
+    },
+    "summary": {
+      "en": "Guess the top-ranked answer in a round of seven untimed survey-style questions.",
+      "zh-CN": "每轮七道不限时的调查式题目，猜出人气最高的答案。"
+    },
+    "description": {
+      "en": "A free browser trivia quiz with four choices per question, an answer reveal and a running score. New rounds sample prompts from the question bank. Crowd Pick is the original practice board from Noillirk.best. The same page separately embeds Noillirk Daily by Daily Games.",
+      "zh-CN": "免费的网页问答小游戏。每题有四个选项，选完后公布排名并累计得分。新一轮会从题库重新抽题。Crowd Pick 是 Noillirk.best 的原创练习区，同页另有 Daily Games 的 Noillirk Daily 播放器。"
+    },
+    "creator": "noillirkbest",
+    "platforms": [
+      "web"
+    ],
+    "genre": "puzzle",
+    "ai_roles": [
+      "ai_built"
+    ],
+    "models": [],
+    "status": "playable",
+    "play_url": "https://noillirk.best/#practice",
+    "source_url": "https://vibegamer.io/game/crowd-pick",
+    "x_post_url": null,
+    "cover_url": "/cases/crowd-pick.png",
+    "cover_source_url": "https://cdn.vibegamer.io/submissions/c1fde723-bbd7-4177-9b04-d407fbae5852-crowd-pick-gameplay.png",
+    "cover_alt": {
+      "en": "Crowd Pick practice board showing the first question, its four choices and the score.",
+      "zh-CN": "Crowd Pick 练习区的第一道题、四个选项和分数。"
+    },
+    "gameplay": {
+      "en": "Choose the answer you expect most people would give. The board reveals the editorial top pick, awards points by rank, and lets you continue through all seven prompts. Replay starts a fresh round.",
+      "zh-CN": "选择你认为最多人会给出的答案。系统公布编辑设定的人气排名，并按所选答案的排名给分。答完七题后可以重开一轮。"
+    },
+    "ai_use": {
+      "en": "Codex implemented the original browser quiz, including prompt sampling, choice shuffling and scoring. The game runs as conventional JavaScript. The exact model version was not recorded.",
+      "zh-CN": "Codex 编写了原创网页问答，涵盖抽题、选项乱序和计分。游戏通过常规 JavaScript 运行，具体模型版本未记录。"
+    },
+    "preview_mode": "none",
+    "added_at": "2026-11-19",
+    "verified_at": "2026-11-19"
   }
 ]
