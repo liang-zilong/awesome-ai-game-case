@@ -8594,5 +8594,53 @@
     },
     "added_at": "2026-10-19",
     "verified_at": "2026-10-19"
+  },
+  {
+    "id": "worldai-story-rpg",
+    "title": {
+      "en": "WorldAI: Story RPG",
+      "zh-CN": "WorldAI：剧情角色扮演"
+    },
+    "summary": {
+      "en": "A solo AI tabletop RPG. Play as Julius Caesar after he survives the Ides of March.",
+      "zh-CN": "一款由 AI 担任主持人的单人桌面角色扮演游戏。从凯撒躲过三月十五日的刺杀开始，改写罗马历史。"
+    },
+    "description": {
+      "en": "Step into an alternate-history campaign or create your own. Play Caesar in Rome, with branching decisions, dice rolls, illustrated scenes, and a saved campaign.",
+      "zh-CN": "进入架空历史战役，或创建自己的冒险。在罗马扮演凯撒，体验不同选择、掷骰判定与场景插画，进度会保存。"
+    },
+    "creator": "Jeffrey Lee-Chan",
+    "genre": "role_playing",
+    "gameplay": {
+      "en": "Choose a suggested move or type your own. You can also step out of character in God Mode to change the campaign. Browser play requires sign-in.",
+      "zh-CN": "选择推荐行动，也可以输入自己的做法。在上帝模式中，你可以跳出角色调整战役。浏览器游玩需要登录。"
+    },
+    "play_url": "https://worldrpg.ai/shared/k1jETk9GH5rMhRjQj-68_oF94a9k1-6PlWcy7bFc334?utm_source=aigamecase&utm_medium=referral&utm_campaign=worldai_ios_launch&utm_content=rome_caesar",
+    "source_url": "https://github.com/jleechanorg/worldarchitect.ai",
+    "x_post_url": null,
+    "cover_alt": {
+      "en": "Actual WorldAI gameplay screenshot of Caesar speaking at the Roman Forum, with the Paper interface and action controls visible",
+      "zh-CN": "WorldAI 实际游玩截图：凯撒在罗马广场演说，可见纸质风格界面和行动按钮。"
+    },
+    "preview_mode": "none",
+    "platforms": [
+      "web",
+      "mobile"
+    ],
+    "ai_roles": [
+      "ai_built",
+      "npc",
+      "art_audio"
+    ],
+    "models": [],
+    "status": "playable",
+    "cover_url": "/cases/worldai-story-rpg.jpg",
+    "cover_source_url": "https://worldrpg.ai/shared/k1jETk9GH5rMhRjQj-68_oF94a9k1-6PlWcy7bFc334",
+    "ai_use": {
+      "en": "AI assisted development and generates scene illustrations. During play, a live AI game master narrates consequences and plays other characters. No single model is claimed for all play.",
+      "zh-CN": "AI 辅助开发并生成场景插画。游玩时，实时 AI 主持人叙述行动后果并扮演其他角色。不限定为某个模型。"
+    },
+    "added_at": "2026-11-24",
+    "verified_at": "2026-11-24"
   }
 ]
